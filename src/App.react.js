@@ -1,5 +1,8 @@
 import React, { Component } from 'react';
 import { auth, database } from './firebase';
+import SignIn from './SignIn.react';
+import CurrentUser from './CurrentUser.react';
+
 import './App.css';
 
 class App extends Component {
