@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import { database } from './firebase';
+import { auth, database } from './firebase';
 import './App.css';
 
 class App extends Component {
@@ -7,7 +7,8 @@ class App extends Component {
     super(props);
     this.state = {
       data: null,
-      newNote: ''
+      newNote: '',
+      currentUser: null
     };
 
     this.handleSubmit = this.handleSubmit.bind(this);
@@ -16,7 +17,13 @@ class App extends Component {
   }
 
   componentDidMount() {
-    database.ref().on('value', (snapshot) => {
+    auth.onAuthStateChanged((currentUser) => {
+      this.setState({currentUser});
+    });
+
+    this.dataRef = database.ref('/garden');
+    this.dataRef.on('value', (snapshot) => {
+
       this.setState({
         data: snapshot.val()
       });
@@ -38,10 +45,16 @@ class App extends Component {
   }
 
   render () {
+    const { currentUser } = this.state.currentUser;
     return (
       <div id='app-container'>
-        <h1>Gardenia</h1>
-
+        <header className='nav-bar'>
+          <h1>Gardenia</h1>
+          <div>
+            { !currentUser && <SignIn /> }
+            { currentUser && <CurrentUser user={currentUser} /> }
+          </div>
+        </header>
         <section>
           { JSON.stringify(this.state.data, null, 5) }
         </section>
