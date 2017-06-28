@@ -1,8 +1,9 @@
 import React, { Component } from 'react';
 import { auth, database } from './firebase';
+
 import SignIn from './SignIn.react';
 import CurrentUser from './CurrentUser.react';
-
+import NewNote from './NewNote.react'
 import './App.css';
 
 class App extends Component {
@@ -14,8 +15,8 @@ class App extends Component {
       currentUser: null
     };
 
-    this.handleSubmit = this.handleSubmit.bind(this);
-    this.handleChange = this.handleChange.bind(this);
+    this.dataRef = database.ref();
+  
 
   }
 
@@ -24,7 +25,6 @@ class App extends Component {
       this.setState({currentUser});
     });
 
-    this.dataRef = database.ref('/garden');
     this.dataRef.on('value', (snapshot) => {
 
       this.setState({
@@ -33,39 +33,45 @@ class App extends Component {
     });
   }
 
-  handleChange(event) {
-    console.log(event.target.value);
-    const newNote = event.target.value;
-
-    this.setState({
-      newNote
-    })
-  }
-
-  handleSubmit(event) {
-    event.preventDefault();
-    database.ref('/garden').push(this.state.newNote);
-  }
+  // handleChange(event) {
+  //   console.log(event.target.value);
+  //   const newNote = event.target.value;
+  //
+  //   this.setState({
+  //     newNote
+  //   })
+  // }
+  //
+  // handleSubmit(event) {
+  //   event.preventDefault();
+  //   database.ref('/garden').push(this.state.newNote);
+  // }
 
   render () {
-    const { currentUser } = this.state.currentUser;
+    const { currentUser } = this.state;
     return (
       <div id='app-container'>
         <header className='nav-bar'>
           <h1>Gardenia</h1>
           <div>
             { !currentUser && <SignIn /> }
+
             { currentUser && <CurrentUser user={currentUser} /> }
           </div>
         </header>
+
+{/*turn section and form into own components*/ }
+
         <section>
           { JSON.stringify(this.state.data, null, 5) }
         </section>
-        <form className='Garden-notes-form' onSubmit={this.handleSubmit}>
-          <input className='notes-body' type='text' value={this.state.newNote} onChange={this.handleChange} />
-          <input type='submit' />
-        </form>
-      </div>
+        <div>
+        currentUser &&
+
+            <NewNote
+              handleSubmit = { this.state }/>
+          </div>
+        </div>
     )
   }
 }

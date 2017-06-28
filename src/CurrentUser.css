@@ -1,0 +1,9 @@
+.CurrentUser-photo {
+  max-width: 30%;
+  flex-grow: 1 1;
+  border-radius: 45%;
+}
+
+.CurrentUser-identification {
+  border: 1 solid black;
+}
