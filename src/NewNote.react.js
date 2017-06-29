@@ -1,5 +1,6 @@
 import React, { Component } from 'react';
-import { database } from 'firebase';
+import { database } from './firebase';
+import PropTypes from 'prop-types';
 import CurrentUser from './CurrentUser.react';
 
 class NewNote extends Component {
@@ -9,18 +10,10 @@ class NewNote extends Component {
       note: ''
     }
     {/*notes in journal*/}
-    this.journalRef = database.ref('/journal')
-    this.handleSubmit = this.handleSubmit.bind(this);
+    this.journalRef = database.ref('/journal');
     this.handleChange = this.handleChange.bind(this);
-  }
+    this.handleSubmit = this.handleSubmit.bind(this);
 
-  componentDidMount() {
-    database.ref().on('value', (snapshot) => {
-      console.log('component mounted! Doooope');
-      this.setState({
-        note: snapshot.val()
-      });
-    });
   }
 
   handleChange(event) {
@@ -34,8 +27,7 @@ class NewNote extends Component {
 
   handleSubmit(event) {
     event.preventDefault();
-    console.log(event);
-    database.ref().push(this.state.note);
+    this.journalRef.push({note: this.state.note});
   }
 
   render() {
@@ -44,7 +36,6 @@ class NewNote extends Component {
 
       <form
         className='Garden-notes-form'
-        onSubmit={this.handleSubmit}
         >
         <input
           className='notes-body'
@@ -54,7 +45,8 @@ class NewNote extends Component {
           placeholder="Add notes here."
         />
         <button
-          type='submit'
+          onSubmit={this.handleSubmit}
+          disabled={!note}
         >
         Add note
         </button>
@@ -62,6 +54,10 @@ class NewNote extends Component {
 
     )
   }
+}
+
+NewNote.propTypes = {
+  journalRef: PropTypes.object
 }
 
 export default NewNote;

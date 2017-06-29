@@ -1,54 +1,43 @@
 import React, { Component } from 'react';
 import { auth, database } from './firebase';
-
+import map from 'lodash/map';
 import SignIn from './SignIn.react';
 import CurrentUser from './CurrentUser.react';
-import NewNote from './NewNote.react'
+import NewNote from './NewNote.react';
+import Notes from './Notes.react';
 import './App.css';
 
 class App extends Component {
   constructor(props) {
     super(props);
     this.state = {
-      data: null,
-      newNote: '',
+      notes: null,
       currentUser: null
     };
 
-    this.dataRef = database.ref();
-  
+    this.journalRef = database.ref('/journal');
+    // this.handleSubmit = this.handleSubmit.bind(this);
+    // this.handleChange = this.handleChange.bind(this);
 
   }
 
   componentDidMount() {
     auth.onAuthStateChanged((currentUser) => {
       this.setState({currentUser});
-    });
 
-    this.dataRef.on('value', (snapshot) => {
 
-      this.setState({
-        data: snapshot.val()
+      this.journalRef.on('value', (snapshot) => {
+        console.log('component mounted! Doooope');
+        console.log(snapshot.val());
+        this.setState({
+          notes: snapshot.val()
+        });
       });
     });
   }
 
-  // handleChange(event) {
-  //   console.log(event.target.value);
-  //   const newNote = event.target.value;
-  //
-  //   this.setState({
-  //     newNote
-  //   })
-  // }
-  //
-  // handleSubmit(event) {
-  //   event.preventDefault();
-  //   database.ref('/garden').push(this.state.newNote);
-  // }
-
   render () {
-    const { currentUser } = this.state;
+    const { currentUser, notes } = this.state;
     return (
       <div id='app-container'>
         <header className='nav-bar'>
@@ -61,17 +50,15 @@ class App extends Component {
         </header>
 
 {/*turn section and form into own components*/ }
-
-        <section>
-          { JSON.stringify(this.state.data, null, 5) }
-        </section>
-        <div>
-        currentUser &&
-
-            <NewNote
-              handleSubmit = { this.state }/>
-          </div>
-        </div>
+        {
+          currentUser &&
+          <div>
+            <NewNote />
+              { map(notes, (note, key) => <p key={key}>{note}</p>) }
+              <Notes />
+            </div>
+        }
+      </div>
     )
   }
 }
