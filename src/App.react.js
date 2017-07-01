@@ -10,15 +10,13 @@ import './App.css';
 class App extends Component {
   constructor(props) {
     super(props);
+
     this.state = {
       notes: null,
       currentUser: null
     };
 
     this.journalRef = database.ref('/journal');
-    // this.handleSubmit = this.handleSubmit.bind(this);
-    // this.handleChange = this.handleChange.bind(this);
-
   }
 
   componentDidMount() {
@@ -50,14 +48,11 @@ class App extends Component {
         </header>
 
 {/*turn section and form into own components*/ }
-        {
-          currentUser &&
-          <div>
-            <NewNote />
-              { map(notes, (note, key) => <p key={key}>{note}</p>) }
-              <Notes />
-            </div>
-        }
+        <div>
+          <NewNote />
+            { map(notes, (note, key) => <p key={key}>{note}</p>) }
+            <Notes />
+          </div>
       </div>
     )
   }

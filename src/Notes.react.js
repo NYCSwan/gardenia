@@ -3,6 +3,10 @@ import PropTypes from 'prop-types';
 import { database } from 'firebase';
 
 class Notes extends Component {
+  constructor(props) {
+    super(props);
+  }
+  
   render() {
     return (
       <section className='notes'>

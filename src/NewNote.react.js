@@ -8,8 +8,7 @@ class NewNote extends Component {
     super();
     this.state = {
       note: ''
-    }
-    {/*notes in journal*/}
+    };
     this.journalRef = database.ref('/journal');
     this.handleChange = this.handleChange.bind(this);
     this.handleSubmit = this.handleSubmit.bind(this);
@@ -17,7 +16,6 @@ class NewNote extends Component {
   }
 
   handleChange(event) {
-    console.log(event.target.value);
     const newNote = event.target.value;
 
     this.setState({
@@ -26,8 +24,10 @@ class NewNote extends Component {
   }
 
   handleSubmit(event) {
+    console.log(`note: ${this.state.note}`);
     event.preventDefault();
     this.journalRef.push({note: this.state.note});
+
   }
 
   render() {
@@ -36,6 +36,7 @@ class NewNote extends Component {
 
       <form
         className='Garden-notes-form'
+        onSubmit={this.handleSubmit}
         >
         <input
           className='notes-body'
@@ -45,7 +46,6 @@ class NewNote extends Component {
           placeholder="Add notes here."
         />
         <button
-          onSubmit={this.handleSubmit}
           disabled={!note}
         >
         Add note
