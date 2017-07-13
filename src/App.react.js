@@ -4,7 +4,8 @@ import map from 'lodash/map';
 import SignIn from './SignIn.react';
 import CurrentUser from './CurrentUser.react';
 import NewNote from './NewNote.react';
-import Notes from './Notes.react';
+import Journal from './Journal.react';
+import Note from './Note.react';
 import './App.css';
 
 class App extends Component {
@@ -12,19 +13,19 @@ class App extends Component {
     super(props);
 
     this.state = {
-      notes: null,
-      currentUser: null
+      journal: null,
+      currentUser: null,
+      notes: []
     };
 
     this.journalRef = database.ref('/journal');
   }
 
   componentDidMount() {
-    auth.onAuthStateChanged((currentUser) => {
-      this.setState({currentUser});
+    auth.onAuthStateChanged(currentUser => {
+      this.setState({ currentUser });
 
-
-      this.journalRef.on('value', (snapshot) => {
+      this.journalRef.on('value', snapshot => {
         console.log('component mounted! Doooope');
         console.log(snapshot.val());
         this.setState({
@@ -34,27 +35,26 @@ class App extends Component {
     });
   }
 
-  render () {
+  render() {
     const { currentUser, notes } = this.state;
     return (
-      <div id='app-container'>
-        <header className='nav-bar'>
+      <div id="app-container">
+        <header className="nav-bar">
           <h1>Gardenia</h1>
           <div>
-            { !currentUser && <SignIn /> }
+            {!currentUser && <SignIn />}
 
-            { currentUser && <CurrentUser user={currentUser} /> }
+            {currentUser && <CurrentUser user={currentUser} />}
           </div>
         </header>
 
-{/*turn section and form into own components*/ }
+        {/*turn section and form into own components*/}
         <div>
           <NewNote />
-            { map(notes, (note, key) => <p key={key}>{note}</p>) }
-            <Notes />
-          </div>
+          <Journal />
+        </div>
       </div>
-    )
+    );
   }
 }
 
