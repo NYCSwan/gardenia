@@ -1,6 +1,7 @@
 import React from 'react';
 import PropTypes from 'prop-types';
 import { auth } from './firebase';
+import './CurrentUser.css'
 
 // user gets passed into CU from App.react
 const CurrentUser = ({ user }) => {
@@ -13,7 +14,6 @@ const CurrentUser = ({ user }) => {
       />
       <div className="CurrentUser-identification">
         <h3>{ user.displayName }</h3>
-        <p>{ user.email }</p>
         <button onClick={() => auth.signOut() }>
           Sign Out
         </button>
