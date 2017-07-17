@@ -17,21 +17,24 @@ class App extends Component {
       currentUser: null,
       notes: []
     };
-
+    this.noteRef = database.ref('/note');
     this.journalRef = database.ref('/journal');
+    /*gardendb*/
   }
 
   componentDidMount() {
     auth.onAuthStateChanged(currentUser => {
       this.setState({ currentUser });
 
-      this.journalRef.on('value', snapshot => {
+      this.noteRef.on('value', snapshot => {
         console.log('component mounted! Doooope');
-        console.log(snapshot.val());
+        console.log(`note: ${snapshot.val()}`);
         this.setState({
           notes: snapshot.val()
         });
       });
+
+      this.notesRef.on('value',)
     });
   }
 

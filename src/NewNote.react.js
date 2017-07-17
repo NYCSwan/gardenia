@@ -2,6 +2,7 @@ import React, { Component } from 'react';
 import { database } from './firebase';
 import PropTypes from 'prop-types';
 import CurrentUser from './CurrentUser.react';
+import DropDown from './core/DropDown.react';
 
 class NewNote extends Component {
   constructor() {
@@ -9,7 +10,7 @@ class NewNote extends Component {
     this.state = {
       note: ''
     };
-    this.journalRef = database.ref('/journal');
+    this.noteRef = database.ref('/note');
     this.handleChange = this.handleChange.bind(this);
     this.handleSubmit = this.handleSubmit.bind(this);
   }
@@ -25,7 +26,7 @@ class NewNote extends Component {
   handleSubmit(event) {
     console.log(`note: ${this.state.note}`);
     event.preventDefault();
-    this.journalRef.push({ note: this.state.note });
+    this.noteRef.push({ note: this.state.note });
   }
 
   render() {
@@ -46,7 +47,7 @@ class NewNote extends Component {
 }
 
 NewNote.propTypes = {
-  journalRef: PropTypes.object
+  noteRef: PropTypes.object
 };
 
 export default NewNote;
