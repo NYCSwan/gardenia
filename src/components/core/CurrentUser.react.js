@@ -1,7 +1,7 @@
 import React from 'react';
 import PropTypes from 'prop-types';
 import { auth } from './firebase';
-import './CurrentUser.css'
+import './CurrentUser.css';
 
 // user gets passed into CU from App.react
 const CurrentUser = ({ user }) => {
@@ -9,14 +9,14 @@ const CurrentUser = ({ user }) => {
     <div className="CurrentUser">
       <img
         className="CurrentUser-photo"
-        alt={ user.displayName }
-        src={ user.photoURL }
+        alt={user.displayName}
+        src={user.photoURL}
       />
       <div className="CurrentUser-identification">
-        <h3>{ user.displayName }</h3>
-        <button onClick={() => auth.signOut() }>
-          Sign Out
-        </button>
+        <h3>
+          {user.displayName}
+        </h3>
+        <button onClick={() => auth.signOut()}>Sign Out</button>
       </div>
     </div>
   );

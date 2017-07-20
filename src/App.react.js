@@ -1,11 +1,14 @@
 import React, { Component } from 'react';
-import { auth, database } from './firebase';
 import map from 'lodash/map';
-import SignIn from './SignIn.react';
-import CurrentUser from './CurrentUser.react';
-import NewNote from './NewNote.react';
-import Journal from './Journal.react';
-import Note from './Note.react';
+
+import { auth, database } from './components/core/firebase';
+import CurrentUser from './components/core/CurrentUser.react';
+import SignIn from './components/common/SignIn.react';
+
+import Header from './components/common/Header.react';
+import NewNote from './components/note/NewNote.react';
+import Journal from './components/journal/Journal.react';
+import Notes from './components/note/Notes.react';
 import './App.css';
 
 class App extends Component {
@@ -17,7 +20,7 @@ class App extends Component {
       currentUser: null,
       notes: []
     };
-
+    this.noteRef = database.ref('/note');
     this.journalRef = database.ref('/journal');
   }
 
@@ -34,24 +37,21 @@ class App extends Component {
       });
     });
   }
-
+  componentWillUnmount() {}
   render() {
-    const { currentUser, notes } = this.state;
+    const { currentUser, notes, journal } = this.state;
     return (
       <div id="app-container">
-        <header className="nav-bar">
-          <h1>Gardenia</h1>
-          <div>
-            {!currentUser && <SignIn />}
-
-            {currentUser && <CurrentUser user={currentUser} />}
-          </div>
-        </header>
-
         {/*turn section and form into own components*/}
         <div>
-          <NewNote />
-          <Journal />
+          <Header currentUser={currentUser} title="homepage timeline" />
+          <NewNote
+            bodyVisible={this.state.noteBodyVisible}
+            handleNoteSubmit={this.handleSubmitNote}
+            addNote={this.addItem}
+          />
+          {currentUser && <Journal />}
+          <Notes />
         </div>
       </div>
     );

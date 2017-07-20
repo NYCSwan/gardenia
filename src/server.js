@@ -1,4 +1,5 @@
 'use strict';
+
 const express = require('express');
 const bodyParser = require('bodyParser');
 const reactfire = require('reactfire');
