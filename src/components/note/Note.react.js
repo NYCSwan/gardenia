@@ -31,4 +31,5 @@ const noteSamples = [
     garden: 'garden 2 id here'
   }
 ];
+
 export default Note;

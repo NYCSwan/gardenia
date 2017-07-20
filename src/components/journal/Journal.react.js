@@ -14,7 +14,7 @@ class Journal extends Component {
     return (
       <div className="journal">
         <h3> My Journal</h3>
-        {}
+
         <Notes />
       </div>
     );
