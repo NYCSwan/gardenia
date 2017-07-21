@@ -20,7 +20,7 @@ class Header extends Component {
             </NavLink>
           </li>
           <li>
-            <NavLink to="/note" activeClassName="active">
+            <NavLink to="/notes" activeClassName="active">
               Notes
             </NavLink>
           </li>

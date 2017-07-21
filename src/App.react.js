@@ -10,6 +10,7 @@ import SignIn from './components/common/SignIn.react';
 import Header from './components/common/Header.react';
 import HomePage from './components/home/HomePage.react';
 import Journal from './components/journal/Journal.react';
+import Notes from './components/note/Notes.react';
 
 import './App.css';
 
@@ -18,17 +19,22 @@ class App extends Component {
     super(props);
 
     this.state = {
-      journal: null,
       currentUser: null,
       title: 'title',
       notes: []
     };
     this.noteRef = database.ref('/note');
-    this.journalRef = database.ref('/journal');
   }
-
+  componentWillMount() {
+    auth.onAuthStateChanged(currentUser => {
+      this.setState({ currentUser });
+      this.noteRef.on('value', snapshot => {
+        console.log(`HomePage: ${snapshot.val()}`);
+      });
+    });
+  }
   render() {
-    const { currentUser, notes, journal, title } = this.state;
+    const { currentUser, notes, title } = this.state;
 
     return (
       <div id="app-container">
@@ -38,6 +44,7 @@ class App extends Component {
             <Header currentUser={currentUser} title={title} />
             <Route exact path="/" component={HomePage} />
             <Route path="/journal" component={Journal} />
+            <Route path="/notes" component={Notes} />
           </div>
         </Router>
 

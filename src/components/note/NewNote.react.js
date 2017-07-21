@@ -1,4 +1,6 @@
 import React, { Component } from 'react';
+import { Link } from 'react-router-dom';
+
 import { database } from '../core/firebase';
 import PropTypes from 'prop-types';
 import CurrentUser from '../core/CurrentUser.react';
@@ -53,6 +55,9 @@ class NewNote extends Component {
           {this.state.date.toLocaleTimeString()}
           <button disabled={!note}>Add note</button>
         </form>
+        <Link to="/journal" className="btn btn-primary btn-lg">
+          Go to your journal
+        </Link>
       </div>
     );
   }
