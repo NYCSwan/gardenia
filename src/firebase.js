@@ -1,7 +1,7 @@
 import firebase from 'firebase';
 
 // Initialize Firebase
-var config = {
+const config = {
   apiKey: "AIzaSyCmWGnSUnz12rj-06NqFz_d9p-YnTQse88",
   authDomain: "gardenia-ddbf8.firebaseapp.com",
   databaseURL: "https://gardenia-ddbf8.firebaseio.com",
