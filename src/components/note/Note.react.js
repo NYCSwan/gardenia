@@ -3,17 +3,17 @@ import { database, auth, userId } from '../core/firebase';
 import PropTypes from 'prop-types';
 
 class Note extends Component {
-  constructor(props) {
-    super();
-    this.state = this._getState(props);
-  }
   render() {
     const userId = auth.currentUser.uid;
+    const { body } = this.props;
+
     return (
       <div className="note-info media-body">
         <div className="note-body">
           <h4>Note Title</h4>
-          <p>note body</p>
+          <p>
+            {body}
+          </p>
           <p>date</p>
           <p>garden</p>
         </div>
@@ -21,5 +21,9 @@ class Note extends Component {
     );
   }
 }
+
+Note.propTypes = {
+  body: PropTypes.string
+};
 
 export default Note;

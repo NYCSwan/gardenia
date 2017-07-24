@@ -33,7 +33,7 @@ class App extends Component {
       this.setState({ currentUser });
 
       this.notesRef.on('value', snapshot => {
-        console.log(`HomePage note: ${snapshot.val()}`);
+        console.log(`App note: ${snapshot.val()}`);
         this.setState({ notes: snapshot.val() });
       });
     });

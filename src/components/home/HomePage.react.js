@@ -10,25 +10,23 @@ import NewNote from '../note/NewNote.react';
 class HomePage extends Component {
   constructor(props) {
     super(props);
+
     this.state = {
       currentUser: null,
-      notes: [],
+      notes: null,
       title: 'Home Page'
     };
+
     this.journalRef = database.ref('/journal');
-    this.noteRef = database.ref('/note');
+    this.notesRef = database.ref('/notes');
   }
 
   componentDidMount() {
-    auth.onAuthStateChanged(currentUser => {
-      this.setState({ currentUser });
-
-      this.journalRef.on('value', snapshot => {
-        console.log('component mounted! Doooope');
-        console.log(`HomePage: ${snapshot.val()}`);
-        this.setState({
-          notes: snapshot.val()
-        });
+    this.notesRef.on('value', snapshot => {
+      console.log('component mounted! Doooope');
+      console.log(`HomePage: ${snapshot.val()}`);
+      this.setState({
+        notes: snapshot.val()
       });
     });
   }
@@ -39,18 +37,15 @@ class HomePage extends Component {
     const { currentUser, notes, title } = this.state;
 
     return (
-      <div className="jumbotron">
+      <div className="homePage-container">
         <h1>
           {title}
         </h1>
         <p>Plant list and explanation of gardenia goes here</p>
         {currentUser &&
           <div>
-            <NewNote
-              bodyVisible={this.state.noteBodyVisible}
-              handleNoteSubmit={this.handleSubmit}
-              addNote={this.addItem}
-            />
+            <NewNote notesRef={this.notesRef} />
+            <Notes notes={notes} user={currentUser} notesRef={this.notesRef} />
           </div>}
       </div>
     );
