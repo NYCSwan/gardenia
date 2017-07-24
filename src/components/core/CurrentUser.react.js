@@ -3,7 +3,7 @@ import PropTypes from 'prop-types';
 import { auth } from './firebase';
 import './CurrentUser.css';
 
-// user gets passed into CU from App.react
+// user gets passed into CurrentUserU from App.react
 const CurrentUser = ({ user }) => {
   return (
     <div className="CurrentUser">

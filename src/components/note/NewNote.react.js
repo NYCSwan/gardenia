@@ -1,59 +1,39 @@
 import React, { Component } from 'react';
 import { Link } from 'react-router-dom';
 
-import { database, auth } from '../core/firebase';
+import { database } from '../core/firebase';
 import PropTypes from 'prop-types';
 import CurrentUser from '../core/CurrentUser.react';
 
 class NewNote extends Component {
-  constructor(props) {
-    super(props);
+  constructor() {
+    super();
     this.state = {
-      body: '',
-      journalId: 1,
-      date: new Date()
+      body: ''
     };
-    this.journalRef = database.ref('/journal');
-    this.noteRef = database.ref('/note');
-
-    this.handleChange = this.handleChange.bind(this);
+    this.notesRef = database.ref('/notes');
     this.handleSubmit = this.handleSubmit.bind(this);
-  }
-
-  handleChange(event) {
-    const newNote = event.target.value;
-    console.log(`new note: ${newNote}`);
-    this.setState({
-      body: newNote
-    });
   }
 
   handleSubmit(event) {
     event.preventDefault();
-    console.log(event.target.val);
-    this.props.noteRef.push({ body: event.target.val });
+    console.log(`submit event: ${event.target.val}`);
+    this.notesRef.push({ body: this.state.body });
   }
 
   render() {
-    const { body, userId, journalId } = this.state;
+    const { body } = this.state;
     return (
       <div className="new-note-container">
-        {CurrentUser}
-        <form className="Garden-notes-form">
+        <form className="garden-notes-form">
           <input
             className="notes-body"
             type="textarea"
             value={body}
-            ref="inputNoteBody"
-            onChange={this.handleChange}
+            onChange={event => this.setState({ body: event.target.value })}
             placeholder="Add notes here."
           />
-          <input
-            className="date"
-            ref="date"
-            placeholder={this.state.date.toLocaleTimeString()}
-          />
-          <button disabled={!body} onSubmit={this.handleSubmit}>
+          <button disabled={!body} onClick={this.handleSubmit}>
             Add note
           </button>
         </form>
@@ -67,7 +47,7 @@ class NewNote extends Component {
 
 NewNote.propTypes = {
   journalRef: PropTypes.object,
-  noteRef: PropTypes.object
+  notesRef: PropTypes.object
 };
 
 export default NewNote;
