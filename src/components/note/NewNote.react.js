@@ -1,7 +1,7 @@
 import React, { Component } from 'react';
 import { Link } from 'react-router-dom';
 
-import { database } from '../core/firebase';
+import { database, auth } from '../core/firebase';
 import PropTypes from 'prop-types';
 import CurrentUser from '../core/CurrentUser.react';
 
@@ -9,51 +9,53 @@ class NewNote extends Component {
   constructor(props) {
     super(props);
     this.state = {
-      note: '',
+      body: '',
+      journalId: 1,
       date: new Date()
     };
     this.journalRef = database.ref('/journal');
     this.noteRef = database.ref('/note');
 
     this.handleChange = this.handleChange.bind(this);
-    this.handleSubmitNote = this.handleSubmitNote.bind(this);
+    this.handleSubmit = this.handleSubmit.bind(this);
   }
 
   handleChange(event) {
     const newNote = event.target.value;
-
+    console.log(`new note: ${newNote}`);
     this.setState({
-      note: newNote
+      body: newNote
     });
   }
 
-  handleSubmitNote(event) {
-    console.log(`note: ${this.state.note}`);
-    let tempItem = {
-      body: this.props.inputNoteBody.value
-    };
-    console.log(tempItem);
+  handleSubmit(event) {
     event.preventDefault();
-    this.props.addNote(tempItem);
-    this.noteRef.push({ note: this.state.body });
+    console.log(event.target.val);
+    this.props.noteRef.push({ body: event.target.val });
   }
 
   render() {
-    const { note } = this.state;
+    const { body, userId, journalId } = this.state;
     return (
       <div className="new-note-container">
         {CurrentUser}
-        <form className="Garden-notes-form" onSubmit={this.handleSubmit}>
+        <form className="Garden-notes-form">
           <input
             className="notes-body"
             type="textarea"
-            value={note}
+            value={body}
             ref="inputNoteBody"
             onChange={this.handleChange}
             placeholder="Add notes here."
           />
-          {this.state.date.toLocaleTimeString()}
-          <button disabled={!note}>Add note</button>
+          <input
+            className="date"
+            ref="date"
+            placeholder={this.state.date.toLocaleTimeString()}
+          />
+          <button disabled={!body} onSubmit={this.handleSubmit}>
+            Add note
+          </button>
         </form>
         <Link to="/journal" className="btn btn-primary btn-lg">
           Go to your journal
@@ -64,7 +66,8 @@ class NewNote extends Component {
 }
 
 NewNote.propTypes = {
-  journalRef: PropTypes.object
+  journalRef: PropTypes.object,
+  noteRef: PropTypes.object
 };
 
 export default NewNote;

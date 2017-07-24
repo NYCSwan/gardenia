@@ -8,14 +8,15 @@ import Notes from '../note/Notes.react';
 import NewNote from '../note/NewNote.react';
 
 class HomePage extends Component {
-  constructor() {
-    super();
+  constructor(props) {
+    super(props);
     this.state = {
       currentUser: null,
       notes: [],
       title: 'Home Page'
     };
     this.journalRef = database.ref('/journal');
+    this.noteRef = database.ref('/note');
   }
 
   componentDidMount() {
@@ -39,13 +40,15 @@ class HomePage extends Component {
 
     return (
       <div className="jumbotron">
-        <h1>HomePage</h1>
+        <h1>
+          {title}
+        </h1>
         <p>Plant list and explanation of gardenia goes here</p>
         {currentUser &&
           <div>
             <NewNote
               bodyVisible={this.state.noteBodyVisible}
-              handleNoteSubmit={this.handleSubmitNote}
+              handleNoteSubmit={this.handleSubmit}
               addNote={this.addItem}
             />
           </div>}
@@ -55,7 +58,9 @@ class HomePage extends Component {
 }
 
 HomePage.propTypes = {
-  currentUser: PropTypes.object
+  currentUser: PropTypes.object,
+  journalRef: PropTypes.object,
+  noteRef: PropTypes.object
 };
 
 export default HomePage;

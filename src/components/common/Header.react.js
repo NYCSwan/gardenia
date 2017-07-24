@@ -2,7 +2,6 @@ import React, { Component } from 'react';
 import { Link, NavLink } from 'react-router-dom';
 
 import CurrentUser from '../core/CurrentUser.react';
-import SignIn from './SignIn.react';
 
 class Header extends Component {
   render() {
@@ -10,7 +9,6 @@ class Header extends Component {
       <header className="nav-bar header-container">
         <h1>Gardenia</h1>
         <div className="signIn">
-          <SignIn />
           {/*<CurrentUser user={props.currentUser} /> */}
         </div>
         <ul>

@@ -1,7 +1,6 @@
 import React, { Component } from 'react';
-import map from 'lodash/map';
 import PropTypes from 'prop-types';
-import { BrowserRouter as Router, Link, Route } from 'react-router-dom';
+import { BrowserRouter as Router, Route } from 'react-router-dom';
 
 import { auth, database } from './components/core/firebase';
 import CurrentUser from './components/core/CurrentUser.react';
@@ -20,16 +19,22 @@ class App extends Component {
 
     this.state = {
       currentUser: null,
-      title: 'title',
-      notes: []
+      title: '',
+      notes: null,
+      plants: null
     };
-    this.noteRef = database.ref('/note');
+    this.plantsRef = database.ref('/plants');
+    this.notesRef = database.ref('/notes');
   }
-  componentWillMount() {
+
+  componentDidMount() {
     auth.onAuthStateChanged(currentUser => {
+      console.log(`User changed ${currentUser.displayName}`);
       this.setState({ currentUser });
-      this.noteRef.on('value', snapshot => {
-        console.log(`HomePage: ${snapshot.val()}`);
+
+      this.notesRef.on('value', snapshot => {
+        console.log(`HomePage note: ${snapshot.val()}`);
+        this.setState({ notes: snapshot.val() });
       });
     });
   }
@@ -42,20 +47,16 @@ class App extends Component {
         <Router>
           <div className="container">
             <Header currentUser={currentUser} title={title} />
+            {!currentUser ? <SignIn /> : <CurrentUser user={currentUser} />}
+
             <Route exact path="/" component={HomePage} />
             <Route path="/journal" component={Journal} />
             <Route path="/notes" component={Notes} />
           </div>
         </Router>
-
-        {this.props.children}
       </div>
     );
   }
 }
-
-App.propTypes = {
-  children: PropTypes.object
-};
 
 export default App;

@@ -4,14 +4,21 @@ import { database } from '../core/firebase';
 import map from 'lodash/map';
 
 import Note from './Note.react';
-import notesList from './notes-list.react';
+import NotesList from './notes-list.react';
 class Notes extends Component {
   constructor(props) {
     super(props);
-    this.state = {
-      notes: [],
-      currentUser: null
-    };
+    this.handleSelect = this.handleSelect.bind(this);
+  }
+
+  handleSelect(key) {
+    const { noteRef, currentUser } = this.props;
+
+    noteRef
+      .child(key)
+      .child(currentUser.uid)
+      .child('note')
+      .set(currentUser.displayName);
   }
 
   render() {
@@ -20,22 +27,27 @@ class Notes extends Component {
     return (
       <section className="notes">
         <h2>Notes</h2>
-        {/*notes.map((note) => {
-          return (
+        {/*map(notes, (note, key) => (
+
             <div className="note">
-              <Note noteSamples={notes}/>
+              <Note
+                key={key}
+                user={currentUser}
+                {...notes}
+                handleSelect={() => this.handleSelect(key)}
+                />
             </div>
-          );
-        })
+          ))
       */}
+        <NotesList />
       </section>
     );
   }
 }
 
 Notes.protoType = {
-  user: PropTypes.object,
-  journalRef: PropTypes.object,
+  currentUser: PropTypes.object,
+  noteRef: PropTypes.object,
   notes: PropTypes.object
 };
 

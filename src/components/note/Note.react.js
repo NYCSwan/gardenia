@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import { database } from '../core/firebase';
+import { database, auth, userId } from '../core/firebase';
 import PropTypes from 'prop-types';
 
 class Note extends Component {
@@ -8,6 +8,7 @@ class Note extends Component {
     this.state = this._getState(props);
   }
   render() {
+    const userId = auth.currentUser.uid;
     return (
       <div className="note-info media-body">
         <div className="note-body">
@@ -18,9 +19,6 @@ class Note extends Component {
         </div>
       </div>
     );
-  }
-  _getState(props) {
-    return {};
   }
 }
 
