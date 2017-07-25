@@ -5,18 +5,23 @@ import CurrentUser from '../core/CurrentUser.react';
 
 class Header extends Component {
   render() {
+    const { user } = this.props;
     return (
       <header className="nav-bar header-container">
         <h1>Gardenia</h1>
-        <div className="signIn">
-          {/*<CurrentUser user={props.currentUser} /> */}
-        </div>
+
         <ul>
           <li>
             <NavLink to="/" exact activeClassName="active">
               Home
             </NavLink>
           </li>
+          <li>
+            <NavLink to="/plants" exact activeClassName="active">
+              Plants
+            </NavLink>
+          </li>
+          {/* Filter by loggedin*/}
           <li>
             <NavLink to="/notes" activeClassName="active">
               Notes

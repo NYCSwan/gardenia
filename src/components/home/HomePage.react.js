@@ -6,19 +6,18 @@ import { auth, database } from '../core/firebase';
 import Journal from '../journal/Journal.react';
 import Notes from '../note/Notes.react';
 import NewNote from '../note/NewNote.react';
+import Plants from '../plant/Plants.react';
 
 class HomePage extends Component {
   constructor(props) {
     super(props);
-
     this.state = {
-      currentUser: null,
-      notes: null,
-      title: 'Home Page'
+      title: 'Homepage'
     };
 
     this.journalRef = database.ref('/journal');
     this.notesRef = database.ref('/notes');
+    this.plantsRef = database.ref('/plants');
   }
 
   componentDidMount() {
@@ -29,12 +28,15 @@ class HomePage extends Component {
         notes: snapshot.val()
       });
     });
+    this.setState({
+      title: 'Home Page'
+    });
   }
 
   componentWillUnmount() {}
 
   render() {
-    const { currentUser, notes, title } = this.state;
+    const { currentUser, notes, notesRef, title } = this.state;
 
     return (
       <div className="homePage-container">
@@ -42,11 +44,7 @@ class HomePage extends Component {
           {title}
         </h1>
         <p>Plant list and explanation of gardenia goes here</p>
-        {currentUser &&
-          <div>
-            <NewNote notesRef={this.notesRef} />
-            <Notes notes={notes} user={currentUser} notesRef={this.notesRef} />
-          </div>}
+        <Plants />
       </div>
     );
   }
@@ -55,7 +53,9 @@ class HomePage extends Component {
 HomePage.propTypes = {
   currentUser: PropTypes.object,
   journalRef: PropTypes.object,
-  noteRef: PropTypes.object
+  plantsRef: PropTypes.object,
+  notesRef: PropTypes.object,
+  notes: PropTypes.object
 };
 
 export default HomePage;

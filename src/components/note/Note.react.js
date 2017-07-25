@@ -1,29 +1,28 @@
 import React, { Component } from 'react';
-import { database, auth, userId } from '../core/firebase';
+import { database, auth } from '../core/firebase';
 import PropTypes from 'prop-types';
 
 class Note extends Component {
   render() {
-    const userId = auth.currentUser.uid;
-    const { body } = this.props;
+    const { body, currentUser } = this.props;
 
     return (
-      <div className="note-info media-body">
+      <article className="note-info media-body">
         <div className="note-body">
-          <h4>Note Title</h4>
           <p>
             {body}
           </p>
           <p>date</p>
           <p>garden</p>
         </div>
-      </div>
+      </article>
     );
   }
 }
 
 Note.propTypes = {
-  body: PropTypes.string
+  body: PropTypes.string,
+  currentUser: PropTypes.object
 };
 
 export default Note;

@@ -25,6 +25,7 @@ class NewNote extends Component {
     const { body } = this.state;
     return (
       <div className="new-note-container">
+        <h3>Add a new note to your journal</h3>
         <form className="garden-notes-form">
           <input
             className="notes-body"
@@ -37,9 +38,6 @@ class NewNote extends Component {
             Add note
           </button>
         </form>
-        <Link to="/journal" className="btn btn-primary btn-lg">
-          Go to your journal
-        </Link>
       </div>
     );
   }
@@ -47,7 +45,8 @@ class NewNote extends Component {
 
 NewNote.propTypes = {
   journalRef: PropTypes.object,
-  notesRef: PropTypes.object
+  notesRef: PropTypes.object,
+  body: PropTypes.string
 };
 
 export default NewNote;

@@ -16,7 +16,6 @@ const CurrentUser = ({ user }) => {
         <h3>
           {user.displayName}
         </h3>
-        <button onClick={() => auth.signOut()}>Sign Out</button>
       </div>
     </div>
   );
