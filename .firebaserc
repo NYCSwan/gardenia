@@ -1,5 +1,6 @@
 {
   "projects": {
-    "default": "gardenia-ddbf8"
+    "default": "gardenia-ddbf8",
+    "gardenia": "gardenia-ddbf8"
   }
 }

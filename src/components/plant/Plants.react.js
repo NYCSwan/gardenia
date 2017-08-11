@@ -1,4 +1,9 @@
 import React, { Component } from 'react';
+import plants from './plants.json';
+import Plant from './Plant.react';
+import map from 'lodash/map';
+
+import './Plants.css';
 
 class Plants extends Component {
   constructor(props) {
@@ -7,8 +12,10 @@ class Plants extends Component {
 
   render() {
     return (
-      <div>
-        <h3>PLANTS Component</h3>
+      <div className="plants-container">
+        <h3>PLANTS Galore!</h3>
+
+        {plants.map((plant, key) => <Plant plant={plant} key={key} />)}
       </div>
     );
   }

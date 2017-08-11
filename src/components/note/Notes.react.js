@@ -11,22 +11,16 @@ class Notes extends Component {
     super(props);
   }
 
-  handleSelect(key) {
-    const { notesRef, user } = this.props;
-
-    notesRef.child(key).child('votes').child(user.uid).set(user.displayName);
-  }
-
   render() {
     const { notes, user } = this.props;
     return (
       <section className="notes">
-        <h2>Notes</h2>
+        <h2>Notes Component</h2>
+        <h3>My notes</h3>
         {map(notes, (note, key) =>
           <Note
             key={key}
             {...note}
-            user={user}
             handleSelect={() => this.handleSelect(key)}
           />
         )}

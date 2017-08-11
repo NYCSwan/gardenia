@@ -6,9 +6,9 @@ import Note from './Note.react';
 function NotesList({ notes }) {
   return (
     <div className="notes-list">
-      {notes.map(note => {
-        return <Note key={note.title} className="notes-item" />;
-      })}
+      {/*notes.map(note => {
+        return <Note key={note.body} className="notes-item" />;
+      })*/}
     </div>
   );
 }

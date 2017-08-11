@@ -1,5 +1,7 @@
 import React, { Component } from 'react';
 import Notes from '../note/Notes.react';
+import NotesList from '../note/notes-list.react';
+
 import map from 'lodash/map';
 import { database } from '../core/firebase';
 
@@ -18,7 +20,7 @@ class Journal extends Component {
         <h3>
           {' '}{currentUser} Journal
         </h3>
-
+        <NotesList />
         <Notes notes={notes} user={currentUser} notesRef={this.notesRef} />
       </div>
     );

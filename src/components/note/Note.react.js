@@ -4,7 +4,7 @@ import PropTypes from 'prop-types';
 
 class Note extends Component {
   render() {
-    const { body, currentUser } = this.props;
+    const { body } = this.props;
 
     return (
       <article className="note-info media-body">
@@ -12,8 +12,7 @@ class Note extends Component {
           <p>
             {body}
           </p>
-          <p>date</p>
-          <p>garden</p>
+          <p>garden:</p>
         </div>
       </article>
     );

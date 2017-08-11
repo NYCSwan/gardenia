@@ -16,13 +16,14 @@ class NewNote extends Component {
   }
 
   handleSubmit(event) {
+    const { currentUser } = this.state;
     event.preventDefault();
     console.log(`submit event: ${event.target.val}`);
     this.notesRef.push({ body: this.state.body });
   }
 
   render() {
-    const { body } = this.state;
+    const { body, currentUser } = this.state;
     return (
       <div className="new-note-container">
         <h3>Add a new note to your journal</h3>

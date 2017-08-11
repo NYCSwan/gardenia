@@ -1,15 +1,13 @@
 import React, { Component } from 'react';
 import { BrowserRouter as Router, Route } from 'react-router-dom';
-
 import { auth, database } from './components/core/firebase';
-import CurrentUser from './components/core/CurrentUser.react';
 import SignIn from './components/common/SignIn.react';
+import { Button } from 'react-bootstrap';
 
 import CurrentUserPage from './components/user/CurrentUserPage.react';
 import Header from './components/common/Header.react';
 import HomePage from './components/home/HomePage.react';
 import Journal from './components/journal/Journal.react';
-import Notes from './components/note/Notes.react';
 import Plants from './components/plant/Plants.react';
 
 import './App.css';
@@ -23,11 +21,9 @@ class App extends Component {
       title: '',
       notes: null,
       plants: null,
+      body: '',
       journal: null
     };
-    this.plantsRef = database.ref('/plants');
-    this.notesRef = database.ref('/notes');
-    this.journalRef = database.ref('/journal');
   }
 
   componentDidMount() {
@@ -35,18 +31,32 @@ class App extends Component {
       console.log(`User changed ${currentUser.uid}`);
       this.setState({ currentUser });
 
+      this.plantsRef = database.ref('/plants');
+      this.notesRef = database.ref('/notes');
+      this.journalRef = database.ref('/journal');
+
       this.notesRef.on('value', snapshot => {
-        console.log(`App note: ${snapshot.val()}`);
         this.setState({ notes: snapshot.val() });
+        console.log(`App note: ${snapshot}`);
       });
     });
   }
 
   render() {
     const { currentUser, notes, title, journal } = this.state;
+    const userPage = props => {
+      return (
+        <CurrentUserPage
+          notes={notes}
+          user={currentUser}
+          notesRef={this.notesRef}
+          {...props}
+        />
+      );
+    };
 
     return (
-      <div id="app-container">
+      <div className="app-container">
         {/*turn section and form into own components*/}
         <Router>
           <div className="container">
@@ -54,18 +64,21 @@ class App extends Component {
 
             {!currentUser
               ? <SignIn />
-              : <button onClick={() => auth.signOut()}>Sign Out</button>}
+              : <Button onClick={() => auth.signOut()}>Sign Out</Button>}
 
-            <Route exact path="/" component={HomePage} />
+            <Route exact path="/" auth={auth} component={HomePage} />
             <Route path="/plants" component={Plants} />
 
             {currentUser &&
               <div>
-                <Route path="/currentUser" component={CurrentUserPage} />
+                <Route
+                  path="/currentUser"
+                  render={userPage}
+                  notes={notes}
+                  notesRef={this.notesRef}
+                />
                 <Route path="/journal" component={Journal} />
-                <Route path="/plants" component={Plants} />
               </div>}
-            <Notes notes={notes} user={currentUser} notesRef={this.notesRef} />
           </div>
         </Router>
       </div>

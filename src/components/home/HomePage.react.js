@@ -8,6 +8,8 @@ import Notes from '../note/Notes.react';
 import NewNote from '../note/NewNote.react';
 import Plants from '../plant/Plants.react';
 
+import './HomePage.css';
+
 class HomePage extends Component {
   constructor(props) {
     super(props);
@@ -28,9 +30,6 @@ class HomePage extends Component {
         notes: snapshot.val()
       });
     });
-    this.setState({
-      title: 'Home Page'
-    });
   }
 
   componentWillUnmount() {}
@@ -40,10 +39,9 @@ class HomePage extends Component {
 
     return (
       <div className="homePage-container">
-        <h1>
+        <h1 className="page-title">
           {title}
         </h1>
-        <p>Plant list and explanation of gardenia goes here</p>
         <Plants />
       </div>
     );

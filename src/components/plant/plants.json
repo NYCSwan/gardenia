@@ -1,4 +1,5 @@
-[{
+[
+  {
     "OBJECTID": 1,
     "Latin_Name": "Acacia baileyana 'Purpurea'",
     "Common_Name": "Purple-Leaf Acacia",
@@ -26,7 +27,8 @@
     "PhotoCredit02": "SelecTree. \"Acacia baileyana 'Purpurea' Photo Record.\" 1995-2012. Jul 3, 2014.",
     "PhotoCredit03": "SelecTree. \"Acacia baileyana 'Purpurea' Photo Record.\" 1995-2012. Jul 3, 2014.",
     "PhotoCredit04": "SelecTree. \"Acacia baileyana 'Purpurea' Photo Record.\" 1995-2012. Jul 3, 2014."
-}, {
+  },
+  {
     "OBJECTID": 2,
     "Latin_Name": "Acer buergeranum",
     "Common_Name": "Trident Maple",
@@ -54,7 +56,8 @@
     "PhotoCredit02": "SelecTree. \"Acer buergerianum Photo Record.\" 1995-2012. Jul 3, 2014.",
     "PhotoCredit03": "SelecTree. \"Acer buergerianum Photo Record.\" 1995-2012. Jul 3, 2014.",
     "PhotoCredit04": "SelecTree. \"Acer buergerianum Photo Record.\" 1995-2012. Jul 3, 2014."
-}, {
+  },
+  {
     "OBJECTID": 3,
     "Latin_Name": "Acer macrophyllum",
     "Common_Name": "Bigleaf Maple",
@@ -82,7 +85,8 @@
     "PhotoCredit02": "Charles Webber � California Academy of Sciences",
     "PhotoCredit03": "�2003 Barry Breckling (CC BY-NC-SA 3.0)",
     "PhotoCredit04": "Walter Siegmund (CC BY-SA 3.0)"
-}, {
+  },
+  {
     "OBJECTID": 4,
     "Latin_Name": "Acer negundo",
     "Common_Name": "Box Elder",
@@ -110,7 +114,8 @@
     "PhotoCredit02": "�2013 Jean Pawek",
     "PhotoCredit03": "�2006 Louis-M. Landry",
     "PhotoCredit04": "�Max Licher"
-}, {
+  },
+  {
     "OBJECTID": 5,
     "Latin_Name": "Acer rubrum",
     "Common_Name": "Red Maple",
@@ -138,7 +143,8 @@
     "PhotoCredit02": "SelecTree. \"Acer rubrum Photo Record.\" 1995-2012. Jul 3, 2014.",
     "PhotoCredit03": "SelecTree. \"Acer rubrum Photo Record.\" 1995-2012. Jul 3, 2014.",
     "PhotoCredit04": "SelecTree. \"Acer rubrum Photo Record.\" 1995-2012. Jul 3, 2014."
-}, {
+  },
+  {
     "OBJECTID": 6,
     "Latin_Name": "Achillea millefolium",
     "Common_Name": "Yarrow",
@@ -166,7 +172,8 @@
     "PhotoCredit02": "�2001 Jeff Abbas",
     "PhotoCredit03": "Charles Webber � California Academy of Sciences",
     "PhotoCredit04": "� Br. Alfred Brousseau, Saint Mary's College"
-}, {
+  },
+  {
     "OBJECTID": 7,
     "Latin_Name": "Acmispon glaber",
     "Common_Name": "Deer Weed",
@@ -194,7 +201,8 @@
     "PhotoCredit02": "�2013 Debra L. Cook",
     "PhotoCredit03": "�2011 Barry Breckling (CC BY-NC-SA 3.0)",
     "PhotoCredit04": "�2013 Debra L. Cook"
-}, {
+  },
+  {
     "OBJECTID": 8,
     "Latin_Name": "Aesculus californica",
     "Common_Name": "California Buckeye",
@@ -222,7 +230,8 @@
     "PhotoCredit02": "William R. Hewlett � California Academy of Sciences",
     "PhotoCredit03": "SelecTree. \"Aesculus californica Tree Record.\" 1995-2014. Feb 7, 2014",
     "PhotoCredit04": "�1999 James B. Gratiot"
-}, {
+  },
+  {
     "OBJECTID": 9,
     "Latin_Name": "Aesculus x carnea",
     "Common_Name": "Red Horsechestnut",
@@ -250,7 +259,8 @@
     "PhotoCredit02": "SelecTree. \"Aesculus _ carnea Photo Record.\" 1995-2012. Jul 3, 2014.",
     "PhotoCredit03": "SelecTree. \"Aesculus _ carnea Photo Record.\" 1995-2012. Jul 3, 2014.",
     "PhotoCredit04": "SelecTree. \"Aesculus _ carnea Photo Record.\" 1995-2012. Jul 3, 2014."
-}, {
+  },
+  {
     "OBJECTID": 10,
     "Latin_Name": "Agonis flexuosa",
     "Common_Name": "Peppermint Tree",
@@ -278,7 +288,8 @@
     "PhotoCredit02": "SelecTree. \"Agonis flexuosa Photo Record.\" 1995-2012. Jul 3, 2014.",
     "PhotoCredit03": "SelecTree. \"Agonis flexuosa Photo Record.\" 1995-2012. Jul 3, 2014.",
     "PhotoCredit04": "SelecTree. \"Agonis flexuosa Photo Record.\" 1995-2012. Jul 3, 2014."
-}, {
+  },
+  {
     "OBJECTID": 11,
     "Latin_Name": "Agonis flexuosa  'After Dark'",
     "Common_Name": "After Dark Peppermint Tree",
@@ -306,7 +317,8 @@
     "PhotoCredit02": "Jennifer de Graaf (CC BY-NC 2.0)",
     "PhotoCredit03": "Bri Weldon (CC BY 2.0)",
     "PhotoCredit04": "Jennifer de Graaf (CC BY-NC 2.0)"
-}, {
+  },
+  {
     "OBJECTID": 12,
     "Latin_Name": "Alcea rosea",
     "Common_Name": "Hollyhock",
@@ -334,7 +346,8 @@
     "PhotoCredit02": "�2002 California Academy of Sciences",
     "PhotoCredit03": "�2011 Nick Kurzenko",
     "PhotoCredit04": "�2005 Luigi Rignanese (CC BY-NC 3.0)"
-}, {
+  },
+  {
     "OBJECTID": 13,
     "Latin_Name": "Alnus rhombifolia",
     "Common_Name": "White Alder",
@@ -362,7 +375,8 @@
     "PhotoCredit02": "�2011 BonTerra Consulting",
     "PhotoCredit03": "�2008 Keir Morse (CC BY-NC-SA 3.0)",
     "PhotoCredit04": "�2012 Daniel Passarini (CC BY-NC-SA 3.0)"
-}, {
+  },
+  {
     "OBJECTID": 14,
     "Latin_Name": "Amelanchier alnifolia",
     "Common_Name": "Western Service Berry",
@@ -390,7 +404,8 @@
     "PhotoCredit02": "�2014 John Doyen",
     "PhotoCredit03": "�2010 Vernon Smith (CC BY-NC-ND 3.0)",
     "PhotoCredit04": "�2007 Matt Below"
-}, {
+  },
+  {
     "OBJECTID": 15,
     "Latin_Name": "Amsinckia spp",
     "Common_Name": "Fiddleneck",
@@ -418,7 +433,8 @@
     "PhotoCredit02": "�2010 Steven Thorsted (CC BY-NC 3.0)",
     "PhotoCredit03": "�2012 Keir Morse (CC BY-NC-SA 3.0)",
     "PhotoCredit04": "�2010 Steven Thorsted (CC BY-NC 3.0)"
-}, {
+  },
+  {
     "OBJECTID": 16,
     "Latin_Name": "Anaphalis margaritacea",
     "Common_Name": "Pearly Everlasting",
@@ -446,7 +462,8 @@
     "PhotoCredit02": "�2008 Margo Bors",
     "PhotoCredit03": "�2008 Keir Morse (CC BY-NC-SA 3.0)",
     "PhotoCredit04": "�2011 Jean Pawek"
-}, {
+  },
+  {
     "OBJECTID": 17,
     "Latin_Name": "Angelica hendersonii",
     "Common_Name": "Coast Angelica",
@@ -474,7 +491,8 @@
     "PhotoCredit02": "�2012 Aaron Arthur",
     "PhotoCredit03": "�2012 Aaron Arthur",
     "PhotoCredit04": "�2009 Jorg & Mimi Fleige (CC BY-NC 3.0)"
-}, {
+  },
+  {
     "OBJECTID": 18,
     "Latin_Name": "Aquilegia formosa",
     "Common_Name": "Western Columbine",
@@ -502,7 +520,8 @@
     "PhotoCredit02": "brewbooks (CC BY-SA 2.0)",
     "PhotoCredit03": "�2002 Charles E. Jones",
     "PhotoCredit04": "Charles Webber � California Academy of Sciences"
-}, {
+  },
+  {
     "OBJECTID": 19,
     "Latin_Name": "Arbutus menziesii",
     "Common_Name": "Madrone",
@@ -530,7 +549,8 @@
     "PhotoCredit02": "� Br. Alfred Brousseau, Saint Mary's College.",
     "PhotoCredit03": "�2013 Lynn Watson",
     "PhotoCredit04": "�2013 Jean Pawek"
-}, {
+  },
+  {
     "OBJECTID": 20,
     "Latin_Name": "Arbutus x 'Marina'",
     "Common_Name": "Marina Strawberry Tree",
@@ -558,7 +578,8 @@
     "PhotoCredit02": "Wendy Cutler (CC BY 2.0)",
     "PhotoCredit03": "Anna Fuster (CC BY-NC-ND 2.0)",
     "PhotoCredit04": "Martin LaBar (CC BY-NC 2.0)"
-}, {
+  },
+  {
     "OBJECTID": 21,
     "Latin_Name": "Arctostaphylos spp",
     "Common_Name": "Manzanita",
@@ -586,7 +607,8 @@
     "PhotoCredit02": "�2004 Robert E. Preston, Ph.D.",
     "PhotoCredit03": "�2004 David Graber (CC BY-NC-ND 3.0)",
     "PhotoCredit04": "�2004 Robert E. Preston, Ph.D."
-}, {
+  },
+  {
     "OBJECTID": 22,
     "Latin_Name": "Aristolochia californica",
     "Common_Name": "Pipe Vine",
@@ -614,7 +636,8 @@
     "PhotoCredit02": "�2013 Joshua McDill",
     "PhotoCredit03": "� Br. Alfred Brousseau, Saint Mary's College",
     "PhotoCredit04": "�2012 Julie Kierstead Nelson"
-}, {
+  },
+  {
     "OBJECTID": 23,
     "Latin_Name": "Armeria maritima var. californica",
     "Common_Name": "Sea Thrift",
@@ -642,7 +665,8 @@
     "PhotoCredit02": "�2006 Matt Below",
     "PhotoCredit03": "�2009 Ron Wolf",
     "PhotoCredit04": "�2009 Ron Wolf"
-}, {
+  },
+  {
     "OBJECTID": 24,
     "Latin_Name": "Artemisia californica",
     "Common_Name": "California Sagebrush",
@@ -670,7 +694,8 @@
     "PhotoCredit02": "� Br. Alfred Brousseau, Saint Mary's College",
     "PhotoCredit03": "�2003 Michael Charters",
     "PhotoCredit04": "�2008 Jorg Fleige"
-}, {
+  },
+  {
     "OBJECTID": 25,
     "Latin_Name": "Artemisia pycnocephala",
     "Common_Name": "Dune Sagewort",
@@ -698,7 +723,8 @@
     "PhotoCredit02": "�2005 Will Chatfield-Taylor",
     "PhotoCredit03": "�2011 Dylan Neubauer",
     "PhotoCredit04": "�2013 Neal Kramer"
-}, {
+  },
+  {
     "OBJECTID": 26,
     "Latin_Name": "Asarum caudatum",
     "Common_Name": "Wild Ginger",
@@ -726,7 +752,8 @@
     "PhotoCredit02": "Beatrice F. Howitt � California Academy of Sciences",
     "PhotoCredit03": "� Br. Alfred Brousseau, Saint Mary's College",
     "PhotoCredit04": "� Br. Alfred Brousseau, Saint Mary's College"
-}, {
+  },
+  {
     "OBJECTID": 27,
     "Latin_Name": "Asclepias fascicularis",
     "Common_Name": "Narrowleaf Milkweed",
@@ -754,7 +781,8 @@
     "PhotoCredit02": "�2003 Michael Charters",
     "PhotoCredit03": "J. E.(Jed) and Bonnie McClellan � California Academy of Sciences",
     "PhotoCredit04": "�2003 Michael Charters"
-}, {
+  },
+  {
     "OBJECTID": 28,
     "Latin_Name": "Baccharis pilularis",
     "Common_Name": "Coyotebrush",
@@ -782,7 +810,8 @@
     "PhotoCredit02": "�2004 David A. Tharp",
     "PhotoCredit03": "�1977 Lee Dittmann",
     "PhotoCredit04": "�1996 Margo Bors"
-}, {
+  },
+  {
     "OBJECTID": 29,
     "Latin_Name": "Berberis pinnata",
     "Common_Name": "Coast Barberry",
@@ -810,7 +839,8 @@
     "PhotoCredit02": "�2013 Terry Gosliner (CC BY-NC 3.0)",
     "PhotoCredit03": "Stan Shebs (CC BY-SA 3.0)",
     "PhotoCredit04": "�2008 Jorg Fleige (CC BY-NC 3.0)"
-}, {
+  },
+  {
     "OBJECTID": 30,
     "Latin_Name": "Bolboschoenus robustus",
     "Common_Name": "Alkali Bulrush / Sturdy Bulrush",
@@ -838,7 +868,8 @@
     "PhotoCredit02": "�2013 Jake Ruygt",
     "PhotoCredit03": "�2011 Sangeet Khalsa",
     "PhotoCredit04": "�2011 Sangeet Khalsa"
-}, {
+  },
+  {
     "OBJECTID": 31,
     "Latin_Name": "Brahea edulis",
     "Common_Name": "Guadalupe Palm",
@@ -866,7 +897,8 @@
     "PhotoCredit02": "SelecTree. \"Brahea edulis Photo Record.\" 1995-2012. Jul 3, 2014.",
     "PhotoCredit03": "SelecTree. \"Brahea edulis Photo Record.\" 1995-2012. Jul 3, 2014.",
     "PhotoCredit04": "SelecTree. \"Brahea edulis Photo Record.\" 1995-2012. Jul 3, 2014."
-}, {
+  },
+  {
     "OBJECTID": 32,
     "Latin_Name": "Bromus carinatus",
     "Common_Name": "California Brome",
@@ -894,7 +926,8 @@
     "PhotoCredit02": "�2011 Ryan Batten",
     "PhotoCredit03": "�2012 Jean Pawek",
     "PhotoCredit04": "�2012 Jean Pawek"
-}, {
+  },
+  {
     "OBJECTID": 33,
     "Latin_Name": "Bromus laevipes",
     "Common_Name": "Woodland Brome",
@@ -922,7 +955,8 @@
     "PhotoCredit02": "�2013 Margo Bors",
     "PhotoCredit03": "�2005 Steve Matson",
     "PhotoCredit04": "�2011 Alice Cummings"
-}, {
+  },
+  {
     "OBJECTID": 34,
     "Latin_Name": "Calamagrostis nutkaensis",
     "Common_Name": "Pacific Reedgrass",
@@ -950,7 +984,8 @@
     "PhotoCredit02": "�2006 Tom Annese",
     "PhotoCredit03": "�2012 Asa Spade",
     "PhotoCredit04": "�2012 Aaron E. Sims"
-}, {
+  },
+  {
     "OBJECTID": 35,
     "Latin_Name": "Callistemon citrinus",
     "Common_Name": "Lemon Bottlebrush",
@@ -978,7 +1013,8 @@
     "PhotoCredit02": "SelecTree. \"Callistemon citrinus Photo Record.\" 1995-2012. Jul 3, 2014.",
     "PhotoCredit03": "SelecTree. \"Callistemon citrinus Photo Record.\" 1995-2012. Jul 3, 2014.",
     "PhotoCredit04": "SelecTree. \"Callistemon citrinus Photo Record.\" 1995-2012. Jul 3, 2014."
-}, {
+  },
+  {
     "OBJECTID": 36,
     "Latin_Name": "Callistemon viminalis",
     "Common_Name": "Weeping Bottlebrush",
@@ -1006,7 +1042,8 @@
     "PhotoCredit02": "SelecTree. \"Callistemon viminalis Photo Record.\" 1995-2012. Jul 3, 2014.",
     "PhotoCredit03": "SelecTree. \"Callistemon viminalis Photo Record.\" 1995-2012. Jul 3, 2014.",
     "PhotoCredit04": "SelecTree. \"Callistemon viminalis Photo Record.\" 1995-2012. Jul 3, 2014."
-}, {
+  },
+  {
     "OBJECTID": 37,
     "Latin_Name": "Calycanthus occidentalis",
     "Common_Name": "Spice Bush",
@@ -1034,7 +1071,8 @@
     "PhotoCredit02": "Gladys Lucille Smith � California Academy of Sciences",
     "PhotoCredit03": "�2009 Barry Breckling (CC BY-NC-SA 3.0)",
     "PhotoCredit04": "�2013 Neal Kramer"
-}, {
+  },
+  {
     "OBJECTID": 38,
     "Latin_Name": "Calystegia soldanella",
     "Common_Name": "Beach Morning Glory",
@@ -1062,7 +1100,8 @@
     "PhotoCredit02": "�1998 Nick Kurzenko",
     "PhotoCredit03": "�2007 Bradford Norman",
     "PhotoCredit04": "�2005 George W. Hartwell"
-}, {
+  },
+  {
     "OBJECTID": 39,
     "Latin_Name": "Carex pansa",
     "Common_Name": "Pacific Dune Sedge",
@@ -1090,7 +1129,8 @@
     "PhotoCredit02": "�2003 Steve Matson",
     "PhotoCredit03": "�2014 DryStoneGarden",
     "PhotoCredit04": "�Hedgerow Farms"
-}, {
+  },
+  {
     "OBJECTID": 40,
     "Latin_Name": "Carex praegracilis",
     "Common_Name": "Clustered Field Sedge",
@@ -1118,7 +1158,8 @@
     "PhotoCredit02": "�2008 Steve Matson",
     "PhotoCredit03": "�2008 Steve Matson",
     "PhotoCredit04": "�2008 Steve Matson"
-}, {
+  },
+  {
     "OBJECTID": 41,
     "Latin_Name": "Castilleja ambigua",
     "Common_Name": "Salt Marsh Owl�s-clover",
@@ -1146,7 +1187,8 @@
     "PhotoCredit02": "�2009 Jorg Fleige (CC BY-NC 3.0)",
     "PhotoCredit03": "�2005 Doreen L. Smith",
     "PhotoCredit04": "� Br. Alfred Brousseau, Saint Mary's College"
-}, {
+  },
+  {
     "OBJECTID": 42,
     "Latin_Name": "Castilleja latifolia",
     "Common_Name": "Monterey Indian Paintbrush",
@@ -1174,7 +1216,8 @@
     "PhotoCredit02": "Gerald and Buff Corsi � California Academy of Sciences",
     "PhotoCredit03": "�Joseph Dougherty, M.D./ecology.org",
     "PhotoCredit04": "�2010 Steven Thorsted (CC BY-NC 3.0)"
-}, {
+  },
+  {
     "OBJECTID": 43,
     "Latin_Name": "Castilleja subinclusa ssp. franciscana",
     "Common_Name": "Franciscan Paintbrush",
@@ -1202,7 +1245,8 @@
     "PhotoCredit02": "�2004 Sharon Salisbury",
     "PhotoCredit03": "�2013 Robert Sikora",
     "PhotoCredit04": "�2007 Neal Kramer"
-}, {
+  },
+  {
     "OBJECTID": 44,
     "Latin_Name": "Castilleja wightii",
     "Common_Name": "Wight's Paintbrush",
@@ -1230,7 +1274,8 @@
     "PhotoCredit02": "�2008 Neal Kramer",
     "PhotoCredit03": "�2008 Eric Wrubel",
     "PhotoCredit04": "�2012 Aaron Schusteff"
-}, {
+  },
+  {
     "OBJECTID": 45,
     "Latin_Name": "Ceanothus 'Ray Hartman'",
     "Common_Name": "Ray Hartman Ceanothus",
@@ -1258,7 +1303,8 @@
     "PhotoCredit02": "SelecTree. \"Ceanothus 'Ray Hartman' Photo Record.\" 1995-2012. Jul 3, 2014.",
     "PhotoCredit03": "SelecTree. \"Ceanothus 'Ray Hartman' Photo Record.\" 1995-2012. Jul 3, 2014.",
     "PhotoCredit04": "SelecTree. \"Ceanothus 'Ray Hartman' Photo Record.\" 1995-2012. Jul 3, 2014."
-}, {
+  },
+  {
     "OBJECTID": 46,
     "Latin_Name": "Ceanothus thyrsiflorus",
     "Common_Name": "Blueblossom",
@@ -1286,7 +1332,8 @@
     "PhotoCredit02": "M. Martin Vicente (CC BY 2.0)",
     "PhotoCredit03": "Leonora Enking (CC BY-SA 2.0)",
     "PhotoCredit04": "p�pini�riste 85 (CC BY-NC-SA 2.0)"
-}, {
+  },
+  {
     "OBJECTID": 47,
     "Latin_Name": "Celtis sinensis",
     "Common_Name": "Chinese Hackberry",
@@ -1314,7 +1361,8 @@
     "PhotoCredit02": "SelecTree. \"Celtis sinensis Photo Record.\" 1995-2012. Jul 3, 2014.",
     "PhotoCredit03": "SelecTree. \"Celtis sinensis Photo Record.\" 1995-2012. Jul 3, 2014.",
     "PhotoCredit04": "SelecTree. \"Celtis sinensis Photo Record.\" 1995-2012. Jul 3, 2014."
-}, {
+  },
+  {
     "OBJECTID": 48,
     "Latin_Name": "Ceratonia siliqua",
     "Common_Name": "Carob Tree",
@@ -1342,7 +1390,8 @@
     "PhotoCredit02": "SelecTree. \"Ceratonia siliqua Photo Record.\" 1995-2012. Jul 3, 2014.",
     "PhotoCredit03": "SelecTree. \"Ceratonia siliqua Photo Record.\" 1995-2012. Jul 3, 2014.",
     "PhotoCredit04": "SelecTree. \"Ceratonia siliqua Photo Record.\" 1995-2012. Jul 3, 2014."
-}, {
+  },
+  {
     "OBJECTID": 49,
     "Latin_Name": "Cercis occidentalis",
     "Common_Name": "Redbud",
@@ -1370,7 +1419,8 @@
     "PhotoCredit02": "�2000 Joseph Dougherty/ecology.org",
     "PhotoCredit03": "�2009 Barry Breckling (CC BY-NC-SA 3.0)",
     "PhotoCredit04": "�2008 Steve Matson"
-}, {
+  },
+  {
     "OBJECTID": 50,
     "Latin_Name": "Chlorogalum pomeridianum",
     "Common_Name": "Soap Plant",
@@ -1398,7 +1448,8 @@
     "PhotoCredit02": "Beatrice F. Howitt � California Academy of Sciences",
     "PhotoCredit03": "� Br. Alfred Brousseau, Saint Mary's College",
     "PhotoCredit04": "�2004 George W. Hartwell"
-}, {
+  },
+  {
     "OBJECTID": 51,
     "Latin_Name": "Cirsium brevistylum",
     "Common_Name": "Indian Thistle",
@@ -1426,7 +1477,8 @@
     "PhotoCredit02": "� Br. Alfred Brousseau, Saint Mary's College",
     "PhotoCredit03": "� Br. Alfred Brousseau, Saint Mary's College",
     "PhotoCredit04": "J. E.(Jed) and Bonnie McClellan � California Academy of Sciences"
-}, {
+  },
+  {
     "OBJECTID": 52,
     "Latin_Name": "Cirsium occidentale var. californicum",
     "Common_Name": "California Thistle",
@@ -1454,7 +1506,8 @@
     "PhotoCredit02": "Beatrice F. Howitt � California Academy of Sciences",
     "PhotoCredit03": "� Br. Alfred Brousseau, Saint Mary's College",
     "PhotoCredit04": "Gladys Lucille Smith � California Academy of Sciences"
-}, {
+  },
+  {
     "OBJECTID": 53,
     "Latin_Name": "Cirsium occidentale var. candidissimum",
     "Common_Name": "Snowy Thistle",
@@ -1482,7 +1535,8 @@
     "PhotoCredit02": "�2002 Gary A. Monroe (CC BY-NC 3.0)",
     "PhotoCredit03": "�1981 Gary A. Monroe (CC BY-NC 3.0)",
     "PhotoCredit04": "�2005 George W. Hartwell"
-}, {
+  },
+  {
     "OBJECTID": 54,
     "Latin_Name": "Cirsium occidentale var. compactum",
     "Common_Name": "Compact Cobweb Thistle",
@@ -1510,7 +1564,8 @@
     "PhotoCredit02": "�1981 California Native Plant Society",
     "PhotoCredit03": "�1993 California Native Plant Society",
     "PhotoCredit04": "�2005 Laura Ann Eliassen"
-}, {
+  },
+  {
     "OBJECTID": 55,
     "Latin_Name": "Cirsium occidentale var. occidentale",
     "Common_Name": "Cobweb Thistle",
@@ -1538,7 +1593,8 @@
     "PhotoCredit02": "�2013 Robert Steers/NPS",
     "PhotoCredit03": "�2009 Dr. Mark S. Brunell",
     "PhotoCredit04": "� Br. Alfred Brousseau, Saint Mary's College"
-}, {
+  },
+  {
     "OBJECTID": 56,
     "Latin_Name": "Cirsium quercetorum",
     "Common_Name": "Brownie Thistle",
@@ -1566,7 +1622,8 @@
     "PhotoCredit02": "� Br. Alfred Brousseau, Saint Mary's College",
     "PhotoCredit03": "�2010 Zoya Akulova (CC BY-NC 3.0)",
     "PhotoCredit04": "�2013 James Gonsman"
-}, {
+  },
+  {
     "OBJECTID": 57,
     "Latin_Name": "Clarkia davyi",
     "Common_Name": "Davy's Clarkia",
@@ -1594,7 +1651,8 @@
     "PhotoCredit02": "� Br. Alfred Brousseau, Saint Mary's College",
     "PhotoCredit03": "�2013 Vernon Smith (CC BY-NC-ND 3.0)",
     "PhotoCredit04": "�2013 Robert Sikora"
-}, {
+  },
+  {
     "OBJECTID": 58,
     "Latin_Name": "Clarkia purpurea",
     "Common_Name": "Winecup Clarkia",
@@ -1622,7 +1680,8 @@
     "PhotoCredit02": "�2013 Joshua McDill (CC BY-NC-SA 3.0)",
     "PhotoCredit03": "�2005 Keir Morse (CC BY-NC-SA 3.0)",
     "PhotoCredit04": "�2009 Gary A. Monroe (CC BY-NC 3.0)"
-}, {
+  },
+  {
     "OBJECTID": 59,
     "Latin_Name": "Clarkia rubicunda",
     "Common_Name": "Farewell to Spring",
@@ -1650,7 +1709,8 @@
     "PhotoCredit02": "�2009 Barry Breckling (CC BY-NC-SA 3.0)",
     "PhotoCredit03": "�2011 Margo Bors",
     "PhotoCredit04": "�2011 Margo Bors"
-}, {
+  },
+  {
     "OBJECTID": 60,
     "Latin_Name": "Clarkia unguiculata",
     "Common_Name": "Woodland Clarkia",
@@ -1678,7 +1738,8 @@
     "PhotoCredit02": "�2011 Barry Breckling (CC BY-NC-SA 3.0)",
     "PhotoCredit03": "�2007 Chris Winchell",
     "PhotoCredit04": "�2012 Diane Beauton & Cynthia Nunn."
-}, {
+  },
+  {
     "OBJECTID": 61,
     "Latin_Name": "Claytonia perfoliata",
     "Common_Name": "Miner's Lettuce",
@@ -1706,7 +1767,8 @@
     "PhotoCredit02": "�2010 Steven Thorsted (CC BY-NC 3.0)",
     "PhotoCredit03": "�2005 Charles E. Jones",
     "PhotoCredit04": "� Br. Alfred Brousseau, Saint Mary's College"
-}, {
+  },
+  {
     "OBJECTID": 62,
     "Latin_Name": "Clematis ligusticifolia",
     "Common_Name": "Western Virgin's Bower",
@@ -1734,7 +1796,8 @@
     "PhotoCredit02": "�2010 Lee Dittmann",
     "PhotoCredit03": "�2010 Lee Dittmann",
     "PhotoCredit04": "Beatrice F. Howitt � California Academy of Sciences"
-}, {
+  },
+  {
     "OBJECTID": 63,
     "Latin_Name": "Clinopodium douglasii",
     "Common_Name": "Yerba Buena",
@@ -1762,7 +1825,8 @@
     "PhotoCredit02": "�2012 Jean Pawek",
     "PhotoCredit03": "�2012 Aaron Arthur",
     "PhotoCredit04": "�2012 Gary McDonald"
-}, {
+  },
+  {
     "OBJECTID": 64,
     "Latin_Name": "Collinsia heterophylla",
     "Common_Name": "Chinese Houses",
@@ -1790,7 +1854,8 @@
     "PhotoCredit02": "� Br. Alfred Brousseau, Saint Mary's College",
     "PhotoCredit03": "�2010 Neal Kramer",
     "PhotoCredit04": "�2008 Steve Matson"
-}, {
+  },
+  {
     "OBJECTID": 65,
     "Latin_Name": "Cordyline australis",
     "Common_Name": "Cabbage Palm",
@@ -1818,7 +1883,8 @@
     "PhotoCredit02": "SelecTree. \"Cordyline australis Photo Record.\" 1995-2012. Jul 3, 2014.",
     "PhotoCredit03": "SelecTree. \"Cordyline australis Photo Record.\" 1995-2012. Jul 3, 2014.",
     "PhotoCredit04": "SelecTree. \"Cordyline australis Photo Record.\" 1995-2012. Jul 3, 2014."
-}, {
+  },
+  {
     "OBJECTID": 66,
     "Latin_Name": "Corethrogyne filaginifolia",
     "Common_Name": "Common Sand Aster",
@@ -1846,7 +1912,8 @@
     "PhotoCredit02": "�2013 Neal Kramer",
     "PhotoCredit03": "�2012 Robert Sikora",
     "PhotoCredit04": "�2012 Robert Sikora"
-}, {
+  },
+  {
     "OBJECTID": 67,
     "Latin_Name": "Cornus sericea",
     "Common_Name": "American Dogwood",
@@ -1874,7 +1941,8 @@
     "PhotoCredit02": "Charles Webber � California Academy of Sciences",
     "PhotoCredit03": "� Br. Alfred Brousseau, Saint Mary's College",
     "PhotoCredit04": "�2012 Jean Pawek"
-}, {
+  },
+  {
     "OBJECTID": 68,
     "Latin_Name": "Cornus sericea ssp. occidentalis",
     "Common_Name": "California Dogwood",
@@ -1902,7 +1970,8 @@
     "PhotoCredit02": "�2009 Barry Breckling (CC BY-NC-SA 3.0)",
     "PhotoCredit03": "�2011 Margo Bors",
     "PhotoCredit04": "�2011 Margo Bors"
-}, {
+  },
+  {
     "OBJECTID": 69,
     "Latin_Name": "Corylus cornuta",
     "Common_Name": "California Hazelnut",
@@ -1930,7 +1999,8 @@
     "PhotoCredit02": "�2010 Barry Breckling (CC BY-NC-SA 3.0)",
     "PhotoCredit03": "Charles Webber � California Academy of Sciences",
     "PhotoCredit04": "�2011 Aaron Arthur"
-}, {
+  },
+  {
     "OBJECTID": 70,
     "Latin_Name": "Corymbia ficifolia",
     "Common_Name": "Red Flowering Gum",
@@ -1958,7 +2028,8 @@
     "PhotoCredit02": "SelecTree. \"Corymbia ficifolia Photo Record.\" 1995-2012. Jul 3, 2014.",
     "PhotoCredit03": "SelecTree. \"Corymbia ficifolia Photo Record.\" 1995-2012. Jul 3, 2014.",
     "PhotoCredit04": "SelecTree. \"Corymbia ficifolia Photo Record.\" 1995-2012. Jul 3, 2014."
-}, {
+  },
+  {
     "OBJECTID": 71,
     "Latin_Name": "Crataegus laevigata",
     "Common_Name": "English Hawthorn",
@@ -1986,7 +2057,8 @@
     "PhotoCredit02": "SelecTree. \"Crataegus laevigata Photo Record.\" 1995-2012. Jul 3, 2014.",
     "PhotoCredit03": "SelecTree. \"Crataegus laevigata Photo Record.\" 1995-2012. Jul 3, 2014.",
     "PhotoCredit04": "SelecTree. \"Crataegus laevigata Photo Record.\" 1995-2012. Jul 3, 2014."
-}, {
+  },
+  {
     "OBJECTID": 72,
     "Latin_Name": "Crataegus phaenopyrum",
     "Common_Name": "Washington Hawthorn",
@@ -2014,7 +2086,8 @@
     "PhotoCredit02": "SelecTree. \"Crataegus phaenopyrum Photo Record.\" 1995-2012. Jul 3, 2014.",
     "PhotoCredit03": "SelecTree. \"Crataegus phaenopyrum Photo Record.\" 1995-2012. Jul 3, 2014.",
     "PhotoCredit04": "F.D. Richards (CC BY-SA 2.0)"
-}, {
+  },
+  {
     "OBJECTID": 73,
     "Latin_Name": "Crataegus x Lavallei",
     "Common_Name": "Lavall�e's hawthorn",
@@ -2042,7 +2115,8 @@
     "PhotoCredit02": "Jami Dwyer (CC BY-SA 2.0)",
     "PhotoCredit03": "Margrit (CC BY-NC-SA 2.0)",
     "PhotoCredit04": "Jon Sullivan (CC BY-NC 2.0)"
-}, {
+  },
+  {
     "OBJECTID": 74,
     "Latin_Name": "Cressa truxillensis",
     "Common_Name": "Alkali Weed",
@@ -2070,7 +2144,8 @@
     "PhotoCredit02": "�2013 Don Davis (CC BY-NC-SA 3.0)",
     "PhotoCredit03": "�2001 James Reiter",
     "PhotoCredit04": "�2008 Zoya Akulova (CC BY-NC 3.0)"
-}, {
+  },
+  {
     "OBJECTID": 75,
     "Latin_Name": "Cupaniopsis anacardioides",
     "Common_Name": "Carrot Wood",
@@ -2098,7 +2173,8 @@
     "PhotoCredit02": "SelecTree. \"Cupaniopsis anacardioides Photo Record.\" 1995-2012. Jul 7, 2014.",
     "PhotoCredit03": "SelecTree. \"Cupaniopsis anacardioides Photo Record.\" 1995-2012. Jul 7, 2014.",
     "PhotoCredit04": "SelecTree. \"Cupaniopsis anacardioides Photo Record.\" 1995-2012. Jul 7, 2014."
-}, {
+  },
+  {
     "OBJECTID": 76,
     "Latin_Name": "Danthonia californica",
     "Common_Name": "California Oatgrass",
@@ -2126,7 +2202,8 @@
     "PhotoCredit02": "�2010 Rebecca Wenk",
     "PhotoCredit03": "�2011 Hattie Brown",
     "PhotoCredit04": "�2007 Steve Matson"
-}, {
+  },
+  {
     "OBJECTID": 77,
     "Latin_Name": "Deinandra corymbosa",
     "Common_Name": "Coast Tarweed",
@@ -2154,7 +2231,8 @@
     "PhotoCredit02": "�2011 Chris Winchell",
     "PhotoCredit03": "�2012 Jake Ruygt",
     "PhotoCredit04": "�2010 Aaron Arthur"
-}, {
+  },
+  {
     "OBJECTID": 78,
     "Latin_Name": "Deschampsia cespitosa ssp. holciformis",
     "Common_Name": "Tufted Hairgrass",
@@ -2182,7 +2260,8 @@
     "PhotoCredit02": "�2010 Zoya Akulova (CC BY-NC 3.0)",
     "PhotoCredit03": "�2013 Robert Steers/NPS",
     "PhotoCredit04": "�2012 Vernon Smith (CC BY-NC-ND 3.0)"
-}, {
+  },
+  {
     "OBJECTID": 79,
     "Latin_Name": "Distichlis spicata",
     "Common_Name": "Saltgrass",
@@ -2210,7 +2289,8 @@
     "PhotoCredit02": "�2010 Vernon Smith (CC BY-NC-ND 3.0)",
     "PhotoCredit03": "�2012 Jorg & Mimi Fleige (CC BY-NC 3.0)",
     "PhotoCredit04": "�2009 Robert Sivinski (CC BY-NC 3.0)"
-}, {
+  },
+  {
     "OBJECTID": 80,
     "Latin_Name": "Dudleya brittonii D. pulverulenta",
     "Common_Name": "Chalk Dudleya",
@@ -2238,7 +2318,8 @@
     "PhotoCredit02": "�2010 Michael O'Brien",
     "PhotoCredit03": "�2000 Joseph Dougherty/ecology.org",
     "PhotoCredit04": "�2005 Michael W. Tuma"
-}, {
+  },
+  {
     "OBJECTID": 81,
     "Latin_Name": "Dudleya caespitosa",
     "Common_Name": "Sea Lettuce, Coast Dudleya",
@@ -2266,7 +2347,8 @@
     "PhotoCredit02": "�2012 CountryMouse13 (CC BY-NC-ND 2.0)",
     "PhotoCredit03": "�2013 Peggy A. Lopipero-Langmo (CC BY-SA 2.0)",
     "PhotoCredit04": "�2009 Pamla J. Eisenberg (CC BY-SA 2.0)"
-}, {
+  },
+  {
     "OBJECTID": 82,
     "Latin_Name": "Dudleya farinosa",
     "Common_Name": "North Coast Dudleya",
@@ -2294,7 +2376,8 @@
     "PhotoCredit02": "�1998 Gary A. Monroe (CC BY-NC 3.0)",
     "PhotoCredit03": "�2013 Robert Sikora",
     "PhotoCredit04": "�2013 Robert Sikora"
-}, {
+  },
+  {
     "OBJECTID": 83,
     "Latin_Name": "Elaeocarpus decipiens",
     "Common_Name": "Japanese Blueberry Tree",
@@ -2322,7 +2405,8 @@
     "PhotoCredit02": "Illustrations and photos by Maria del Pilar Paz, Biological Scientist, Environmental Horticulture Department, IFAS, University of Florida.",
     "PhotoCredit03": "Illustrations and photos by Maria del Pilar Paz, Biological Scientist, Environmental Horticulture Department, IFAS, University of Florida.",
     "PhotoCredit04": "Illustrations and photos by Maria del Pilar Paz, Biological Scientist, Environmental Horticulture Department, IFAS, University of Florida."
-}, {
+  },
+  {
     "OBJECTID": 84,
     "Latin_Name": "Eleocharis macrostachya",
     "Common_Name": "Common or Creeping Spikerush",
@@ -2350,7 +2434,8 @@
     "PhotoCredit02": "�2009 Keir Morse (CC BY-NC-SA 3.0)",
     "PhotoCredit03": "�2009 Keir Morse (CC BY-NC-SA 3.0)",
     "PhotoCredit04": "�2004 Carol W. Witham"
-}, {
+  },
+  {
     "OBJECTID": 85,
     "Latin_Name": "Eleocharis parvula",
     "Common_Name": "Dwarf Spikerush",
@@ -2378,7 +2463,8 @@
     "PhotoCredit02": "Robert H. Mohlenbrock @ USDA-NRCS PLANTS Database / USDA SCS. 1991",
     "PhotoCredit03": "� Larry Allain",
     "PhotoCredit04": "�2006 John Maunder"
-}, {
+  },
+  {
     "OBJECTID": 86,
     "Latin_Name": "Elymus glaucus",
     "Common_Name": "Blue Wild-rye",
@@ -2406,7 +2492,8 @@
     "PhotoCredit02": "�2013 Jean Pawek",
     "PhotoCredit03": "�2013 Jean Pawek",
     "PhotoCredit04": "�2008 Keir Morse (CC BY-NC-SA 3.0)"
-}, {
+  },
+  {
     "OBJECTID": 87,
     "Latin_Name": "Elymus mollis ssp. mollis",
     "Common_Name": "American Dune Grass",
@@ -2434,7 +2521,8 @@
     "PhotoCredit02": "� Avis Boutell",
     "PhotoCredit03": "�2010 Robert Steers/NPS",
     "PhotoCredit04": "� Jeb Bjerke"
-}, {
+  },
+  {
     "OBJECTID": 88,
     "Latin_Name": "Elymus pacificus",
     "Common_Name": "Pacific wild rye",
@@ -2462,7 +2550,8 @@
     "PhotoCredit02": "� Avis Boutell",
     "PhotoCredit03": "� Avis Boutell",
     "PhotoCredit04": "�2006 Tom Annese"
-}, {
+  },
+  {
     "OBJECTID": 89,
     "Latin_Name": "Elymus triticoides",
     "Common_Name": "Beardless wild rye",
@@ -2490,7 +2579,8 @@
     "PhotoCredit02": "� Matt Lavin",
     "PhotoCredit03": "� Matt Lavin",
     "PhotoCredit04": "� Matt Lavin"
-}, {
+  },
+  {
     "OBJECTID": 90,
     "Latin_Name": "Encelia californica",
     "Common_Name": "Bush Sunflower",
@@ -2518,7 +2608,8 @@
     "PhotoCredit02": "�2011 Zoya Akulova  (CC BY-NC 3.0)",
     "PhotoCredit03": "�2003 Michael Charters",
     "PhotoCredit04": "�Las Pilitas Nursery"
-}, {
+  },
+  {
     "OBJECTID": 91,
     "Latin_Name": "Epilobium brachycarpum",
     "Common_Name": "Annual Fireweed",
@@ -2546,7 +2637,8 @@
     "PhotoCredit02": "�2007 George W. Hartwell",
     "PhotoCredit03": "� Br. Alfred Brousseau, Saint Mary's College",
     "PhotoCredit04": "�2002 Gary A. Monroe  (CC BY-NC 3.0)"
-}, {
+  },
+  {
     "OBJECTID": 92,
     "Latin_Name": "Epilobium canum",
     "Common_Name": "California Fuchsia",
@@ -2574,7 +2666,8 @@
     "PhotoCredit02": "� Tony Frates  (CC BY-NC-SA 2.0)",
     "PhotoCredit03": "� 1993 Gary A. Monroe (CC BY-NC 3.0)",
     "PhotoCredit04": "� Don M. Davis  (CC BY-NC-ND 2.0)"
-}, {
+  },
+  {
     "OBJECTID": 93,
     "Latin_Name": "Epilobium ciliatum ssp. watsonii",
     "Common_Name": "Willow Herb",
@@ -2602,7 +2695,8 @@
     "PhotoCredit02": "�2013 Jean Pawek",
     "PhotoCredit03": "�1999 James B. Gratiot",
     "PhotoCredit04": "� David A. Hofmann"
-}, {
+  },
+  {
     "OBJECTID": 94,
     "Latin_Name": "Ericameria ericoides",
     "Common_Name": "Mock Heather",
@@ -2630,7 +2724,8 @@
     "PhotoCredit02": "�2013 Aaron Arthur",
     "PhotoCredit03": "Robert Potts � California Academy of Sciences",
     "PhotoCredit04": "�2012 Jean Pawek"
-}, {
+  },
+  {
     "OBJECTID": 95,
     "Latin_Name": "Erigeron glaucus",
     "Common_Name": "Seaside Daisy",
@@ -2658,7 +2753,8 @@
     "PhotoCredit02": "Albert P. Bekker � California Academy of Sciences",
     "PhotoCredit03": "�2010 Steven Thorsted (CC BY-NC 3.0)",
     "PhotoCredit04": "Charles Webber � California Academy of Sciences"
-}, {
+  },
+  {
     "OBJECTID": 96,
     "Latin_Name": "Eriobotrya deflexa",
     "Common_Name": "Bronze Loquat",
@@ -2686,7 +2782,8 @@
     "PhotoCredit02": "SelecTree. \"Eriobotrya deflexa Photo Record.\" 1995-2012. Jul 7, 2014.",
     "PhotoCredit03": "SelecTree. \"Eriobotrya deflexa Photo Record.\" 1995-2012. Jul 7, 2014.",
     "PhotoCredit04": "SelecTree. \"Eriobotrya deflexa Photo Record.\" 1995-2012. Jul 7, 2014."
-}, {
+  },
+  {
     "OBJECTID": 97,
     "Latin_Name": "Eriogonum latifolium",
     "Common_Name": "Coast Buckwheat",
@@ -2714,7 +2811,8 @@
     "PhotoCredit02": "�2004 Bob Huettmann",
     "PhotoCredit03": "�2012 Robert Sikora",
     "PhotoCredit04": "�2000 Joseph Dougherty/ecology.org"
-}, {
+  },
+  {
     "OBJECTID": 98,
     "Latin_Name": "Eriophyllum staechadifolium",
     "Common_Name": "Lizardtail",
@@ -2742,7 +2840,8 @@
     "PhotoCredit02": "�2013 Neal Kramer",
     "PhotoCredit03": "�2013 Neal Kramer",
     "PhotoCredit04": "�2013 Jean Pawek"
-}, {
+  },
+  {
     "OBJECTID": 99,
     "Latin_Name": "Erysimum franciscanum",
     "Common_Name": "San Francisco Wallflower",
@@ -2770,7 +2869,8 @@
     "PhotoCredit02": "�2013 Neal Kramer",
     "PhotoCredit03": "�2013 Neal Kramer",
     "PhotoCredit04": "�2011 Dylan Neubauer"
-}, {
+  },
+  {
     "OBJECTID": 100,
     "Latin_Name": "Escallonia bifida",
     "Common_Name": "White Escallonia",
@@ -2798,7 +2898,8 @@
     "PhotoCredit02": "� ibsut (CC by-nc 2.0)",
     "PhotoCredit03": "� Nigel Taylor",
     "PhotoCredit04": "� wally grom (CC by-nc-sa 2.0)"
-}, {
+  },
+  {
     "OBJECTID": 101,
     "Latin_Name": "Eschscholzia californica",
     "Common_Name": "California Poppy",
@@ -2826,7 +2927,8 @@
     "PhotoCredit02": "Charles Webber � California Academy of Sciences",
     "PhotoCredit03": "Gerald and Buff Corsi � California Academy of Sciences",
     "PhotoCredit04": "�2007 Neal Kramer"
-}, {
+  },
+  {
     "OBJECTID": 102,
     "Latin_Name": "Eucalyptus nicholii",
     "Common_Name": "Nichol's Willowleafed Peppermint",
@@ -2854,7 +2956,8 @@
     "PhotoCredit02": "SelecTree. \"Eucalyptus nicholii Photo Record.\" 1995-2012. Jul 7, 2014.",
     "PhotoCredit03": "SelecTree. \"Eucalyptus nicholii Photo Record.\" 1995-2012. Jul 7, 2014.",
     "PhotoCredit04": "SelecTree. \"Eucalyptus nicholii Photo Record.\" 1995-2012. Jul 7, 2014."
-}, {
+  },
+  {
     "OBJECTID": 103,
     "Latin_Name": "Eucalyptus polyanthemos",
     "Common_Name": "Silver Dollar Gum",
@@ -2882,7 +2985,8 @@
     "PhotoCredit02": "SelecTree. \"Eucalyptus polyanthemos Photo Record.\" 1995-2012. Jul 7, 2014.",
     "PhotoCredit03": "SelecTree. \"Eucalyptus polyanthemos Photo Record.\" 1995-2012. Jul 7, 2014.",
     "PhotoCredit04": "SelecTree. \"Eucalyptus polyanthemos Photo Record.\" 1995-2012. Jul 7, 2014."
-}, {
+  },
+  {
     "OBJECTID": 104,
     "Latin_Name": "Euthamia occidentalis",
     "Common_Name": "Western Goldenrod",
@@ -2910,7 +3014,8 @@
     "PhotoCredit02": "�2003 Michael Charters",
     "PhotoCredit03": "�2003 Michael Charters",
     "PhotoCredit04": "�2007 Neal Kramer"
-}, {
+  },
+  {
     "OBJECTID": 105,
     "Latin_Name": "Festuca californica",
     "Common_Name": "California Fescue",
@@ -2938,7 +3043,8 @@
     "PhotoCredit02": "�2007 Neal Kramer",
     "PhotoCredit03": "�2011 Aaron Arthur",
     "PhotoCredit04": "�2001 CDFA (CC BY-NC 3.0)"
-}, {
+  },
+  {
     "OBJECTID": 106,
     "Latin_Name": "Festuca idahoensis",
     "Common_Name": "Idaho Fescue",
@@ -2966,7 +3072,8 @@
     "PhotoCredit02": "� Andy Huber/GROWISER",
     "PhotoCredit03": "�2008 Keir Morse (CC BY-NC-SA 3.0)",
     "PhotoCredit04": "�2005 Steve Matson"
-}, {
+  },
+  {
     "OBJECTID": 107,
     "Latin_Name": "Festuca rubra",
     "Common_Name": "Red Fescue",
@@ -2994,7 +3101,8 @@
     "PhotoCredit02": "�oliveoligarchy (CC BY 2.0)",
     "PhotoCredit03": "�oliveoligarchy (CC BY 2.0)",
     "PhotoCredit04": "�oliveoligarchy (CC BY 2.0)"
-}, {
+  },
+  {
     "OBJECTID": 108,
     "Latin_Name": "Festuca rubra 'Point Molate'",
     "Common_Name": "Molate Fescue",
@@ -3022,7 +3130,8 @@
     "PhotoCredit02": "oliveoligarchy (CC BY 2.0)",
     "PhotoCredit03": "eNikodemus (CC BY 2.0)",
     "PhotoCredit04": "Starr Environmental (CC BY 2.0)"
-}, {
+  },
+  {
     "OBJECTID": 109,
     "Latin_Name": "Fragaria chiloensis",
     "Common_Name": "Coast Strawberry",
@@ -3050,7 +3159,8 @@
     "PhotoCredit02": "�2013 Zoya Akulova (CC BY-NC 3.0)",
     "PhotoCredit03": "�2014 Vernon Smith (CC BY-NC-ND 3.0)",
     "PhotoCredit04": "� Br. Alfred Brousseau, Saint Mary's College"
-}, {
+  },
+  {
     "OBJECTID": 110,
     "Latin_Name": "Fragaria vesca",
     "Common_Name": "Woodland Strawberry",
@@ -3078,7 +3188,8 @@
     "PhotoCredit02": "�2008 Keir Morse (CC BY-NC-SA 3.0)",
     "PhotoCredit03": "oxfordian.world (CC BY 2.0)",
     "PhotoCredit04": "�2008 Keir Morse (CC BY-NC-SA 3.0)"
-}, {
+  },
+  {
     "OBJECTID": 111,
     "Latin_Name": "Frangula californica",
     "Common_Name": "Coffeeberry",
@@ -3106,7 +3217,8 @@
     "PhotoCredit02": "�2012 Aaron Arthur",
     "PhotoCredit03": "�2012 Jean Pawek",
     "PhotoCredit04": "�2012 Jean Pawek"
-}, {
+  },
+  {
     "OBJECTID": 112,
     "Latin_Name": "Frankenia salina",
     "Common_Name": "Alkali-heath",
@@ -3134,7 +3246,8 @@
     "PhotoCredit02": "� Br. Alfred Brousseau, Saint Mary's College",
     "PhotoCredit03": "� Br. Alfred Brousseau, Saint Mary's College",
     "PhotoCredit04": "�2008 Margo Bors"
-}, {
+  },
+  {
     "OBJECTID": 113,
     "Latin_Name": "Fraxinus latifolia",
     "Common_Name": "Oregon Ash",
@@ -3162,7 +3275,8 @@
     "PhotoCredit02": "� Br. Alfred Brousseau, Saint Mary's College",
     "PhotoCredit03": "�2008 Neal Kramer",
     "PhotoCredit04": "�2008 Keir Morse (CC BY-NC-SA 3.0)"
-}, {
+  },
+  {
     "OBJECTID": 114,
     "Latin_Name": "Fremontodendron 'California Glory'",
     "Common_Name": "Flannel Bush",
@@ -3190,7 +3304,8 @@
     "PhotoCredit02": "�2008 BonTerra Consulting",
     "PhotoCredit03": "� Br. Alfred Brousseau, Saint Mary's College.",
     "PhotoCredit04": "� Br. Alfred Brousseau, Saint Mary's College."
-}, {
+  },
+  {
     "OBJECTID": 115,
     "Latin_Name": "Gaillardia x grandiflora",
     "Common_Name": "Gaillardia (Blanket Flower)",
@@ -3218,7 +3333,8 @@
     "PhotoCredit02": "Toni Moore � 2005-2006 Arizona Board of Regents",
     "PhotoCredit03": "� The Brroksville Garden Club",
     "PhotoCredit04": "Toni Moore � 2005-2006 Arizona Board of Regents"
-}, {
+  },
+  {
     "OBJECTID": 116,
     "Latin_Name": "Galvezia speciosa",
     "Common_Name": "Island Bush Snapdragon",
@@ -3246,7 +3362,8 @@
     "PhotoCredit02": "Alan Harper (CC BY-NC 2.0)",
     "PhotoCredit03": "Kerry Woods (CC BY-NC-ND 2.0)",
     "PhotoCredit04": "Erick Lux (CC BY-NC-SA 2.0)"
-}, {
+  },
+  {
     "OBJECTID": 117,
     "Latin_Name": "Garrya elliptica",
     "Common_Name": "Coast Silktassel",
@@ -3274,7 +3391,8 @@
     "PhotoCredit02": "SelecTree. \"Garrya elliptica Photo Record.\" 1995-2012. Jul 7, 2014.",
     "PhotoCredit03": "SelecTree. \"Garrya elliptica Photo Record.\" 1995-2012. Jul 7, 2014.",
     "PhotoCredit04": "SelecTree. \"Garrya elliptica Photo Record.\" 1995-2012. Jul 7, 2014."
-}, {
+  },
+  {
     "OBJECTID": 118,
     "Latin_Name": "Geijera parviflora",
     "Common_Name": "Australian Willow",
@@ -3302,7 +3420,8 @@
     "PhotoCredit02": "SelecTree. \"Geijera parviflora Photo Record.\" 1995-2012. Jul 7, 2014.",
     "PhotoCredit03": "SelecTree. \"Geijera parviflora Photo Record.\" 1995-2012. Jul 7, 2014.",
     "PhotoCredit04": "SelecTree. \"Geijera parviflora Photo Record.\" 1995-2012. Jul 7, 2014."
-}, {
+  },
+  {
     "OBJECTID": 119,
     "Latin_Name": "Gilia capitata ssp. Chamissonis",
     "Common_Name": "Dune Gilia",
@@ -3330,7 +3449,8 @@
     "PhotoCredit02": "�2006 Andrea Jesse",
     "PhotoCredit03": "�2003 Doreen L. Smith",
     "PhotoCredit04": "�2011 Eric Wrubel/NPS"
-}, {
+  },
+  {
     "OBJECTID": 120,
     "Latin_Name": "Gilia tricolor ssp. Tricolor",
     "Common_Name": "Bird's Eye Gilia",
@@ -3358,7 +3478,8 @@
     "PhotoCredit02": "�2003 George Jackson",
     "PhotoCredit03": "�2010 Neal Kramer",
     "PhotoCredit04": "�2010 Neal Kramer"
-}, {
+  },
+  {
     "OBJECTID": 121,
     "Latin_Name": "Ginkgo biloba 'Autumn Gold'",
     "Common_Name": "Maidenhair Tree",
@@ -3386,7 +3507,8 @@
     "PhotoCredit02": "SelecTree. \"Ginkgo biloba Photo Record.\" 1995-2012. Jul 7, 2014.",
     "PhotoCredit03": "SelecTree. \"Ginkgo biloba Photo Record.\" 1995-2012. Jul 7, 2014.",
     "PhotoCredit04": "SelecTree. \"Ginkgo biloba Photo Record.\" 1995-2012. Jul 7, 2014."
-}, {
+  },
+  {
     "OBJECTID": 122,
     "Latin_Name": "Glaux maritima",
     "Common_Name": "Sea milkwort",
@@ -3414,7 +3536,8 @@
     "PhotoCredit02": "J. E.(Jed) and Bonnie McClellan � California Academy of Sciences",
     "PhotoCredit03": "�2009 Phil Pullen",
     "PhotoCredit04": "�2007 Steve Matson"
-}, {
+  },
+  {
     "OBJECTID": 123,
     "Latin_Name": "Gleditsia triacanthos 'Shademaster'",
     "Common_Name": "Shademaster Locust",
@@ -3442,7 +3565,8 @@
     "PhotoCredit02": "SelecTree. \"Gleditsia triacanthos var. inermis 'Shademaster' Photo Record.\" 1995-2012. Jul 7, 2014",
     "PhotoCredit03": "SelecTree. \"Gleditsia triacanthos Photo Record.\" 1995-2012. Jul 7, 2014.",
     "PhotoCredit04": "SelecTree. \"Gleditsia triacanthos Photo Record.\" 1995-2012. Jul 7, 2014."
-}, {
+  },
+  {
     "OBJECTID": 124,
     "Latin_Name": "Grindelia hirsutula",
     "Common_Name": "San Francisco Gumplant",
@@ -3470,7 +3594,8 @@
     "PhotoCredit02": "� Br. Alfred Brousseau, Saint Mary's College",
     "PhotoCredit03": "Robert Potts � California Academy of Sciences",
     "PhotoCredit04": "�2004 Doreen L. Smith"
-}, {
+  },
+  {
     "OBJECTID": 125,
     "Latin_Name": "Grindelia stricta",
     "Common_Name": "Coastal Gumplant",
@@ -3498,7 +3623,8 @@
     "PhotoCredit02": "� Br. Alfred Brousseau, Saint Mary's College",
     "PhotoCredit03": "Eric Hunt (CC BY-NC-ND 2.0)",
     "PhotoCredit04": "Philip Bouchard (CC BY-NC-ND 2.0)"
-}, {
+  },
+  {
     "OBJECTID": 126,
     "Latin_Name": "Helianthus gracilentus",
     "Common_Name": "Slender Sunflower",
@@ -3526,7 +3652,8 @@
     "PhotoCredit02": "�2013 Keir Morse (CC BY-NC-SA 3.0)",
     "PhotoCredit03": "�2013 Keir Morse (CC BY-NC-SA 3.0)",
     "PhotoCredit04": "�2010 Zoya Akulova (CC BY-NC 3.0)"
-}, {
+  },
+  {
     "OBJECTID": 127,
     "Latin_Name": "Heliotropium curassavicum",
     "Common_Name": "Wild Heliotrope",
@@ -3554,7 +3681,8 @@
     "PhotoCredit02": "� Br. Alfred Brousseau, Saint Mary's College",
     "PhotoCredit03": "� Br. Alfred Brousseau, Saint Mary's College",
     "PhotoCredit04": "�2004 Keir Morse  (CC BY-NC-SA 3.0)"
-}, {
+  },
+  {
     "OBJECTID": 128,
     "Latin_Name": "Heracleum maximum",
     "Common_Name": "Cow Parsnip",
@@ -3582,7 +3710,8 @@
     "PhotoCredit02": "� Br. Alfred Brousseau, Saint Mary's College",
     "PhotoCredit03": "� Br. Alfred Brousseau, Saint Mary's College",
     "PhotoCredit04": "� 2000 Gary A. Monroe (CC BY-NC 3.0)"
-}, {
+  },
+  {
     "OBJECTID": 129,
     "Latin_Name": "Heteromeles arbutifolia",
     "Common_Name": "Toyon",
@@ -3610,7 +3739,8 @@
     "PhotoCredit02": "James Gaither \"jim-sf\" (CC BY-NC-ND 2.0)",
     "PhotoCredit03": "Belinda Lo \"western goblin\" (CC BY-NC-SA 2.0)",
     "PhotoCredit04": "Roy Randall (CC BY-NC-ND 2.0)"
-}, {
+  },
+  {
     "OBJECTID": 130,
     "Latin_Name": "Heterotheca sessiliflora ssp. Bolanderi",
     "Common_Name": "Bolander's Goldenaster",
@@ -3638,7 +3768,8 @@
     "PhotoCredit02": "�2007 Neal Kramer",
     "PhotoCredit03": "�2012 Aaron Arthur",
     "PhotoCredit04": "�2007 Neal Kramer"
-}, {
+  },
+  {
     "OBJECTID": 131,
     "Latin_Name": "Heuchera micrantha",
     "Common_Name": "Alum Root",
@@ -3666,7 +3797,8 @@
     "PhotoCredit02": "� Br. Alfred Brousseau, Saint Mary's College",
     "PhotoCredit03": "� Br. Alfred Brousseau, Saint Mary's College",
     "PhotoCredit04": "� 2009 Keir Morse (CC BY-NC-SA 3.0)"
-}, {
+  },
+  {
     "OBJECTID": 132,
     "Latin_Name": "Holodiscus discolor",
     "Common_Name": "Cream Bush",
@@ -3694,7 +3826,8 @@
     "PhotoCredit02": "�2003 Steve Matson",
     "PhotoCredit03": "� Br. Alfred Brousseau, Saint Mary's College",
     "PhotoCredit04": "�2003 Michael Charters"
-}, {
+  },
+  {
     "OBJECTID": 133,
     "Latin_Name": "Hordeum brachyantherum",
     "Common_Name": "Meadow Barley",
@@ -3722,7 +3855,8 @@
     "PhotoCredit02": "�2005 Steve Matson",
     "PhotoCredit03": "�2010 Keir Morse (CC BY-NC-SA 3.0)",
     "PhotoCredit04": "�2004 Steve Matson"
-}, {
+  },
+  {
     "OBJECTID": 134,
     "Latin_Name": "Horkelia californica",
     "Common_Name": "California Horkelia",
@@ -3750,7 +3884,8 @@
     "PhotoCredit02": "�2009 Vernon Smith (CC BY-NC-ND 3.0)",
     "PhotoCredit03": "�2013 Jean Pawek",
     "PhotoCredit04": "� Br. Alfred Brousseau, Saint Mary's College"
-}, {
+  },
+  {
     "OBJECTID": 135,
     "Latin_Name": "Hosackia gracilis",
     "Common_Name": "Harlequin Lotus",
@@ -3778,7 +3913,8 @@
     "PhotoCredit02": "�2012 Robert Sikora",
     "PhotoCredit03": "�2013 Aaron Arthur",
     "PhotoCredit04": "�2013 Aaron Arthur"
-}, {
+  },
+  {
     "OBJECTID": 136,
     "Latin_Name": "Hymenosporum flavum",
     "Common_Name": "Sweetshade",
@@ -3806,7 +3942,8 @@
     "PhotoCredit02": "SelecTree. \"Hymenosporum flavum Photo Record.\" 1995-2012. Jul 7, 2014.",
     "PhotoCredit03": "SelecTree. \"Hymenosporum flavum Photo Record.\" 1995-2012. Jul 7, 2014.",
     "PhotoCredit04": "SelecTree. \"Hymenosporum flavum Photo Record.\" 1995-2012. Jul 7, 2014."
-}, {
+  },
+  {
     "OBJECTID": 137,
     "Latin_Name": "Iris douglasiana",
     "Common_Name": "Douglas Iris",
@@ -3834,7 +3971,8 @@
     "PhotoCredit02": "� Br. Alfred Brousseau, Saint Mary's College",
     "PhotoCredit03": "�1994 Gary A. Monroe (CC BY-NC 3.0)",
     "PhotoCredit04": "�1994 Gary A. Monroe (CC BY-NC 3.0)"
-}, {
+  },
+  {
     "OBJECTID": 138,
     "Latin_Name": "Isolepis cernua",
     "Common_Name": "Low Bulrush",
@@ -3862,7 +4000,8 @@
     "PhotoCredit02": "�2002 Dean Wm. Taylor (CC BY-NC-SA 3.0)",
     "PhotoCredit03": "� linghe (CC BY-NC 3.0)",
     "PhotoCredit04": "Toni Corelli (CC BY-NC 2.0)"
-}, {
+  },
+  {
     "OBJECTID": 139,
     "Latin_Name": "Iva axillaris",
     "Common_Name": "Poverty-weed",
@@ -3890,7 +4029,8 @@
     "PhotoCredit02": "�2012 Jean Pawek",
     "PhotoCredit03": "Matt Lavin (CC BY-SA 2.0)",
     "PhotoCredit04": "Matt Lavin (CC BY-SA 2.0)"
-}, {
+  },
+  {
     "OBJECTID": 140,
     "Latin_Name": "Jacaranda mimosifolia",
     "Common_Name": "Jacaranda",
@@ -3918,7 +4058,8 @@
     "PhotoCredit02": "SelecTree. \"Jacaranda mimosifolia Photo Record.\" 1995-2012. Jul 7, 2014.",
     "PhotoCredit03": "SelecTree. \"Jacaranda mimosifolia Photo Record.\" 1995-2012. Jul 7, 2014.",
     "PhotoCredit04": "SelecTree. \"Jacaranda mimosifolia Photo Record.\" 1995-2012. Jul 7, 2014."
-}, {
+  },
+  {
     "OBJECTID": 141,
     "Latin_Name": "Juncus balticus",
     "Common_Name": "Salt Rush",
@@ -3946,7 +4087,8 @@
     "PhotoCredit02": "�2008 Keir Morse (CC BY-NC-SA 3.0)",
     "PhotoCredit03": "�2005 Brent Miller (CC BY-NC-SA 3.0)",
     "PhotoCredit04": "Matt Lavin (CC BY-SA 2.0)"
-}, {
+  },
+  {
     "OBJECTID": 142,
     "Latin_Name": "Juncus bufonius",
     "Common_Name": "Toad Rush",
@@ -3974,7 +4116,8 @@
     "PhotoCredit02": "�2012 Jean Pawek",
     "PhotoCredit03": "�2011 Jorg & Mimi Fleige (CC BY-NC 3.0)",
     "PhotoCredit04": "�2008 Zoya Akulova (CC BY-NC 3.0)"
-}, {
+  },
+  {
     "OBJECTID": 143,
     "Latin_Name": "Juncus xiphioides",
     "Common_Name": "Iris-leaved Rush",
@@ -4002,7 +4145,8 @@
     "PhotoCredit02": "�2009 Keir Morse (CC BY-NC-SA 3.0)",
     "PhotoCredit03": "�2002 Bart and Susan Eisenberg (CC BY 3.0)",
     "PhotoCredit04": "�2010 Zoya Akulova (CC BY-NC 3.0)"
-}, {
+  },
+  {
     "OBJECTID": 144,
     "Latin_Name": "Koeleria macrantha",
     "Common_Name": "June Grass",
@@ -4030,7 +4174,8 @@
     "PhotoCredit02": "�2008 Keir Morse (CC BY-NC-SA 3.0)",
     "PhotoCredit03": "�2010 Zoya Akulova (CC BY-NC 3.0)",
     "PhotoCredit04": "�2011 RT Hawke (CC BY-NC 3.0)"
-}, {
+  },
+  {
     "OBJECTID": 145,
     "Latin_Name": "Koelreuteria paniculata",
     "Common_Name": "Goldenrain Tree",
@@ -4058,7 +4203,8 @@
     "PhotoCredit02": "SelecTree. \"Koelreuteria paniculata Photo Record.\" 1995-2012. Jul 7, 2014.",
     "PhotoCredit03": "SelecTree. \"Koelreuteria paniculata Photo Record.\" 1995-2012. Jul 7, 2014.",
     "PhotoCredit04": "SelecTree. \"Koelreuteria paniculata Photo Record.\" 1995-2012. Jul 7, 2014."
-}, {
+  },
+  {
     "OBJECTID": 146,
     "Latin_Name": "Lagunaria patersonii",
     "Common_Name": "Primrose Tree",
@@ -4086,7 +4232,8 @@
     "PhotoCredit02": "SelecTree. \"Lagunaria patersonia Photo Record.\" 1995-2012. Jul 7, 2014.",
     "PhotoCredit03": "SelecTree. \"Lagunaria patersonia Photo Record.\" 1995-2012. Jul 7, 2014.",
     "PhotoCredit04": "SelecTree. \"Lagunaria patersonia Photo Record.\" 1995-2012. Jul 7, 2014."
-}, {
+  },
+  {
     "OBJECTID": 147,
     "Latin_Name": "Lasthenia californica",
     "Common_Name": "California Goldfields",
@@ -4114,7 +4261,8 @@
     "PhotoCredit02": "� Br. Alfred Brousseau, Saint Mary's College",
     "PhotoCredit03": "� Br. Alfred Brousseau, Saint Mary's College",
     "PhotoCredit04": "� Br. Alfred Brousseau, Saint Mary's College"
-}, {
+  },
+  {
     "OBJECTID": 148,
     "Latin_Name": "Lasthenia glaberrima",
     "Common_Name": "Smooth Goldfields",
@@ -4142,7 +4290,8 @@
     "PhotoCredit02": "D In Orbit \"OrbitalD\" (CC BY-NC-ND 2.0)",
     "PhotoCredit03": "John Game (CC BY-NC-SA 2.0)",
     "PhotoCredit04": "�1994 Dean Wm. Taylor (CC BY-NC-SA 3.0)"
-}, {
+  },
+  {
     "OBJECTID": 149,
     "Latin_Name": "Lasthenia glabrata",
     "Common_Name": "Yellow-rayed Goldfields",
@@ -4170,7 +4319,8 @@
     "PhotoCredit02": "� Br. Alfred Brousseau, Saint Mary's College",
     "PhotoCredit03": "�2013 Keir Morse (CC BY-NC-SA 3.0)",
     "PhotoCredit04": "�2013 Keir Morse (CC BY-NC-SA 3.0)"
-}, {
+  },
+  {
     "OBJECTID": 150,
     "Latin_Name": "Laurus nobilis 'Saratoga'",
     "Common_Name": "Sweet Bay",
@@ -4198,7 +4348,8 @@
     "PhotoCredit02": "SelecTree. \"Laurus nobilis Photo Record.\" 1995-2012. Jul 7, 2014.",
     "PhotoCredit03": "SelecTree. \"Laurus nobilis Photo Record.\" 1995-2012. Jul 7, 2014.",
     "PhotoCredit04": "SelecTree. \"Laurus nobilis Photo Record.\" 1995-2012. Jul 7, 2014."
-}, {
+  },
+  {
     "OBJECTID": 151,
     "Latin_Name": "Lavandula sp.",
     "Common_Name": "Lavender",
@@ -4226,7 +4377,8 @@
     "PhotoCredit02": "Maja Dumat (CC BY-NC-SA 2.0)",
     "PhotoCredit03": "Maja Dumat (CC BY 2.0)",
     "PhotoCredit04": "Maja Dumat (CC BY 2.0)"
-}, {
+  },
+  {
     "OBJECTID": 152,
     "Latin_Name": "Leptospermum laevigatum",
     "Common_Name": "Australian Tea Tree",
@@ -4254,7 +4406,8 @@
     "PhotoCredit02": "SelecTree. \"Leptospermum laevigatum Photo Record.\" 1995-2012. Jul 7, 2014.",
     "PhotoCredit03": "SelecTree. \"Leptospermum laevigatum Photo Record.\" 1995-2012. Jul 7, 2014.",
     "PhotoCredit04": "SelecTree. \"Leptospermum laevigatum Photo Record.\" 1995-2012. Jul 7, 2014."
-}, {
+  },
+  {
     "OBJECTID": 153,
     "Latin_Name": "Leptosyne calliopsidea",
     "Common_Name": "Leafy-stemmed Coreopsis",
@@ -4282,7 +4435,8 @@
     "PhotoCredit02": "�2011 Jean Pawek",
     "PhotoCredit03": "� Br. Alfred Brousseau, Saint Mary's College",
     "PhotoCredit04": "� Br. Alfred Brousseau, Saint Mary's College"
-}, {
+  },
+  {
     "OBJECTID": 154,
     "Latin_Name": "Limonium californicum",
     "Common_Name": "Sea Lavender",
@@ -4310,7 +4464,8 @@
     "PhotoCredit02": "� Br. Alfred Brousseau, Saint Mary's College",
     "PhotoCredit03": "� Br. Alfred Brousseau, Saint Mary's College",
     "PhotoCredit04": "� Br. Alfred Brousseau, Saint Mary's College"
-}, {
+  },
+  {
     "OBJECTID": 155,
     "Latin_Name": "Liquidambar styraciflua",
     "Common_Name": "American Sweetgum",
@@ -4338,7 +4493,8 @@
     "PhotoCredit02": "SelecTree. \"Liquidambar styraciflua Photo Record.\" 1995-2012. Jul 7, 2014.",
     "PhotoCredit03": "SelecTree. \"Liquidambar styraciflua Photo Record.\" 1995-2012. Jul 7, 2014.",
     "PhotoCredit04": "SelecTree. \"Liquidambar styraciflua Photo Record.\" 1995-2012. Jul 7, 2014."
-}, {
+  },
+  {
     "OBJECTID": 156,
     "Latin_Name": "Liriodendron tulipifera",
     "Common_Name": "Tulip Tree",
@@ -4366,7 +4522,8 @@
     "PhotoCredit02": "SelecTree. \"Liriodendron tulipifera Photo Record.\" 1995-2012. Jul 7, 2014.",
     "PhotoCredit03": "SelecTree. \"Liriodendron tulipifera Photo Record.\" 1995-2012. Jul 7, 2014.",
     "PhotoCredit04": "SelecTree. \"Liriodendron tulipifera Photo Record.\" 1995-2012. Jul 7, 2014."
-}, {
+  },
+  {
     "OBJECTID": 157,
     "Latin_Name": "Lomatium californicum",
     "Common_Name": "California Celery",
@@ -4394,7 +4551,8 @@
     "PhotoCredit02": "� Br. Alfred Brousseau, Saint Mary's College",
     "PhotoCredit03": "�2006 Keir Morse (CC BY-NC-SA 3.0)",
     "PhotoCredit04": "�2006 Keir Morse (CC BY-NC-SA 3.0)"
-}, {
+  },
+  {
     "OBJECTID": 158,
     "Latin_Name": "Lonicera involucrata",
     "Common_Name": "Twinberry Honeysuckle",
@@ -4422,7 +4580,8 @@
     "PhotoCredit02": "N. Stuart (CC BY-NC-ND 2.0)",
     "PhotoCredit03": "sfbaywalk (CC BY 2.0)",
     "PhotoCredit04": "avid A. Hofmann (CC BY-NC-ND 2.0)"
-}, {
+  },
+  {
     "OBJECTID": 159,
     "Latin_Name": "Lophostemon confertus",
     "Common_Name": "Brisbane Box",
@@ -4450,7 +4609,8 @@
     "PhotoCredit02": "SelecTree. \"Lophostemon confertus Photo Record.\" 1995-2012. Jul 7, 2014.",
     "PhotoCredit03": "SelecTree. \"Lophostemon confertus Photo Record.\" 1995-2012. Jul 7, 2014.",
     "PhotoCredit04": "SelecTree. \"Lophostemon confertus Photo Record.\" 1995-2012. Jul 7, 2014."
-}, {
+  },
+  {
     "OBJECTID": 160,
     "Latin_Name": "Lupinus albifrons",
     "Common_Name": "Silver Lupine",
@@ -4478,7 +4638,8 @@
     "PhotoCredit02": "� Br. Alfred Brousseau, Saint Mary's College",
     "PhotoCredit03": "� Br. Alfred Brousseau, Saint Mary's College",
     "PhotoCredit04": "� Br. Alfred Brousseau, Saint Mary's College"
-}, {
+  },
+  {
     "OBJECTID": 161,
     "Latin_Name": "Lupinus arboreus",
     "Common_Name": "Yellow Bush Lupine",
@@ -4506,7 +4667,8 @@
     "PhotoCredit02": "Jon Sullivan (CC BY-NC 2.0)",
     "PhotoCredit03": "helen.2006 (CC BY-NC-SA 2.0)",
     "PhotoCredit04": "James Gaither (CC BY-NC-ND 2.0)"
-}, {
+  },
+  {
     "OBJECTID": 162,
     "Latin_Name": "Lupinus bicolor",
     "Common_Name": "Miniature Lupine",
@@ -4534,7 +4696,8 @@
     "PhotoCredit02": "� Br. Alfred Brousseau, Saint Mary's College",
     "PhotoCredit03": "� Br. Alfred Brousseau, Saint Mary's College",
     "PhotoCredit04": "� Br. Alfred Brousseau, Saint Mary's College"
-}, {
+  },
+  {
     "OBJECTID": 163,
     "Latin_Name": "Lupinus chamissonis",
     "Common_Name": "Silver Dune Lupine",
@@ -4562,7 +4725,8 @@
     "PhotoCredit02": "�2013 Gary A. Monroe (CC BY-NC 3.0)",
     "PhotoCredit03": "�2013 Gary A. Monroe (CC BY-NC 3.0)",
     "PhotoCredit04": "� Br. Alfred Brousseau, Saint Mary's College"
-}, {
+  },
+  {
     "OBJECTID": 164,
     "Latin_Name": "Lupinus variicolor",
     "Common_Name": "Varied Lupine",
@@ -4590,7 +4754,8 @@
     "PhotoCredit02": "� Br. Alfred Brousseau, Saint Mary's College",
     "PhotoCredit03": "� Br. Alfred Brousseau, Saint Mary's College",
     "PhotoCredit04": "� Br. Alfred Brousseau, Saint Mary's College"
-}, {
+  },
+  {
     "OBJECTID": 165,
     "Latin_Name": "Lyonothamnus floribundus ssp. Asplenifolius",
     "Common_Name": "Catalina Ironwood",
@@ -4618,7 +4783,8 @@
     "PhotoCredit02": "SelecTree. \"Lyonothamnus floribundus subsp. asplenifolius Photo Record.\" 1995-2012. Jul 7, 2014.",
     "PhotoCredit03": "SelecTree. \"Lyonothamnus floribundus subsp. asplenifolius Photo Record.\" 1995-2012. Jul 7, 2014.",
     "PhotoCredit04": "SelecTree. \"Lyonothamnus floribundus subsp. asplenifolius Photo Record.\" 1995-2012. Jul 7, 2014."
-}, {
+  },
+  {
     "OBJECTID": 166,
     "Latin_Name": "Lythrum californicum",
     "Common_Name": "Common loosestrife",
@@ -4646,7 +4812,8 @@
     "PhotoCredit02": "Joe Decruyenaere (CC BY-SA 2.0)",
     "PhotoCredit03": "�2002 Gary A. Monroe (CC BY-NC 3.0)",
     "PhotoCredit04": "�2002 Gary A. Monroe (CC BY-NC 3.0)"
-}, {
+  },
+  {
     "OBJECTID": 167,
     "Latin_Name": "Madia sativa",
     "Common_Name": "Common Tarweed",
@@ -4674,7 +4841,8 @@
     "PhotoCredit02": "�2008 Keir Morse (CC BY-NC-SA 3.0)",
     "PhotoCredit03": "�2008 Keir Morse (CC BY-NC-SA 3.0)",
     "PhotoCredit04": "�2008 Keir Morse (CC BY-NC-SA 3.0)"
-}, {
+  },
+  {
     "OBJECTID": 168,
     "Latin_Name": "Magnolia  doltsopa",
     "Common_Name": "Sweet Michelia",
@@ -4702,7 +4870,8 @@
     "PhotoCredit02": "SelecTree. \"Michelia doltsopa Photo Record.\" 1995-2012. Jul 7, 2014.",
     "PhotoCredit03": "SelecTree. \"Michelia doltsopa Photo Record.\" 1995-2012. Jul 7, 2014.",
     "PhotoCredit04": "SelecTree. \"Michelia doltsopa Photo Record.\" 1995-2012. Jul 7, 2014."
-}, {
+  },
+  {
     "OBJECTID": 169,
     "Latin_Name": "Magnolia champaca",
     "Common_Name": "Golden Champaca",
@@ -4730,7 +4899,8 @@
     "PhotoCredit02": "SelecTree. \"Magnolia champaca Photo Record.\" 1995-2012. Jul 7, 2014.",
     "PhotoCredit03": "Mauricio Mercadante (CC BY-NC-SA 2.0)",
     "PhotoCredit04": "Mauricio Mercadante (CC BY-NC-SA 2.0)"
-}, {
+  },
+  {
     "OBJECTID": 170,
     "Latin_Name": "Magnolia grandiflora 'Little Gem'",
     "Common_Name": "Little Gem Magnolia",
@@ -4758,7 +4928,8 @@
     "PhotoCredit02": "SelecTree. \"Magnolia grandiflora 'Little Gem' Photo Record.\" 1995-2012. Jul 7, 2014.",
     "PhotoCredit03": "SelecTree. \"Magnolia grandiflora 'Little Gem' Photo Record.\" 1995-2012. Jul 7, 2014.",
     "PhotoCredit04": "SelecTree. \"Magnolia grandiflora 'Little Gem' Photo Record.\" 1995-2012. Jul 7, 2014."
-}, {
+  },
+  {
     "OBJECTID": 171,
     "Latin_Name": "Magnolia grandiflora 'Majestic Beauty', 'Samuel Sommer'",
     "Common_Name": "Majestic Beauty/Samuel Sommer Southern Magnolia",
@@ -4786,7 +4957,8 @@
     "PhotoCredit02": "SelecTree. \"Magnolia grandiflora 'Samuel Sommer' Photo Record.\" 1995-2012. Jul 7, 2014.",
     "PhotoCredit03": "SelecTree. \"Magnolia grandiflora 'Samuel Sommer' Photo Record.\" 1995-2012. Jul 7, 2014.",
     "PhotoCredit04": "SelecTree. \"Magnolia grandiflora 'Samuel Sommer' Photo Record.\" 1995-2012. Jul 7, 2014."
-}, {
+  },
+  {
     "OBJECTID": 172,
     "Latin_Name": "Magnolia grandiflora 'Russet'",
     "Common_Name": "Russet Southern Magnolia",
@@ -4814,7 +4986,8 @@
     "PhotoCredit02": "SelecTree. \"Magnolia grandiflora 'Russet' Photo Record.\" 1995-2012. Jul 7, 2014.",
     "PhotoCredit03": "SelecTree. \"Magnolia grandiflora 'Russet' Photo Record.\" 1995-2012. Jul 7, 2014.",
     "PhotoCredit04": "SelecTree. \"Magnolia grandiflora 'Russet' Photo Record.\" 1995-2012. Jul 7, 2014."
-}, {
+  },
+  {
     "OBJECTID": 173,
     "Latin_Name": "Magnolia grandiflora 'St. Mary'",
     "Common_Name": "St. Mary Magnolia",
@@ -4842,7 +5015,8 @@
     "PhotoCredit02": "SelecTree. \"Magnolia grandiflora 'St. Mary' Photo Record.\" 1995-2012. Jul 7, 2014.",
     "PhotoCredit03": "SelecTree. \"Magnolia grandiflora 'St. Mary' Photo Record.\" 1995-2012. Jul 7, 2014.",
     "PhotoCredit04": "SelecTree. \"Magnolia grandiflora 'St. Mary' Photo Record.\" 1995-2012. Jul 7, 2014."
-}, {
+  },
+  {
     "OBJECTID": 174,
     "Latin_Name": "Mahonia repens",
     "Common_Name": "Creeping Mahonia",
@@ -4870,7 +5044,8 @@
     "PhotoCredit02": "Rick Leche (CC BY-NC-ND 2.0)",
     "PhotoCredit03": "Matt Lavin (CC BY-SA 2.0)",
     "PhotoCredit04": "Matt Lavin (CC BY-SA 2.0)"
-}, {
+  },
+  {
     "OBJECTID": 175,
     "Latin_Name": "Malva assurgentiflora",
     "Common_Name": "Malva Rosa, Island Mallow",
@@ -4898,7 +5073,8 @@
     "PhotoCredit02": "� Br. Alfred Brousseau, Saint Mary's College",
     "PhotoCredit03": "�2010 Gary A. Monroe (CC BY-NC 3.0)",
     "PhotoCredit04": "�2010 Gary A. Monroe (CC BY-NC 3.0)"
-}, {
+  },
+  {
     "OBJECTID": 176,
     "Latin_Name": "Marah fabacea",
     "Common_Name": "Wild Cucumber/Manroot",
@@ -4926,7 +5102,8 @@
     "PhotoCredit02": "�2009 Barry Breckling (CC BY-NC-SA 3.0)",
     "PhotoCredit03": "�2008 Keir Morse (CC BY-NC-SA 3.0)",
     "PhotoCredit04": "�2008 Keir Morse (CC BY-NC-SA 3.0)"
-}, {
+  },
+  {
     "OBJECTID": 177,
     "Latin_Name": "Marah oregana",
     "Common_Name": "Coast Manroot",
@@ -4954,7 +5131,8 @@
     "PhotoCredit02": "�2007 Zoya Akulova (CC BY-NC 3.0)",
     "PhotoCredit03": "�2012 Zoya Akulova (CC BY-NC 3.0)",
     "PhotoCredit04": "�2013 Zoya Akulova (CC BY-NC 3.0)"
-}, {
+  },
+  {
     "OBJECTID": 178,
     "Latin_Name": "Melaleuca ericifolia",
     "Common_Name": "Heath Melaleuca",
@@ -4982,7 +5160,8 @@
     "PhotoCredit02": "SelecTree. \"Melaleuca ericifolia Photo Record.\" 1995-2012. Jul 7, 2014.",
     "PhotoCredit03": "SelecTree. \"Melaleuca ericifolia Photo Record.\" 1995-2012. Jul 7, 2014.",
     "PhotoCredit04": "SelecTree. \"Melaleuca ericifolia Photo Record.\" 1995-2012. Jul 7, 2014."
-}, {
+  },
+  {
     "OBJECTID": 179,
     "Latin_Name": "Melaleuca linariifolia",
     "Common_Name": "Flaxleaf Paperbark",
@@ -5010,7 +5189,8 @@
     "PhotoCredit02": "SelecTree. \"Melaleuca linariifolia Photo Record.\" 1995-2012. Jul 7, 2014.",
     "PhotoCredit03": "SelecTree. \"Melaleuca linariifolia Photo Record.\" 1995-2012. Jul 7, 2014.",
     "PhotoCredit04": "SelecTree. \"Melaleuca linariifolia Photo Record.\" 1995-2012. Jul 7, 2014."
-}, {
+  },
+  {
     "OBJECTID": 180,
     "Latin_Name": "Melaleuca quinquenervia",
     "Common_Name": "Cajeput Tree",
@@ -5038,7 +5218,8 @@
     "PhotoCredit02": "SelecTree. \"Melaleuca quinquenervia Photo Record.\" 1995-2012. Jul 7, 2014.",
     "PhotoCredit03": "SelecTree. \"Melaleuca quinquenervia Photo Record.\" 1995-2012. Jul 7, 2014.",
     "PhotoCredit04": "SelecTree. \"Melaleuca quinquenervia Photo Record.\" 1995-2012. Jul 7, 2014."
-}, {
+  },
+  {
     "OBJECTID": 181,
     "Latin_Name": "Melaleuca styphelioides",
     "Common_Name": "Prickly Melaleuca",
@@ -5066,7 +5247,8 @@
     "PhotoCredit02": "SelecTree. \"Melaleuca styphelioides Photo Record.\" 1995-2012. Jul 7, 2014.",
     "PhotoCredit03": "SelecTree. \"Melaleuca styphelioides Photo Record.\" 1995-2012. Jul 7, 2014.",
     "PhotoCredit04": "SelecTree. \"Melaleuca styphelioides Photo Record.\" 1995-2012. Jul 7, 2014."
-}, {
+  },
+  {
     "OBJECTID": 182,
     "Latin_Name": "Melica californica",
     "Common_Name": "California Melic",
@@ -5094,7 +5276,8 @@
     "PhotoCredit02": "�2010 Barry Breckling (CC BY-NC-SA 3.0)",
     "PhotoCredit03": "�2009 Keir Morse (CC BY-NC-SA 3.0)",
     "PhotoCredit04": "�2009 Keir Morse (CC BY-NC-SA 3.0)"
-}, {
+  },
+  {
     "OBJECTID": 183,
     "Latin_Name": "Melica torreyana",
     "Common_Name": "Torrey melic",
@@ -5122,7 +5305,8 @@
     "PhotoCredit02": "D In Orbit (CC BY-NC-ND 2.0)",
     "PhotoCredit03": "�2012 Al Keuter (CC BY-NC-SA 3.0)",
     "PhotoCredit04": "�2012 Al Keuter (CC BY-NC-SA 3.0)"
-}, {
+  },
+  {
     "OBJECTID": 184,
     "Latin_Name": "Metrosideros excelsa",
     "Common_Name": "New Zealand Christmas tree",
@@ -5150,7 +5334,8 @@
     "PhotoCredit02": "SelecTree. \"Metrosideros excelsa Photo Record.\" 1995-2012. Jul 7, 2014.",
     "PhotoCredit03": "SelecTree. \"Metrosideros excelsa Photo Record.\" 1995-2012. Jul 7, 2014.",
     "PhotoCredit04": "SelecTree. \"Metrosideros excelsa Photo Record.\" 1995-2012. Jul 7, 2014."
-}, {
+  },
+  {
     "OBJECTID": 185,
     "Latin_Name": "Mimulus aurantiacus",
     "Common_Name": "Sticky Monkeyflower",
@@ -5178,7 +5363,8 @@
     "PhotoCredit02": "� Br. Alfred Brousseau, Saint Mary's College",
     "PhotoCredit03": "�2007 Steven Thorsted (CC BY-NC 3.0)",
     "PhotoCredit04": "�2007 Steven Thorsted (CC BY-NC 3.0)"
-}, {
+  },
+  {
     "OBJECTID": 186,
     "Latin_Name": "Monardella villosa",
     "Common_Name": "Coyote Mint",
@@ -5206,7 +5392,8 @@
     "PhotoCredit02": "�2009 Barry Breckling (CC BY-NC-SA 3.0)",
     "PhotoCredit03": "�2009 Keir Morse (CC BY-NC-SA 3.0)",
     "PhotoCredit04": "�2009 Keir Morse (CC BY-NC-SA 3.0)"
-}, {
+  },
+  {
     "OBJECTID": 187,
     "Latin_Name": "Morella californica",
     "Common_Name": "California Wax Myrtle, Pacific Bayberry",
@@ -5234,7 +5421,8 @@
     "PhotoCredit02": "� Br. Alfred Brousseau, Saint Mary's College",
     "PhotoCredit03": "�2008 Keir Morse (CC BY-NC-SA 3.0)",
     "PhotoCredit04": "�2008 Keir Morse (CC BY-NC-SA 3.0)"
-}, {
+  },
+  {
     "OBJECTID": 188,
     "Latin_Name": "Muhlenbergia rigens",
     "Common_Name": "Deer Grass",
@@ -5262,7 +5450,8 @@
     "PhotoCredit02": "Bri Weldon (CC BY 2.0)",
     "PhotoCredit03": "Anthony Mendoza (CC BY-NC-SA 2.0)",
     "PhotoCredit04": "Josh S Jackson (CC BY-NC 2.0)"
-}, {
+  },
+  {
     "OBJECTID": 189,
     "Latin_Name": "Nepeta racemosa",
     "Common_Name": "Cat Mint",
@@ -5290,7 +5479,8 @@
     "PhotoCredit02": "Jim, the photographer (CC BY 2.0)",
     "PhotoCredit03": "--Tico-- (CC BY-NC-ND 2.0)",
     "PhotoCredit04": "beautifulcataya (CC BY-NC-ND 2.0)"
-}, {
+  },
+  {
     "OBJECTID": 190,
     "Latin_Name": "Oenanthe sarmentosa",
     "Common_Name": "Ditch-carrot, Water Parsley",
@@ -5318,7 +5508,8 @@
     "PhotoCredit02": "�2014 Jean Pawek",
     "PhotoCredit03": "�2008 Keir Morse  (CC BY-NC-SA 3.0)",
     "PhotoCredit04": "�2008 Keir Morse  (CC BY-NC-SA 3.0)"
-}, {
+  },
+  {
     "OBJECTID": 191,
     "Latin_Name": "Oenothera elata ssp. hookeri",
     "Common_Name": "Hooker's Evening Primrose",
@@ -5346,7 +5537,8 @@
     "PhotoCredit02": "Bryant Olsen (CC BY-NC 2.0)",
     "PhotoCredit03": "David A. Hofmann (CC BY-NC-ND 2.0)",
     "PhotoCredit04": "John Rusk (CC BY-NC-SA 2.0)"
-}, {
+  },
+  {
     "OBJECTID": 192,
     "Latin_Name": "Olea europaea",
     "Common_Name": "Olive Tree",
@@ -5374,7 +5566,8 @@
     "PhotoCredit02": "SelecTree. \"Olea europaea Photo Record.\" 1995-2012. Jul 7, 2014.",
     "PhotoCredit03": "SelecTree. \"Olea europaea Photo Record.\" 1995-2012. Jul 7, 2014.",
     "PhotoCredit04": "SelecTree. \"Olea europaea Photo Record.\" 1995-2012. Jul 7, 2014."
-}, {
+  },
+  {
     "OBJECTID": 193,
     "Latin_Name": "Penstemon centranthifolius",
     "Common_Name": "Scarlet Bugler",
@@ -5402,7 +5595,8 @@
     "PhotoCredit02": "� Br. Alfred Brousseau, Saint Mary's College",
     "PhotoCredit03": "�2009 Barry Breckling (CC BY-NC-SA 3.0)",
     "PhotoCredit04": "�2009 Keir Morse (CC BY-NC-SA 3.0)"
-}, {
+  },
+  {
     "OBJECTID": 194,
     "Latin_Name": "Penstemon heterophyllus",
     "Common_Name": "Penstemon",
@@ -5430,7 +5624,8 @@
     "PhotoCredit02": "�2009 Keir Morse (CC BY-NC-SA 3.0)",
     "PhotoCredit03": "�2013 Vernon Smith (CC BY-NC-ND 3.0)",
     "PhotoCredit04": "�2010 Jean Pawek"
-}, {
+  },
+  {
     "OBJECTID": 195,
     "Latin_Name": "Persicaria amphibia",
     "Common_Name": "Water Smartweed",
@@ -5458,7 +5653,8 @@
     "PhotoCredit02": "�2011 Barry Breckling (CC BY-NC-SA 3.0)",
     "PhotoCredit03": "�2010 Vernon Smith (CC BY-NC-ND 3.0)",
     "PhotoCredit04": "�2014 Neal Kramer"
-}, {
+  },
+  {
     "OBJECTID": 196,
     "Latin_Name": "Persicaria lapathifolia",
     "Common_Name": "Common Knotweed",
@@ -5486,7 +5682,8 @@
     "PhotoCredit02": "�2012 Jorg & Mimi Fleige  (CC BY-NC 3.0)",
     "PhotoCredit03": "�2012 Jean Pawek",
     "PhotoCredit04": "Patrick Alexander (CC BY-NC-ND 2.0)"
-}, {
+  },
+  {
     "OBJECTID": 197,
     "Latin_Name": "Persicaria punctata",
     "Common_Name": "Dotted Smartweed",
@@ -5514,7 +5711,8 @@
     "PhotoCredit02": "�2005 Keir Morse (CC BY-NC-SA 3.0)",
     "PhotoCredit03": "�2011 Jean Pawek",
     "PhotoCredit04": "�2011 Jean Pawek"
-}, {
+  },
+  {
     "OBJECTID": 198,
     "Latin_Name": "Phacelia californica",
     "Common_Name": "California Phacelia",
@@ -5542,7 +5740,8 @@
     "PhotoCredit02": "� Br. Alfred Brousseau, Saint Mary's College",
     "PhotoCredit03": "� Br. Alfred Brousseau, Saint Mary's College",
     "PhotoCredit04": "� Br. Alfred Brousseau, Saint Mary's College"
-}, {
+  },
+  {
     "OBJECTID": 199,
     "Latin_Name": "Phacelia malvifolia",
     "Common_Name": "Stinging Phacelia",
@@ -5570,7 +5769,8 @@
     "PhotoCredit02": "�2011 Jean Pawek",
     "PhotoCredit03": "�2008 Keir Morse (CC BY-NC-SA 3.0)",
     "PhotoCredit04": "�2008 Keir Morse (CC BY-NC-SA 3.0)"
-}, {
+  },
+  {
     "OBJECTID": 200,
     "Latin_Name": "Phalaris californica",
     "Common_Name": "California Canarygrass",
@@ -5598,7 +5798,8 @@
     "PhotoCredit02": "�2009 Zoya Akulova (CC BY-NC 3.0)",
     "PhotoCredit03": "�2009 Zoya Akulova (CC BY-NC 3.0)",
     "PhotoCredit04": "�2010 Zoya Akulova (CC BY-NC 3.0)"
-}, {
+  },
+  {
     "OBJECTID": 201,
     "Latin_Name": "Phoenix canariensis",
     "Common_Name": "Canary Island Date Palm",
@@ -5626,7 +5827,8 @@
     "PhotoCredit02": "SelecTree. \"Phoenix canariensis Photo Record.\" 1995-2012. Jul 8, 2014.",
     "PhotoCredit03": "SelecTree. \"Phoenix canariensis Photo Record.\" 1995-2012. Jul 8, 2014.",
     "PhotoCredit04": "SelecTree. \"Phoenix canariensis Photo Record.\" 1995-2012. Jul 8, 2014."
-}, {
+  },
+  {
     "OBJECTID": 202,
     "Latin_Name": "Phoenix dactylifera",
     "Common_Name": "Date Palm",
@@ -5654,7 +5856,8 @@
     "PhotoCredit02": "SelecTree. \"Phoenix dactylifera Photo Record.\" 1995-2012. Jul 8, 2014.",
     "PhotoCredit03": "SelecTree. \"Phoenix dactylifera Photo Record.\" 1995-2012. Jul 8, 2014.",
     "PhotoCredit04": "SelecTree. \"Phoenix dactylifera Photo Record.\" 1995-2012. Jul 8, 2014."
-}, {
+  },
+  {
     "OBJECTID": 203,
     "Latin_Name": "Pinus contorta var. contorta",
     "Common_Name": "Shore Pine",
@@ -5682,7 +5885,8 @@
     "PhotoCredit02": "�2012 Vernon Smith (CC BY-NC-ND 3.0)",
     "PhotoCredit03": "�2012 Vernon Smith (CC BY-NC-ND 3.0)",
     "PhotoCredit04": "Jason Sturner (CC BY 2.0)"
-}, {
+  },
+  {
     "OBJECTID": 204,
     "Latin_Name": "Pinus muricata",
     "Common_Name": "Bishop Pine",
@@ -5710,7 +5914,8 @@
     "PhotoCredit02": "� Br. Alfred Brousseau, Saint Mary's College",
     "PhotoCredit03": "� Br. Alfred Brousseau, Saint Mary's College",
     "PhotoCredit04": "� Br. Alfred Brousseau, Saint Mary's College"
-}, {
+  },
+  {
     "OBJECTID": 205,
     "Latin_Name": "Pistacia chinensis 'Keith Davey'",
     "Common_Name": "Keith Davey Chinese Pistache",
@@ -5738,7 +5943,8 @@
     "PhotoCredit02": "SelecTree. \"Pistacia chinensis Photo Record.\" 1995-2012. Jul 8, 2014.",
     "PhotoCredit03": "SelecTree. \"Pistacia chinensis Photo Record.\" 1995-2012. Jul 8, 2014.",
     "PhotoCredit04": "SelecTree. \"Pistacia chinensis Photo Record.\" 1995-2012. Jul 8, 2014."
-}, {
+  },
+  {
     "OBJECTID": 206,
     "Latin_Name": "Pittosporum crassifolium",
     "Common_Name": "Seaside Pittosporum",
@@ -5766,7 +5972,8 @@
     "PhotoCredit02": "SelecTree. \"Pittosporum crassifolium Photo Record.\" 1995-2012. Jul 8, 2014.",
     "PhotoCredit03": "SelecTree. \"Pittosporum crassifolium Photo Record.\" 1995-2012. Jul 8, 2014.",
     "PhotoCredit04": "SelecTree. \"Pittosporum crassifolium Photo Record.\" 1995-2012. Jul 8, 2014."
-}, {
+  },
+  {
     "OBJECTID": 207,
     "Latin_Name": "Pittosporum undulatum",
     "Common_Name": "Victorian Box",
@@ -5794,7 +6001,8 @@
     "PhotoCredit02": "SelecTree. \"Pittosporum undulatum Photo Record.\" 1995-2012. Jul 8, 2014.",
     "PhotoCredit03": "SelecTree. \"Pittosporum undulatum Photo Record.\" 1995-2012. Jul 8, 2014.",
     "PhotoCredit04": "SelecTree. \"Pittosporum undulatum Photo Record.\" 1995-2012. Jul 8, 2014."
-}, {
+  },
+  {
     "OBJECTID": 208,
     "Latin_Name": "Plantago elongata",
     "Common_Name": "Coastal Plantain",
@@ -5822,7 +6030,8 @@
     "PhotoCredit02": "�2010 Gary A. Monroe (CC BY-NC 3.0)",
     "PhotoCredit03": "�2010 Gary A. Monroe (CC BY-NC 3.0)",
     "PhotoCredit04": "Matt Lavin (CC BY-SA 2.0)"
-}, {
+  },
+  {
     "OBJECTID": 209,
     "Latin_Name": "Plantago maritima",
     "Common_Name": "Seaside plantain",
@@ -5850,7 +6059,8 @@
     "PhotoCredit02": "� Br. Alfred Brousseau, Saint Mary's College",
     "PhotoCredit03": "� Br. Alfred Brousseau, Saint Mary's College",
     "PhotoCredit04": "� Br. Alfred Brousseau, Saint Mary's College"
-}, {
+  },
+  {
     "OBJECTID": 210,
     "Latin_Name": "Platanus x acerifolia 'Bloodgood', 'Columbia', 'Yarwood'",
     "Common_Name": "London Plane Tree",
@@ -5878,7 +6088,8 @@
     "PhotoCredit02": "SelecTree. \"Platanus _ hispanica Photo Record.\" 1995-2012. Jul 8, 2014.",
     "PhotoCredit03": "SelecTree. \"Platanus _ hispanica Photo Record.\" 1995-2012. Jul 8, 2014.",
     "PhotoCredit04": "SelecTree. \"Platanus _ hispanica Photo Record.\" 1995-2012. Jul 8, 2014."
-}, {
+  },
+  {
     "OBJECTID": 211,
     "Latin_Name": "Pluchea odorata",
     "Common_Name": "Salt marsh fleabane",
@@ -5906,7 +6117,8 @@
     "PhotoCredit02": "�2013 Keir Morse (CC BY-NC-SA 3.0)",
     "PhotoCredit03": "�2013 Keir Morse (CC BY-NC-SA 3.0)",
     "PhotoCredit04": "�2013 Keir Morse (CC BY-NC-SA 3.0)"
-}, {
+  },
+  {
     "OBJECTID": 212,
     "Latin_Name": "Podocarpus gracilior",
     "Common_Name": "Fern Pine",
@@ -5934,7 +6146,8 @@
     "PhotoCredit02": "SelecTree. \"Afrocarpus falcatus Photo Record.\" 1995-2012. Jul 8, 2014.",
     "PhotoCredit03": "SelecTree. \"Afrocarpus falcatus Photo Record.\" 1995-2012. Jul 8, 2014.",
     "PhotoCredit04": "SelecTree. \"Afrocarpus falcatus Photo Record.\" 1995-2012. Jul 8, 2014."
-}, {
+  },
+  {
     "OBJECTID": 213,
     "Latin_Name": "Polygonum paronychia",
     "Common_Name": "Beach/Dune Knotweed",
@@ -5962,7 +6175,8 @@
     "PhotoCredit02": "Ken-ichi Ueda (CC BY-NC 2.0)",
     "PhotoCredit03": "Tom Hilton (CC BY 2.0)",
     "PhotoCredit04": "D In Orbit (CC BY-NC-ND 2.0)"
-}, {
+  },
+  {
     "OBJECTID": 214,
     "Latin_Name": "Polypodium californicum",
     "Common_Name": "Polypody Fern",
@@ -5990,7 +6204,8 @@
     "PhotoCredit02": "M. Dolly (CC BY-SA 2.0)",
     "PhotoCredit03": "Ken-ichi Ueda (CC BY-NC 2.0)",
     "PhotoCredit04": "dogtooth77 (CC BY-NC-SA 2.0)"
-}, {
+  },
+  {
     "OBJECTID": 215,
     "Latin_Name": "Polystichum munitum",
     "Common_Name": "Western Sword Fern",
@@ -6018,7 +6233,8 @@
     "PhotoCredit02": "�2008 Keir Morse (CC BY-NC-SA 3.0)",
     "PhotoCredit03": "�2008 Keir Morse (CC BY-NC-SA 3.0)",
     "PhotoCredit04": "�2008 Keir Morse (CC BY-NC-SA 3.0)"
-}, {
+  },
+  {
     "OBJECTID": 216,
     "Latin_Name": "Populus nigra 'Italica'",
     "Common_Name": "Lombardy Poplar",
@@ -6046,7 +6262,8 @@
     "PhotoCredit02": "Xevi V (CC BY-NC-SA 2.0)",
     "PhotoCredit03": "Matt Lavin (CC BY-SA 2.0)",
     "PhotoCredit04": "Leonora Enking (CC BY-SA 2.0)"
-}, {
+  },
+  {
     "OBJECTID": 217,
     "Latin_Name": "Potentilla anserina ssp. pacifica",
     "Common_Name": "Silverweed",
@@ -6074,7 +6291,8 @@
     "PhotoCredit02": "�2009 Keir Morse (CC BY-NC-SA 3.0)",
     "PhotoCredit03": "�2009 Keir Morse (CC BY-NC-SA 3.0)",
     "PhotoCredit04": "�2009 Keir Morse (CC BY-NC-SA 3.0)"
-}, {
+  },
+  {
     "OBJECTID": 218,
     "Latin_Name": "Prunella vulgaris var. lanceolata",
     "Common_Name": "Self Heal",
@@ -6102,7 +6320,8 @@
     "PhotoCredit02": "�2008 Keir Morse (CC BY-NC-SA 3.0)",
     "PhotoCredit03": "�2009 Keir Morse (CC BY-NC-SA 3.0)",
     "PhotoCredit04": "�2008 Keir Morse (CC BY-NC-SA 3.0)"
-}, {
+  },
+  {
     "OBJECTID": 219,
     "Latin_Name": "Prunus cerasifera 'Krauter Vesuvius'",
     "Common_Name": "Krauter Vesuvius Plum",
@@ -6130,7 +6349,8 @@
     "PhotoCredit02": "Mark Pritchard (CC BY-NC-SA 2.0)",
     "PhotoCredit03": "Mark Pritchard (CC BY-NC-SA 2.0)",
     "PhotoCredit04": "Mark Pritchard (CC BY-NC-SA 2.0)"
-}, {
+  },
+  {
     "OBJECTID": 220,
     "Latin_Name": "Prunus emarginata",
     "Common_Name": "Bitter cherry",
@@ -6158,7 +6378,8 @@
     "PhotoCredit02": "� Br. Alfred Brousseau, Saint Mary's College",
     "PhotoCredit03": "�2009 Barry Breckling (CC BY-NC-SA 3.0)",
     "PhotoCredit04": "�2013 Jean Pawek"
-}, {
+  },
+  {
     "OBJECTID": 221,
     "Latin_Name": "Prunus ilicifolia",
     "Common_Name": "Holly Leaf Cherry/Islay Cherry",
@@ -6186,7 +6407,8 @@
     "PhotoCredit02": "� Br. Alfred Brousseau, Saint Mary's College",
     "PhotoCredit03": "� Br. Alfred Brousseau, Saint Mary's College",
     "PhotoCredit04": "� Br. Alfred Brousseau, Saint Mary's College"
-}, {
+  },
+  {
     "OBJECTID": 222,
     "Latin_Name": "Prunus serrulata 'Kwanzan'",
     "Common_Name": "Kwansan Japanese Flowering Cherry",
@@ -6214,7 +6436,8 @@
     "PhotoCredit02": "SelecTree. \"Prunus serrulata Photo Record.\" 1995-2012. Jul 8, 2014.",
     "PhotoCredit03": "SelecTree. \"Prunus serrulata Photo Record.\" 1995-2012. Jul 8, 2014.",
     "PhotoCredit04": "SelecTree. \"Prunus serrulata Photo Record.\" 1995-2012. Jul 8, 2014."
-}, {
+  },
+  {
     "OBJECTID": 223,
     "Latin_Name": "Prunus subcordata",
     "Common_Name": "Sierra Plum",
@@ -6242,7 +6465,8 @@
     "PhotoCredit02": "� Br. Alfred Brousseau, Saint Mary's College",
     "PhotoCredit03": "� Br. Alfred Brousseau, Saint Mary's College",
     "PhotoCredit04": "�2009 Barry Breckling (CC BY-NC-SA 3.0)"
-}, {
+  },
+  {
     "OBJECTID": 224,
     "Latin_Name": "Prunus virginiana var. demissa",
     "Common_Name": "Western Chokecherry",
@@ -6270,7 +6494,8 @@
     "PhotoCredit02": "� Br. Alfred Brousseau, Saint Mary's College",
     "PhotoCredit03": "�2008 Keir Morse (CC BY-NC-SA 3.0)",
     "PhotoCredit04": "�2008 Keir Morse (CC BY-NC-SA 3.0)"
-}, {
+  },
+  {
     "OBJECTID": 225,
     "Latin_Name": "Pseudotsuga menziesii",
     "Common_Name": "Douglas Fir",
@@ -6298,7 +6523,8 @@
     "PhotoCredit02": "� Br. Alfred Brousseau, Saint Mary's College",
     "PhotoCredit03": "�2008 Keir Morse (CC BY-NC-SA 3.0)",
     "PhotoCredit04": "�2004 Robert Sivinski  (CC BY-NC 3.0)"
-}, {
+  },
+  {
     "OBJECTID": 226,
     "Latin_Name": "Pteridium aquilinum var. pubescens",
     "Common_Name": "Bracken Fern",
@@ -6326,7 +6552,8 @@
     "PhotoCredit02": "� Br. Alfred Brousseau, Saint Mary's College",
     "PhotoCredit03": "�2010 Keir Morse  (CC BY-NC-SA 3.0)",
     "PhotoCredit04": "�2011 Zoya Akulova (CC BY-NC 3.0)"
-}, {
+  },
+  {
     "OBJECTID": 227,
     "Latin_Name": "Pyrus calleryana 'New Bradford'",
     "Common_Name": "New Bradford Pear",
@@ -6354,7 +6581,8 @@
     "PhotoCredit02": "SelecTree. \"Pyrus calleryana 'Bradford' Photo Record.\" 1995-2012. Jul 8, 2014.",
     "PhotoCredit03": "SelecTree. \"Pyrus calleryana 'Bradford' Photo Record.\" 1995-2012. Jul 8, 2014.",
     "PhotoCredit04": "SelecTree. \"Pyrus calleryana 'Bradford' Photo Record.\" 1995-2012. Jul 8, 2014."
-}, {
+  },
+  {
     "OBJECTID": 228,
     "Latin_Name": "Pyrus kawakamii",
     "Common_Name": "Evergreen Pear",
@@ -6382,7 +6610,8 @@
     "PhotoCredit02": "SelecTree. \"Pyrus kawakamii Photo Record.\" 1995-2012. Jul 8, 2014.",
     "PhotoCredit03": "SelecTree. \"Pyrus kawakamii Photo Record.\" 1995-2012. Jul 8, 2014.",
     "PhotoCredit04": "SelecTree. \"Pyrus kawakamii Photo Record.\" 1995-2012. Jul 8, 2014."
-}, {
+  },
+  {
     "OBJECTID": 229,
     "Latin_Name": "Quercus agrifolia",
     "Common_Name": "Coast Live Oak",
@@ -6410,7 +6639,8 @@
     "PhotoCredit02": "SelecTree. \"Quercus agrifolia Photo Record.\" 1995-2012. Jul 8, 2014.",
     "PhotoCredit03": "SelecTree. \"Quercus agrifolia Photo Record.\" 1995-2012. Jul 8, 2014.",
     "PhotoCredit04": "SelecTree. \"Quercus agrifolia Photo Record.\" 1995-2012. Jul 8, 2014."
-}, {
+  },
+  {
     "OBJECTID": 230,
     "Latin_Name": "Quercus chrysolepis",
     "Common_Name": "Canyon Live Oak",
@@ -6438,7 +6668,8 @@
     "PhotoCredit02": "Joe Decruyenaere (CC BY-SA 2.0)",
     "PhotoCredit03": "� Br. Alfred Brousseau, Saint Mary's College",
     "PhotoCredit04": "�2008 Keir Morse (CC BY-NC-SA 3.0)"
-}, {
+  },
+  {
     "OBJECTID": 231,
     "Latin_Name": "Quercus suber",
     "Common_Name": "Cork Oak",
@@ -6466,7 +6697,8 @@
     "PhotoCredit02": "SelecTree. \"Quercus suber Photo Record.\" 1995-2012. Jul 8, 2014.",
     "PhotoCredit03": "SelecTree. \"Quercus suber Photo Record.\" 1995-2012. Jul 8, 2014.",
     "PhotoCredit04": "SelecTree. \"Quercus suber Photo Record.\" 1995-2012. Jul 8, 2014."
-}, {
+  },
+  {
     "OBJECTID": 232,
     "Latin_Name": "Ranunculus californicus",
     "Common_Name": "California Buttercup",
@@ -6494,7 +6726,8 @@
     "PhotoCredit02": "�2011 Vernon Smith (CC BY-NC-ND 3.0)",
     "PhotoCredit03": "� Br. Alfred Brousseau, Saint Mary's College",
     "PhotoCredit04": "�2009 Keir Morse  (CC BY-NC-SA 3.0)"
-}, {
+  },
+  {
     "OBJECTID": 233,
     "Latin_Name": "Rhamnus crocea",
     "Common_Name": "Redberry",
@@ -6522,7 +6755,8 @@
     "PhotoCredit02": "�2012 Jean Pawek",
     "PhotoCredit03": "�2012 Jean Pawek",
     "PhotoCredit04": "�2012 Jean Pawek"
-}, {
+  },
+  {
     "OBJECTID": 234,
     "Latin_Name": "Rhus lancea",
     "Common_Name": "African Sumac",
@@ -6550,7 +6784,8 @@
     "PhotoCredit02": "SelecTree. \"Rhus lancea Photo Record.\" 1995-2012. Jul 8, 2014.",
     "PhotoCredit03": "SelecTree. \"Rhus lancea Photo Record.\" 1995-2012. Jul 8, 2014.",
     "PhotoCredit04": "SelecTree. \"Rhus lancea Photo Record.\" 1995-2012. Jul 8, 2014."
-}, {
+  },
+  {
     "OBJECTID": 235,
     "Latin_Name": "Ribes sanguineum var. glutinosum",
     "Common_Name": "Red Flowering Currant",
@@ -6578,7 +6813,8 @@
     "PhotoCredit02": "�2014 Vernon Smith (CC BY-NC-ND 3.0)",
     "PhotoCredit03": "�2014 Judith Elaine Bush (CC BY-NC-SA 3.0)",
     "PhotoCredit04": "�2014 Judith Elaine Bush (CC BY-NC-SA 3.0)"
-}, {
+  },
+  {
     "OBJECTID": 236,
     "Latin_Name": "Rosa californica",
     "Common_Name": "California Wild Rose",
@@ -6606,7 +6842,8 @@
     "PhotoCredit02": "� Br. Alfred Brousseau, Saint Mary's College",
     "PhotoCredit03": "�2009 Keir Morse (CC BY-NC-SA 3.0)",
     "PhotoCredit04": "�2011 Robert A. Hamilton (CC BY-NC-SA 3.0)"
-}, {
+  },
+  {
     "OBJECTID": 237,
     "Latin_Name": "Rosa gymnocarpa",
     "Common_Name": "Wood Rose/Dwarf Rose",
@@ -6634,7 +6871,8 @@
     "PhotoCredit02": "�2008 Keir Morse (CC BY-NC-SA 3.0)",
     "PhotoCredit03": "�2010 Keir Morse (CC BY-NC-SA 3.0)",
     "PhotoCredit04": "�2010 Jean Pawek"
-}, {
+  },
+  {
     "OBJECTID": 238,
     "Latin_Name": "Rubus ursinus",
     "Common_Name": "California Blackberry",
@@ -6662,7 +6900,8 @@
     "PhotoCredit02": "�2008 Keir Morse (CC BY-NC-SA 3.0)",
     "PhotoCredit03": "�2008 Keir Morse (CC BY-NC-SA 3.0)",
     "PhotoCredit04": "�2008 Keir Morse (CC BY-NC-SA 3.0)"
-}, {
+  },
+  {
     "OBJECTID": 239,
     "Latin_Name": "Rumex fueginus",
     "Common_Name": "Golden Dock",
@@ -6690,7 +6929,8 @@
     "PhotoCredit02": "�2008 Jorg Fleige (CC BY-NC 3.0)",
     "PhotoCredit03": "Joe F. Duft @ USDA-NRCS PLANTS Database / USDA NRCS. 1992.",
     "PhotoCredit04": "Hella Delicious (CC BY-NC-SA 2.0)"
-}, {
+  },
+  {
     "OBJECTID": 240,
     "Latin_Name": "Rumex occidentalis",
     "Common_Name": "Western Dock",
@@ -6718,7 +6958,8 @@
     "PhotoCredit02": "�2012 Vernon Smith (CC BY-NC-ND 3.0)",
     "PhotoCredit03": "Luke McGuff  (CC BY-ND 2.0)",
     "PhotoCredit04": "stonebird (CC BY-NC-SA 2.0)"
-}, {
+  },
+  {
     "OBJECTID": 241,
     "Latin_Name": "Salix lasiandra",
     "Common_Name": "Yellow Willow",
@@ -6746,7 +6987,8 @@
     "PhotoCredit02": "J. E.(Jed) and Bonnie McClellan � California Academy of Sciences",
     "PhotoCredit03": "J. E.(Jed) and Bonnie McClellan � California Academy of Sciences",
     "PhotoCredit04": "Matt Lavin (CC BY-SA 2.0)"
-}, {
+  },
+  {
     "OBJECTID": 242,
     "Latin_Name": "Salix lasiolepis",
     "Common_Name": "Arroyo Willow",
@@ -6774,7 +7016,8 @@
     "PhotoCredit02": "�2008 Keir Morse (CC BY-NC-SA 3.0)",
     "PhotoCredit03": "�2008 Keir Morse (CC BY-NC-SA 3.0)",
     "PhotoCredit04": "�2008 Keir Morse (CC BY-NC-SA 3.0)"
-}, {
+  },
+  {
     "OBJECTID": 243,
     "Latin_Name": "Salix lutea",
     "Common_Name": "Yellow Willow",
@@ -6802,7 +7045,8 @@
     "PhotoCredit02": "� Br. Alfred Brousseau, Saint Mary's College",
     "PhotoCredit03": "� Br. Alfred Brousseau, Saint Mary's College",
     "PhotoCredit04": "� Br. Alfred Brousseau, Saint Mary's College"
-}, {
+  },
+  {
     "OBJECTID": 244,
     "Latin_Name": "Salvia apiana",
     "Common_Name": "California White Sage",
@@ -6830,7 +7074,8 @@
     "PhotoCredit02": "�2011 Wynn Anderson (CC BY-NC-SA 3.0)",
     "PhotoCredit03": "�2011 Wynn Anderson (CC BY-NC-SA 3.0)",
     "PhotoCredit04": "�2011 Wynn Anderson (CC BY-NC-SA 3.0)"
-}, {
+  },
+  {
     "OBJECTID": 245,
     "Latin_Name": "Salvia clevelandii",
     "Common_Name": "Cleveland Sage",
@@ -6858,7 +7103,8 @@
     "PhotoCredit02": "�2013 Keir Morse (CC BY-NC-SA 3.0)",
     "PhotoCredit03": "�2013 Keir Morse (CC BY-NC-SA 3.0)",
     "PhotoCredit04": "�2013 Keir Morse (CC BY-NC-SA 3.0)"
-}, {
+  },
+  {
     "OBJECTID": 246,
     "Latin_Name": "Salvia leucophylla",
     "Common_Name": "Coast Purple Sage",
@@ -6886,7 +7132,8 @@
     "PhotoCredit02": "�2011 Jean Pawek",
     "PhotoCredit03": "�2005 Noah Elhardt (CC BY-NC-SA 3.0)",
     "PhotoCredit04": "�2003 Barry Breckling (CC BY-NC-SA 3.0)"
-}, {
+  },
+  {
     "OBJECTID": 247,
     "Latin_Name": "Salvia sonomensis",
     "Common_Name": "Creeping Sage",
@@ -6914,7 +7161,8 @@
     "PhotoCredit02": "�2009 Gary A. Monroe  (CC BY-NC 3.0)",
     "PhotoCredit03": "�2009 Gary A. Monroe  (CC BY-NC 3.0)",
     "PhotoCredit04": "�2009 Gary A. Monroe  (CC BY-NC 3.0)"
-}, {
+  },
+  {
     "OBJECTID": 248,
     "Latin_Name": "Salvia spathacea",
     "Common_Name": "Hummingbird Sage",
@@ -6942,7 +7190,8 @@
     "PhotoCredit02": "�2009 Gary A. Monroe (CC BY-NC 3.0)",
     "PhotoCredit03": "�2009 Gary A. Monroe (CC BY-NC 3.0)",
     "PhotoCredit04": "�2009 Gary A. Monroe (CC BY-NC 3.0)"
-}, {
+  },
+  {
     "OBJECTID": 249,
     "Latin_Name": "Sambucus nigra ssp. cerulea",
     "Common_Name": "Blue Elderberry",
@@ -6970,7 +7219,8 @@
     "PhotoCredit02": "Phuong Tran (CC BY-NC-ND 2.0)",
     "PhotoCredit03": "Phuong Tran (CC BY-NC-ND 2.0)",
     "PhotoCredit04": "Phuong Tran (CC BY-NC-ND 2.0)"
-}, {
+  },
+  {
     "OBJECTID": 250,
     "Latin_Name": "Sambucus racemosa var. racemosa",
     "Common_Name": "Red Elderberry",
@@ -6998,7 +7248,8 @@
     "PhotoCredit02": "�2010 Keir Morse (CC BY-NC-SA 3.0)",
     "PhotoCredit03": "�2010 Keir Morse (CC BY-NC-SA 3.0)",
     "PhotoCredit04": "�2010 Keir Morse (CC BY-NC-SA 3.0)"
-}, {
+  },
+  {
     "OBJECTID": 251,
     "Latin_Name": "Schoenoplectus acutus var. occidentalis",
     "Common_Name": "Tule",
@@ -7026,7 +7277,8 @@
     "PhotoCredit02": "�2003 Keir Morse  (CC BY-NC-SA 3.0)",
     "PhotoCredit03": "�2013 Jean Pawek",
     "PhotoCredit04": "�2013 Jean Pawek"
-}, {
+  },
+  {
     "OBJECTID": 252,
     "Latin_Name": "Schoenoplectus californicus",
     "Common_Name": "California Bulrush",
@@ -7054,7 +7306,8 @@
     "PhotoCredit02": "�2009 Keir Morse (CC BY-NC-SA 3.0)",
     "PhotoCredit03": "�2013 Steven Thorsted (CC BY-NC 3.0)",
     "PhotoCredit04": "�2010 Steven Thorsted (CC BY-NC 3.0)"
-}, {
+  },
+  {
     "OBJECTID": 253,
     "Latin_Name": "Schoenoplectus pungens var. badius",
     "Common_Name": "Common Threesquare",
@@ -7082,7 +7335,8 @@
     "PhotoCredit02": "Max Licher (CC BY-SA)",
     "PhotoCredit03": "Max Licher (CC BY-SA)",
     "PhotoCredit04": "Jon Sullivan (CC BY-NC 2.0)"
-}, {
+  },
+  {
     "OBJECTID": 254,
     "Latin_Name": "Scrophularia californica",
     "Common_Name": "Bee Plant",
@@ -7110,7 +7364,8 @@
     "PhotoCredit02": "�2009 Keir Morse (CC BY-NC-SA 3.0)",
     "PhotoCredit03": "�2009 Keir Morse (CC BY-NC-SA 3.0)",
     "PhotoCredit04": "�2009 Keir Morse (CC BY-NC-SA 3.0)"
-}, {
+  },
+  {
     "OBJECTID": 255,
     "Latin_Name": "Sedum spathulifolium",
     "Common_Name": "Broadleaf Stonecrop",
@@ -7138,7 +7393,8 @@
     "PhotoCredit02": "�2009 Keir Morse (CC BY-NC-SA 3.0)",
     "PhotoCredit03": "�2009 Keir Morse (CC BY-NC-SA 3.0)",
     "PhotoCredit04": "�2009 Barry Rice (CC BY-NC-SA 3.0)"
-}, {
+  },
+  {
     "OBJECTID": 256,
     "Latin_Name": "Senecio hydrophilus",
     "Common_Name": "Marsh Ragwort",
@@ -7166,7 +7422,8 @@
     "PhotoCredit02": "�1971 Dean Wm. Taylor (CC BY-NC-SA 3.0)",
     "PhotoCredit03": "Anthony Baniaga (public domain)",
     "PhotoCredit04": "�2010 Zoya Akulova (CC BY-NC 3.0)"
-}, {
+  },
+  {
     "OBJECTID": 257,
     "Latin_Name": "Sequoia sempervirens",
     "Common_Name": "Redwood",
@@ -7194,7 +7451,8 @@
     "PhotoCredit02": "�2013 Zoya Akulova (CC BY-NC 3.0)",
     "PhotoCredit03": "�2013 Zoya Akulova (CC BY-NC 3.0)",
     "PhotoCredit04": "�1975 Gary A. Monroe (CC BY-NC 3.0)"
-}, {
+  },
+  {
     "OBJECTID": 258,
     "Latin_Name": "Sidalcea malviflora",
     "Common_Name": "Checkerbloom",
@@ -7222,7 +7480,8 @@
     "PhotoCredit02": "�2010 John J. Kehoe (CC BY 3.0)",
     "PhotoCredit03": "2010 Gary A. Monroe (CC BY-NC 3.0)\r\r 2010 Gary A. Monroe (CC BY-NC 3.0)\r\r �2010 Gary A. Monroe (CC BY-NC 3.0)\r\r �2010 Gary A. Monroe (CC BY-NC 3.0)\r\r �2010 Gary A. Monroe (CC BY-NC 3.0)",
     "PhotoCredit04": "�2011 Jean Pawek"
-}, {
+  },
+  {
     "OBJECTID": 259,
     "Latin_Name": "Sisyrinchium bellum",
     "Common_Name": "Blue-eyed Grass",
@@ -7250,7 +7509,8 @@
     "PhotoCredit02": "�2010 Steven Thorsted (CC BY-NC 3.0)",
     "PhotoCredit03": "�2010 Barry Breckling (CC BY-NC-SA 3.0)",
     "PhotoCredit04": "�2009 Keir Morse (CC BY-NC-SA 3.0)"
-}, {
+  },
+  {
     "OBJECTID": 260,
     "Latin_Name": "Solidago californica",
     "Common_Name": "Goldenrod",
@@ -7278,7 +7538,8 @@
     "PhotoCredit02": "�2008 Keir Morse (CC BY-NC-SA 3.0)",
     "PhotoCredit03": "�2008 Keir Morse (CC BY-NC-SA 3.0)",
     "PhotoCredit04": "�2008 Keir Morse (CC BY-NC-SA 3.0)"
-}, {
+  },
+  {
     "OBJECTID": 261,
     "Latin_Name": "Solidago spathulata",
     "Common_Name": "Dune Goldenrod",
@@ -7306,7 +7567,8 @@
     "PhotoCredit02": "�2012 Vernon Smith (CC BY-NC-ND 3.0)",
     "PhotoCredit03": "�2008 Jorg Fleige (CC BY-NC 3.0)",
     "PhotoCredit04": "�2008 Jorg Fleige (CC BY-NC 3.0)"
-}, {
+  },
+  {
     "OBJECTID": 262,
     "Latin_Name": "Stipa pulchra",
     "Common_Name": "Purple Needlegrass",
@@ -7334,7 +7596,8 @@
     "PhotoCredit02": "�2012 Aaron Arthur",
     "PhotoCredit03": "�2012 Aaron Arthur",
     "PhotoCredit04": "�2013 Lynn Watson"
-}, {
+  },
+  {
     "OBJECTID": 263,
     "Latin_Name": "Syagrus romanzoffiana",
     "Common_Name": "Queen Palm",
@@ -7362,7 +7625,8 @@
     "PhotoCredit02": "SelecTree. \"Syagrus romanzoffiana Photo Record.\" 1995-2012. Jul 8, 2014.",
     "PhotoCredit03": "SelecTree. \"Syagrus romanzoffiana Photo Record.\" 1995-2012. Jul 8, 2014.",
     "PhotoCredit04": "SelecTree. \"Syagrus romanzoffiana Photo Record.\" 1995-2012. Jul 8, 2014."
-}, {
+  },
+  {
     "OBJECTID": 264,
     "Latin_Name": "Symphoricarpos albus",
     "Common_Name": "Common Snowberry",
@@ -7390,7 +7654,8 @@
     "PhotoCredit02": "�2001 Lynn Overtree",
     "PhotoCredit03": "�2006 Tom Greer",
     "PhotoCredit04": "�2006 Louis-M. Landry"
-}, {
+  },
+  {
     "OBJECTID": 265,
     "Latin_Name": "Symphoricarpos mollis",
     "Common_Name": "Trailing Snowberry",
@@ -7418,7 +7683,8 @@
     "PhotoCredit02": "�Keir Morse",
     "PhotoCredit03": "�Barry Breckling",
     "PhotoCredit04": "�2010 Franco Folini (CC BY-SA 2.0)"
-}, {
+  },
+  {
     "OBJECTID": 266,
     "Latin_Name": "Symphyotrichum chilense",
     "Common_Name": "Wild Aster",
@@ -7446,7 +7712,8 @@
     "PhotoCredit02": "�2011 Steven Perry",
     "PhotoCredit03": "�2009 Neal Kramer",
     "PhotoCredit04": "�2013 Robert Sikora"
-}, {
+  },
+  {
     "OBJECTID": 267,
     "Latin_Name": "Tanacetum bipinnatum",
     "Common_Name": "Dune Tansy",
@@ -7474,7 +7741,8 @@
     "PhotoCredit02": "�2012 Neal Kramer",
     "PhotoCredit03": "�2012 Neal Kramer",
     "PhotoCredit04": "�1999 Ren� Charest"
-}, {
+  },
+  {
     "OBJECTID": 268,
     "Latin_Name": "Tellima grandiflora",
     "Common_Name": "Fringe Cups",
@@ -7502,7 +7770,8 @@
     "PhotoCredit02": "�2008 Steve Matson",
     "PhotoCredit03": "�2008 Steve Matson",
     "PhotoCredit04": "�2006 George W. Hartwell"
-}, {
+  },
+  {
     "OBJECTID": 269,
     "Latin_Name": "Tilia cordata",
     "Common_Name": "Littleleaf Linden",
@@ -7530,7 +7799,8 @@
     "PhotoCredit02": "SelecTree. \"Tilia cordata Photo Record.\" 1995-2012. Jul 8, 2014.",
     "PhotoCredit03": "SelecTree. \"Tilia cordata Photo Record.\" 1995-2012. Jul 8, 2014.",
     "PhotoCredit04": "SelecTree. \"Tilia cordata Photo Record.\" 1995-2012. Jul 8, 2014."
-}, {
+  },
+  {
     "OBJECTID": 270,
     "Latin_Name": "Trifolium fucatum",
     "Common_Name": "Bull Clover",
@@ -7558,7 +7828,8 @@
     "PhotoCredit02": "�2005 Bob Huettmann",
     "PhotoCredit03": "�2003 George W. Hartwell",
     "PhotoCredit04": "�2008 Zoya Akulova (CC BY-NC 3.0)"
-}, {
+  },
+  {
     "OBJECTID": 271,
     "Latin_Name": "Trifolium gracilentum",
     "Common_Name": "Pinpoint Clover",
@@ -7586,7 +7857,8 @@
     "PhotoCredit02": "�2012 Gary A. Monroe  (CC BY-NC 3.0)",
     "PhotoCredit03": "�2008 Zoya Akulova  (CC BY-NC 3.0)",
     "PhotoCredit04": "�2008 Zoya Akulova  (CC BY-NC 3.0)"
-}, {
+  },
+  {
     "OBJECTID": 272,
     "Latin_Name": "Trifolium variegatum",
     "Common_Name": "Whitetip Clover",
@@ -7614,7 +7886,8 @@
     "PhotoCredit02": "�2013 Jean Pawek",
     "PhotoCredit03": "�2003 Steve Matson",
     "PhotoCredit04": "�2012 Aaron Schusteff"
-}, {
+  },
+  {
     "OBJECTID": 273,
     "Latin_Name": "Trifolium willdenovii",
     "Common_Name": "Tomcat Clover",
@@ -7642,7 +7915,8 @@
     "PhotoCredit02": "�2009 Neal Kramer",
     "PhotoCredit03": "�2003 Dianne Fristrom (CC BY-SA 3.0)",
     "PhotoCredit04": "�2008 Keir Morse (CC BY-NC-SA 3.0)"
-}, {
+  },
+  {
     "OBJECTID": 274,
     "Latin_Name": "Trifolium wormskioldii",
     "Common_Name": "Cow Clover",
@@ -7670,7 +7944,8 @@
     "PhotoCredit02": "�2009 Dr. Mark S. Brunell",
     "PhotoCredit03": "Sherry Ballard � California Academy of Sciences",
     "PhotoCredit04": "Charles Webber � California Academy of Sciences"
-}, {
+  },
+  {
     "OBJECTID": 275,
     "Latin_Name": "Tristaniopsis laurina",
     "Common_Name": "Water Gum",
@@ -7698,7 +7973,8 @@
     "PhotoCredit02": "SelecTree. \"Tristaniopsis laurina Photo Record.\" 1995-2012. Jul 8, 2014.",
     "PhotoCredit03": "SelecTree. \"Tristaniopsis laurina Photo Record.\" 1995-2012. Jul 8, 2014.",
     "PhotoCredit04": "SelecTree. \"Tristaniopsis laurina Photo Record.\" 1995-2012. Jul 8, 2014."
-}, {
+  },
+  {
     "OBJECTID": 276,
     "Latin_Name": "Tristaniopsis laurina  'Elegant'",
     "Common_Name": "Elegant Brisbane Box",
@@ -7726,7 +8002,8 @@
     "PhotoCredit02": "SelecTree. \"Tristaniopsis laurina 'Elegant' Photo Record.\" 1995-2012. Jul 8, 2014.",
     "PhotoCredit03": "SelecTree. \"Tristaniopsis laurina 'Elegant' Photo Record.\" 1995-2012. Jul 8, 2014.",
     "PhotoCredit04": "SelecTree. \"Tristaniopsis laurina 'Elegant' Photo Record.\" 1995-2012. Jul 8, 2014."
-}, {
+  },
+  {
     "OBJECTID": 277,
     "Latin_Name": "Typha domingensis",
     "Common_Name": "Southern Cattail",
@@ -7754,7 +8031,8 @@
     "PhotoCredit02": "�2009 Neal Kramer",
     "PhotoCredit03": "�2012 Aaron Arthur",
     "PhotoCredit04": "�2010 lara hartley"
-}, {
+  },
+  {
     "OBJECTID": 278,
     "Latin_Name": "Typha latifolia",
     "Common_Name": "Broadleaf Cattail",
@@ -7782,7 +8060,8 @@
     "PhotoCredit02": "� Br. Alfred Brousseau, Saint Mary's College",
     "PhotoCredit03": "Gerald and Buff Corsi � California Academy of Sciences",
     "PhotoCredit04": "�2009 Barry Rice (CC BY-NC-SA 3.0)"
-}, {
+  },
+  {
     "OBJECTID": 279,
     "Latin_Name": "Ulmus parvifolia 'Drake', 'Sempervirens'",
     "Common_Name": "Drake/Sempervirens Chinese Elm",
@@ -7810,7 +8089,8 @@
     "PhotoCredit02": "SelecTree. \"Ulmus parvifolia Photo Record.\" 1995-2012. Jul 8, 2014.",
     "PhotoCredit03": "SelecTree. \"Ulmus parvifolia Photo Record.\" 1995-2012. Jul 8, 2014.",
     "PhotoCredit04": "SelecTree. \"Ulmus parvifolia Photo Record.\" 1995-2012. Jul 8, 2014."
-}, {
+  },
+  {
     "OBJECTID": 280,
     "Latin_Name": "Urtica dioica ssp. gracilis",
     "Common_Name": "Stinging Nettle",
@@ -7838,7 +8118,8 @@
     "PhotoCredit02": "Toni Corelli (CC BY-NC 2.0)",
     "PhotoCredit03": "Toni Corelli (CC BY-NC 2.0)",
     "PhotoCredit04": "Photo by Pancrazio Campagna"
-}, {
+  },
+  {
     "OBJECTID": 281,
     "Latin_Name": "Urtica dioica ssp. holosericea",
     "Common_Name": "Hoary Nettle",
@@ -7866,7 +8147,8 @@
     "PhotoCredit02": "� Br. Alfred Brousseau, Saint Mary's College",
     "PhotoCredit03": "�2007 Dr. Mark S. Brunell",
     "PhotoCredit04": "� Br. Alfred Brousseau, Saint Mary's College"
-}, {
+  },
+  {
     "OBJECTID": 282,
     "Latin_Name": "Vaccinium ovatum",
     "Common_Name": "Huckleberry",
@@ -7894,7 +8176,8 @@
     "PhotoCredit02": "�2009 Keir Morse (CC BY-NC-SA 3.0)",
     "PhotoCredit03": "�2011 Zoya Akulova (CC BY-NC 3.0)",
     "PhotoCredit04": "�2013 Terry Gosliner (CC BY-NC 3.0)"
-}, {
+  },
+  {
     "OBJECTID": 283,
     "Latin_Name": "Verbena bonariensis",
     "Common_Name": "Purpletop Vervain",
@@ -7922,7 +8205,8 @@
     "PhotoCredit02": "�2012 Jean Pawek",
     "PhotoCredit03": "� Br. Alfred Brousseau, Saint Mary's College",
     "PhotoCredit04": "�2012 Jean Pawek"
-}, {
+  },
+  {
     "OBJECTID": 284,
     "Latin_Name": "Verbena lasiostachys",
     "Common_Name": "Western Vervain",
@@ -7950,7 +8234,8 @@
     "PhotoCredit02": "�2008 Keir Morse  (CC BY-NC-SA 3.0)",
     "PhotoCredit03": "�2008 Keir Morse  (CC BY-NC-SA 3.0)",
     "PhotoCredit04": "�2011 Michael O'Brien"
-}, {
+  },
+  {
     "OBJECTID": 285,
     "Latin_Name": "Vitis californica",
     "Common_Name": "California Wild Grape",
@@ -7978,7 +8263,8 @@
     "PhotoCredit02": "�2013 Zoya Akulova (CC BY-NC 3.0)",
     "PhotoCredit03": "J. E.(Jed) and Bonnie McClellan � California Academy of Sciences",
     "PhotoCredit04": "�2013 Jean Pawek"
-}, {
+  },
+  {
     "OBJECTID": 286,
     "Latin_Name": "Washingtonia robusta",
     "Common_Name": "Mexican Fan Palm",
@@ -8006,7 +8292,8 @@
     "PhotoCredit02": "SelecTree. \"Washingtonia robusta Photo Record.\" 1995-2012. Jul 8, 2014.",
     "PhotoCredit03": "SelecTree. \"Washingtonia robusta Photo Record.\" 1995-2012. Jul 8, 2014.",
     "PhotoCredit04": "SelecTree. \"Washingtonia robusta Photo Record.\" 1995-2012. Jul 8, 2014."
-}, {
+  },
+  {
     "OBJECTID": 287,
     "Latin_Name": "Wyethia angustifolia",
     "Common_Name": "Narrowleaf Mule Ears",
@@ -8034,7 +8321,8 @@
     "PhotoCredit02": "�2011 Hattie Brown",
     "PhotoCredit03": "� Br. Alfred Brousseau, Saint Mary's College",
     "PhotoCredit04": "�2009 Zoya Akulova (CC BY-NC 3.0)"
-}, {
+  },
+  {
     "OBJECTID": 288,
     "Latin_Name": "Zeltnera venusta",
     "Common_Name": "Centaury",
@@ -8062,7 +8350,8 @@
     "PhotoCredit02": "�2003 Charles E. Jones",
     "PhotoCredit03": "�2005 Charles E. Jones",
     "PhotoCredit04": "�2010 Neal Kramer"
-}, {
+  },
+  {
     "OBJECTID": 289,
     "Latin_Name": "Agrostis pallens",
     "Common_Name": "Bentgrass",
@@ -8090,7 +8379,8 @@
     "PhotoCredit02": "�2012 Vernon Smith",
     "PhotoCredit03": "�2008 Keir Morse",
     "PhotoCredit04": "�2008 Keir Morse"
-}, {
+  },
+  {
     "OBJECTID": 290,
     "Latin_Name": "Artemisia douglasiana",
     "Common_Name": "Mugwort",
@@ -8118,7 +8408,8 @@
     "PhotoCredit02": "�2008 Keir Morse",
     "PhotoCredit03": "�2008 Keir Morse",
     "PhotoCredit04": "�2014 Richard Spellenberg"
-}, {
+  },
+  {
     "OBJECTID": 291,
     "Latin_Name": "Carex barbarae",
     "Common_Name": "Santa Barbara sedge",
@@ -8146,7 +8437,8 @@
     "PhotoCredit02": "�2013 Robert Steers/NPS",
     "PhotoCredit03": "�2012 Jake Ruygt",
     "PhotoCredit04": "�2012 Jake Ruygt"
-}, {
+  },
+  {
     "OBJECTID": 292,
     "Latin_Name": "Carpenteria californica",
     "Common_Name": "Bush Anemone",
@@ -8174,7 +8466,8 @@
     "PhotoCredit02": "�2007 Julie Kierstead Nelson",
     "PhotoCredit03": "�1999 California Academy of Sciences",
     "PhotoCredit04": "�1998 Christopher L. Christie"
-}, {
+  },
+  {
     "OBJECTID": 293,
     "Latin_Name": "Cercocarpus betuloides",
     "Common_Name": "Mountain mahogany",
@@ -8202,7 +8495,8 @@
     "PhotoCredit02": "�1999 California Academy of Sciences",
     "PhotoCredit03": "�2001 Carol Mattsson",
     "PhotoCredit04": "�2002 Lynn Watson"
-}, {
+  },
+  {
     "OBJECTID": 294,
     "Latin_Name": "Clematis lasiantha",
     "Common_Name": "Pipestems; Chaparral clematis",
@@ -8230,7 +8524,8 @@
     "PhotoCredit02": "�1999 California Academy",
     "PhotoCredit03": "�2003 Lynn Watson",
     "PhotoCredit04": "�1995 Saint Mary's College of California"
-}, {
+  },
+  {
     "OBJECTID": 295,
     "Latin_Name": "Dicentra formosa",
     "Common_Name": "Pacific bleeding heart",
@@ -8258,7 +8553,8 @@
     "PhotoCredit02": "�2003 Christopher L. Christie",
     "PhotoCredit03": "�2003 Christopher L. Christie",
     "PhotoCredit04": "�1995 Saint Mary's College of California"
-}, {
+  },
+  {
     "OBJECTID": 296,
     "Latin_Name": "Equisetum hyemale",
     "Common_Name": "Scouring Rush Horsetail",
@@ -8286,7 +8582,8 @@
     "PhotoCredit02": "�2006 Louis-M. Landry",
     "PhotoCredit03": "�2008 Dr. Amadej Trnkoczy",
     "PhotoCredit04": "�2007 Louis-M. Landry"
-}, {
+  },
+  {
     "OBJECTID": 297,
     "Latin_Name": "Gaultheria shallon",
     "Common_Name": "Salal",
@@ -8314,7 +8611,8 @@
     "PhotoCredit02": "�1999 California Academy of Sciences",
     "PhotoCredit03": "�1995 Saint Mary's College of California",
     "PhotoCredit04": "�1995 Saint Mary's College of California"
-}, {
+  },
+  {
     "OBJECTID": 298,
     "Latin_Name": "Juglans hindsii",
     "Common_Name": "California black walnut",
@@ -8342,7 +8640,8 @@
     "PhotoCredit02": "�2011 Vernon Smith",
     "PhotoCredit03": "�2015 Susan McDougall",
     "PhotoCredit04": "�2015 Susan McDougall"
-}, {
+  },
+  {
     "OBJECTID": 299,
     "Latin_Name": "Juncus patens",
     "Common_Name": "Spreading rush",
@@ -8370,7 +8669,8 @@
     "PhotoCredit02": "�2013 Robert Steers/NPS",
     "PhotoCredit03": "�2007 Neal Kramer",
     "PhotoCredit04": "�2014 Mike Wood"
-}, {
+  },
+  {
     "OBJECTID": 300,
     "Latin_Name": "Melica imperfecta",
     "Common_Name": "Coast range melic",
@@ -8398,7 +8698,8 @@
     "PhotoCredit02": "�2009 Keir Morse",
     "PhotoCredit03": "�2009 Keir Morse",
     "PhotoCredit04": "�2009 Keir Morse"
-}, {
+  },
+  {
     "OBJECTID": 301,
     "Latin_Name": "Mimulus cardinalis",
     "Common_Name": "Scarlet monkeyflower",
@@ -8426,7 +8727,8 @@
     "PhotoCredit02": "�2001 Steve Schoenig",
     "PhotoCredit03": "�2001 Steve Schoenig",
     "PhotoCredit04": "�2003 George W. Hartwell"
-}, {
+  },
+  {
     "OBJECTID": 302,
     "Latin_Name": "Mimulus guttatus",
     "Common_Name": "Creek monkeyflower",
@@ -8454,7 +8756,8 @@
     "PhotoCredit02": "�2001 George W. Hartwell",
     "PhotoCredit03": "�1995 Saint Mary's College of California",
     "PhotoCredit04": "�2005 Jim Dunn"
-}, {
+  },
+  {
     "OBJECTID": 303,
     "Latin_Name": "Oxalis oregana",
     "Common_Name": "Redwood sorrel",
@@ -8482,7 +8785,8 @@
     "PhotoCredit02": "�2001 California Academy of Sciences",
     "PhotoCredit03": "�1999 California Academy of Sciences",
     "PhotoCredit04": "�2003 James B. Gratiot"
-}, {
+  },
+  {
     "OBJECTID": 304,
     "Latin_Name": "Panicum virgatum",
     "Common_Name": "Switchgrass",
@@ -8510,7 +8814,8 @@
     "PhotoCredit02": "�2010 Louis-M. Landry",
     "PhotoCredit03": "� 2005 Brad Wold",
     "PhotoCredit04": "� 2005 Brad Wold"
-}, {
+  },
+  {
     "OBJECTID": 305,
     "Latin_Name": "Philadelphus lewisii",
     "Common_Name": "Native mock orange",
@@ -8538,7 +8843,8 @@
     "PhotoCredit02": "�2003 Christopher L. Christie",
     "PhotoCredit03": "�1995 Saint Mary's College of California",
     "PhotoCredit04": "�1995 Saint Mary's College of California"
-}, {
+  },
+  {
     "OBJECTID": 306,
     "Latin_Name": "Physocarpus capitatus",
     "Common_Name": "Pacific ninebark",
@@ -8566,7 +8872,8 @@
     "PhotoCredit02": "�1998 California Academy of Sciences",
     "PhotoCredit03": "�1999 California Academy of Sciences",
     "PhotoCredit04": "�2005 John Pelafigue"
-}, {
+  },
+  {
     "OBJECTID": 307,
     "Latin_Name": "Prosartes hookeri",
     "Common_Name": "Hooker's fairy bells",
@@ -8594,7 +8901,8 @@
     "PhotoCredit02": "�2008 Steve Matson",
     "PhotoCredit03": "�2008 Jorg Fleige",
     "PhotoCredit04": "�Margo Bors"
-}, {
+  },
+  {
     "OBJECTID": 308,
     "Latin_Name": "Quercus lobata",
     "Common_Name": "Valley oak",
@@ -8622,7 +8930,8 @@
     "PhotoCredit02": "�1995 Saint Mary's College of California",
     "PhotoCredit03": "�2002 Timothy D. Ives",
     "PhotoCredit04": "�1999 California Academy of Sciences"
-}, {
+  },
+  {
     "OBJECTID": 309,
     "Latin_Name": "Ribes menziesii",
     "Common_Name": "Canyon gooseberry",
@@ -8650,7 +8959,8 @@
     "PhotoCredit02": "�2012 Jean Pawek",
     "PhotoCredit03": "�2012 Jean Pawek",
     "PhotoCredit04": "�2013 Jean Pawek"
-}, {
+  },
+  {
     "OBJECTID": 310,
     "Latin_Name": "Ribes speciosum",
     "Common_Name": "Fuchsia-flowered gooseberry",
@@ -8678,7 +8988,8 @@
     "PhotoCredit02": "�2004 Christopher L. Christie",
     "PhotoCredit03": "�2005 Michael W. Tuma",
     "PhotoCredit04": "�2004 Christopher L. Christie"
-}, {
+  },
+  {
     "OBJECTID": 311,
     "Latin_Name": "Salix laevigata",
     "Common_Name": "Red willow",
@@ -8706,7 +9017,8 @@
     "PhotoCredit02": "�1995 Saint Mary's College of California",
     "PhotoCredit03": "�1995 Saint Mary's College of California",
     "PhotoCredit04": "�1995 Saint Mary's College of California"
-}, {
+  },
+  {
     "OBJECTID": 312,
     "Latin_Name": "Sisyrinchium californicum",
     "Common_Name": "Yellow-eyed grass",
@@ -8734,7 +9046,8 @@
     "PhotoCredit02": "�1999 California Academy of Sciences",
     "PhotoCredit03": "�2000 California Academy of Sciences",
     "PhotoCredit04": "�1995 Saint Mary's College of California"
-}, {
+  },
+  {
     "OBJECTID": 313,
     "Latin_Name": "Solanum umbelliferum",
     "Common_Name": "Nightshade",
@@ -8762,7 +9075,8 @@
     "PhotoCredit02": "�2008 Ellen Tatum",
     "PhotoCredit03": "�1995 Saint Mary's College of California",
     "PhotoCredit04": "�1995 Saint Mary's College of California"
-}, {
+  },
+  {
     "OBJECTID": 314,
     "Latin_Name": "Stipa lepida",
     "Common_Name": "Foothill needlegrass",
@@ -8790,7 +9104,8 @@
     "PhotoCredit02": "�2011 Vernon Smith",
     "PhotoCredit03": "�2009 Tom Cochrane",
     "PhotoCredit04": "�2013 Belinda Lo"
-}, {
+  },
+  {
     "OBJECTID": 315,
     "Latin_Name": "Umbellularia californica",
     "Common_Name": "California bay laurel",
@@ -8818,7 +9133,8 @@
     "PhotoCredit02": "�1999 California Academy of Sciences",
     "PhotoCredit03": "�2001 Tony Morosco",
     "PhotoCredit04": "�1999 California Academy of Sciences"
-}, {
+  },
+  {
     "OBJECTID": 316,
     "Latin_Name": "Rosmarinus officinalis",
     "Common_Name": "Rosemary",
@@ -8846,7 +9162,8 @@
     "PhotoCredit02": "�2005 Luigi Rignanese",
     "PhotoCredit03": "�2009 Neal Kramer",
     "PhotoCredit04": "�2005 Luigi Rignanese"
-}, {
+  },
+  {
     "OBJECTID": 317,
     "Latin_Name": "Arabis blepharophylla",
     "Common_Name": "Rock rose cress",
@@ -8874,7 +9191,8 @@
     "PhotoCredit02": "�1996 Margo Bors",
     "PhotoCredit03": "�2009 Larry Beckerman",
     "PhotoCredit04": "�2008 Margo Bors"
-}, {
+  },
+  {
     "OBJECTID": 318,
     "Latin_Name": "Triteleia laxa",
     "Common_Name": "Ithuriel's Spear",
@@ -8902,7 +9220,8 @@
     "PhotoCredit02": "�1995 Saint Mary's College of California",
     "PhotoCredit03": "�1999 California Academy of Sciences",
     "PhotoCredit04": "�1995 Saint Mary's College of California"
-}, {
+  },
+  {
     "OBJECTID": 319,
     "Latin_Name": "Carex tumulicola",
     "Common_Name": "Berkley sedge",
@@ -8930,7 +9249,8 @@
     "PhotoCredit02": "�2015 Aaron Arthur",
     "PhotoCredit03": "�2009 Chris Wagner",
     "PhotoCredit04": "�2003 Steve Matson"
-}, {
+  },
+  {
     "OBJECTID": 320,
     "Latin_Name": "Ceanothus gloriosus",
     "Common_Name": "Point Reyes Ceanothus",
@@ -8958,7 +9278,8 @@
     "PhotoCredit02": "�2006 Doreen L. Smith",
     "PhotoCredit03": "�2012 Aaron Arthur",
     "PhotoCredit04": "�2008 Jorg Fleige"
-}, {
+  },
+  {
     "OBJECTID": 321,
     "Latin_Name": "Cynoglossum grande",
     "Common_Name": "Hound's Tongue",
@@ -8986,7 +9307,8 @@
     "PhotoCredit02": "�1995 Saint Mary's College of California",
     "PhotoCredit03": "�2002 Lindsay Herrera",
     "PhotoCredit04": "�2002 George Jackson"
-}, {
+  },
+  {
     "OBJECTID": 322,
     "Latin_Name": "Eriogonum fasciculatum",
     "Common_Name": "California Buckwheat",
@@ -9014,7 +9336,8 @@
     "PhotoCredit02": "�2002 Lynn Watson",
     "PhotoCredit03": "�2002 Hartmut Wisch",
     "PhotoCredit04": "�2005 California Academy of Sciences"
-}, {
+  },
+  {
     "OBJECTID": 323,
     "Latin_Name": "Eriogonum giganteum",
     "Common_Name": "California Buckwheat;St. Catherine's Lace?",
@@ -9042,7 +9365,8 @@
     "PhotoCredit02": "�2003 Michael Charters",
     "PhotoCredit03": "�2009 Aaron Arthur",
     "PhotoCredit04": "�2010 Gary A. Monroe"
-}, {
+  },
+  {
     "OBJECTID": 324,
     "Latin_Name": "Eriogonum umbellatum",
     "Common_Name": "Sulphurflower buckwheat",
@@ -9070,7 +9394,8 @@
     "PhotoCredit02": "�2003 Christopher L. Christie",
     "PhotoCredit03": "�2003 Christopher L. Christie",
     "PhotoCredit04": "�2005 California Academy of Sciences"
-}, {
+  },
+  {
     "OBJECTID": 325,
     "Latin_Name": "Juncus effusus",
     "Common_Name": "Common rush",
@@ -9098,7 +9423,8 @@
     "PhotoCredit02": "�2008 Dr. Amadej Trnkoczy",
     "PhotoCredit03": "�2008 Dr. Amadej Trnkoczy",
     "PhotoCredit04": "�2007 Louis-M. Landry"
-}, {
+  },
+  {
     "OBJECTID": 326,
     "Latin_Name": "Lathyrus vestitus",
     "Common_Name": "Wild Pea",
@@ -9126,7 +9452,8 @@
     "PhotoCredit02": "�1995 Saint Mary's College of California",
     "PhotoCredit03": "�1995 Saint Mary's College of California",
     "PhotoCredit04": "�2002 Lynn Watson"
-}, {
+  },
+  {
     "OBJECTID": 327,
     "Latin_Name": "Leptosiphon grandiflorus",
     "Common_Name": "Large-flower linanthus",
@@ -9154,7 +9481,8 @@
     "PhotoCredit02": "�2009 Barry Breckling",
     "PhotoCredit03": "�1995 Saint Mary's College of California",
     "PhotoCredit04": "�2003 Doreen L. Smith"
-}, {
+  },
+  {
     "OBJECTID": 328,
     "Latin_Name": "Ribes aureum",
     "Common_Name": "Golden Currant",
@@ -9182,7 +9510,8 @@
     "PhotoCredit02": "�1987 Gary A. Monroe",
     "PhotoCredit03": "�2005 Steve Matson",
     "PhotoCredit04": "�1995 Saint Mary's College of California"
-}, {
+  },
+  {
     "OBJECTID": 329,
     "Latin_Name": "Salvia mellifera",
     "Common_Name": "Black sage",
@@ -9210,7 +9539,8 @@
     "PhotoCredit02": "�2006 Steve Matson",
     "PhotoCredit03": "�2008 Gary McDonald",
     "PhotoCredit04": "�2006 Steve Matson"
-}, {
+  },
+  {
     "OBJECTID": 330,
     "Latin_Name": "Silene laciniata",
     "Common_Name": "California Indian Pink",
@@ -9238,7 +9568,8 @@
     "PhotoCredit02": "�1995 Saint Mary's College of California",
     "PhotoCredit03": "�2006 Matt Below",
     "PhotoCredit04": "�2001 California Academy of Sciences"
-}, {
+  },
+  {
     "OBJECTID": 331,
     "Latin_Name": "Lonicera hispidula",
     "Common_Name": "California Honeysuckle",
@@ -9266,4 +9597,5 @@
     "PhotoCredit02": "�2005 California Academy of Sciences",
     "PhotoCredit03": "�2006 Matt Below",
     "PhotoCredit04": "�2005 Jerry Murray"
-}]
+  }
+]

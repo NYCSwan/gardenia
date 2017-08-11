@@ -5,6 +5,7 @@ body {
 }
 
 #app-container {
+  border: 1px solid black;
 }
 
 .nav-bar {
